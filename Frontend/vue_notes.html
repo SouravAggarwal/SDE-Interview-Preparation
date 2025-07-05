@@ -1,0 +1,21 @@
+1. Mounting
+  createApp(App).mount('#app') // Mounts the App component to the HTML element with id "app". So, all the App component's template will be rendered inside the element with id "app".
+
+2. Script setup
+    <script setup> // No need to return {} — all top-level variables are usable in template. Also, No need for export default, setup(), or return
+
+        import { ref } from 'vue';
+        
+        const count = ref(0); // 	•	ref() is a reactive primitive from Vue’s Composition API.
+        const increment = () => count.value++; // Funciton to increment count
+    </script>
+
+3. Scoped styles
+    <style scoped>
+        /* Scoped styles only apply to the component in the same file*/
+        h1 {
+            color: blue;
+        }
+    </style>
+
+4. Template
