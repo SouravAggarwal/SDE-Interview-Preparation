@@ -1,0 +1,26 @@
+
+### Model Reproduction Instructions
+
+#### Data Cleaning and Transformation:
+- Missing values in the dataset were handled by filling in zeros.
+- The `month` feature was inferred from the `week` and `fiscal_year` values when missing.
+- One-hot encoding was used for categorical features such as `store` and `product_category`.
+
+#### Feature List and Data Types:
+- The features used for training include: fiscal year, month, week, temperature, precipitation, marketing spend, store, promotion, holiday, natural disaster, product category, planned avg selling price, fiscal quarter, unemployment %, core PCE YoY %, Fed Funds %, 30yr Mortgage %, median US home sale price, real disposable personal income, avg US gas prices, WTI crude oil spot, promotion discount, housing starts, U of M consumer sentiment.
+
+#### Hyperparameters:
+- Final model: Random Forest Regressor
+- Number of trees (n_estimators): 300
+- Maximum depth of trees (max_depth): 3
+- Random state: 42 for reproducibility
+
+#### Training Methodology:
+- The model was trained on data from 2020 to 2024.
+- Loss function: Mean Squared Error (MSE)
+- Model was validated using 2024 data.
+
+#### Model-Specific Instructions:
+- Scikit-learn (version: 0.24.2) was used for training the Random Forest model.
+- Other required libraries: Pandas, NumPy, Matplotlib (for visualizations).
+

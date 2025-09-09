@@ -1,0 +1,5 @@
+Week XX Sales Summary
+Store Sales: Total $X.XX during XX week, $X.XX generated from store XX, $X.XX generated from store XX
+Top Categories and Products: Top Performing category is XX and top performing product is XX.
+Inventory Levels: inventory for store XX is XX%, inventory for store XX is XX%.
+Action Items: Suggest actionable recommendations based on sales and inventory data.

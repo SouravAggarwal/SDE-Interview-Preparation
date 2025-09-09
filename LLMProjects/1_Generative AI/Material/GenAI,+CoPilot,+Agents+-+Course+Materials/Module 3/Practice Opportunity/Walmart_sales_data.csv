@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Store_Location,Department,Product_Name,Quantity_Sold,Unit_Price,Total_Sales,Discount_Percentage,Discounted_Sales,Customer_Segment,Inventory_Level,Restock_Days
+WLMRT-00001,12/15/2023,"Phoenix, AZ",Paint,Primers,8,303.34,2426.72,0,2426.72,Renovation Enthusiast,224,17
+WLMRT-00002,4/10/2023,"Seattle, WA",Building Materials,Cement,3,20.09,60.27,5,57.26,Professional Contractor,423,44
+WLMRT-00003,10/4/2023,"Atlanta, GA",Appliances,Dishwashers,6,13.46,80.76,0,80.76,DIY Homeowner,68,34
+WLMRT-00004,9/28/2023,"New York, NY",Flooring,Laminate,3,197.41,592.23,0,592.23,Property Manager,140,43
+WLMRT-00005,1/21/2023,"Atlanta, GA",Building Materials,Insulation,2,474.95,949.9,0,949.9,Property Manager,274,32
+WLMRT-00006,12/6/2023,"Houston, TX",Garden Center,Outdoor Furniture,7,308.9,2162.3,0,2162.3,Property Manager,215,23
+WLMRT-00007,12/26/2023,"Houston, TX",Flooring,Laminate,6,111.89,671.34,0,671.34,,200,24
+WLMRT-00008,6/11/2023,"Chicago, IL",Appliances,Washers,4,302.97,1211.88,0,1211.88,Property Manager,471,29
+WLMRT-00009,7/9/2023,"Seattle, WA",Flooring,Hardwood,2,274.45,548.9,0,548.9,Property Manager,261,35
+WLMRT-00010,3/6/2023,"Atlanta, GA",Paint,Primers,9,388.4,3495.6,0,3495.6,Property Manager,72,17
+WLMRT-00011,6/12/2023,"Dallas, TX",Building Materials,Lumber,5,463.89,2319.45,0,2319.45,Professional Contractor,144,15
+WLMRT-00012,2/2/2023,"Seattle, WA",Plumbing,Shower Systems,7,337.73,2364.11,5,2245.9,DIY Homeowner,369,28
+WLMRT-00013,8/15/2023,"Los Angeles, CA",Building Materials,Insulation,3,382.78,1148.34,0,1148.34,Professional Contractor,407,33
+WLMRT-00014,1/15/2023,"Chicago, IL",Home Improvement,Hand Tools,3,25.4,76.2,0,76.2,Renovation Enthusiast,105,10
+WLMRT-00015,8/19/2023,"Los Angeles, CA",Lighting,Bulbs,4,472,1888,0,1888,Renovation Enthusiast,95,34
+WLMRT-00016,2/14/2023,"New York, NY",Appliances,Refrigerators,5,437.02,2185.1,0,2185.1,Property Manager,349,36
+WLMRT-00017,5/8/2023,"Chicago, IL",Lighting,Bulbs,9,165.82,1492.38,0,1492.38,DIY Homeowner,292,19
+WLMRT-00018,12/25/2023,"New York, NY",Home Improvement,Workbenches,9,,2228.13,0,2228.13,DIY Homeowner,181,30
+WLMRT-00019,6/9/2023,"Seattle, WA",Paint,Paint Supplies,9,207.88,1870.92,20,1496.74,Professional Contractor,61,18
+WLMRT-00020,4/23/2023,"Los Angeles, CA",Lighting,Ceiling Fans,8,28.07,224.56,20,179.65,DIY Homeowner,229,29
+WLMRT-00021,8/13/2023,"Atlanta, GA",Garden Center,Outdoor Furniture,2,270.16,540.32,20,432.26,Professional Contractor,425,10
+WLMRT-00022,7/3/2023,"Dallas, TX",Paint,Interior Paint,6,190.21,1141.26,20,913.01,Property Manager,479,17
+WLMRT-00023,5/24/2023,"Atlanta, GA",Paint,Interior Paint,6,350.95,2105.7,0,2105.7,Renovation Enthusiast,452,42
+WLMRT-00024,5/27/2023,"Houston, TX",Building Materials,Cement,7,95.44,668.08,0,668.08,DIY Homeowner,48,24
+WLMRT-00025,9/24/2023,"Houston, TX",Plumbing,Pipes,9,112.45,1012.05,10,910.84,Renovation Enthusiast,108,13
+WLMRT-00026,12/12/2023,"Seattle, WA",Flooring,Hardwood,4,269.53,1078.12,20,862.5,Professional Contractor,263,18
+WLMRT-00027,6/9/2023,"Dallas, TX",Garden Center,Outdoor Furniture,9,146.65,1319.85,5,1253.86,Renovation Enthusiast,140,26
+WLMRT-00028,4/30/2023,"Atlanta, GA",Plumbing,Toilets,4,51.23,204.92,5,194.67,Property Manager,113,26
+WLMRT-00029,4/22/2023,"New York, NY",Lighting,Ceiling Fans,3,487.1,1461.3,0,1461.3,Professional Contractor,347,8
+WLMRT-00030,7/27/2023,"Los Angeles, CA",Lighting,Ceiling Fans,4,358.97,1435.88,0,1435.88,DIY Homeowner,313,26
+WLMRT-00031,5/15/2023,"Dallas, TX",Plumbing,Pipes,1,275.84,275.84,0,275.84,Renovation Enthusiast,384,28
+WLMRT-00032,2/7/2023,"New York, NY",Lighting,Ceiling Fans,3,447.1,1341.3,0,1341.3,Renovation Enthusiast,286,36
+WLMRT-00033,11/13/2023,"Seattle, WA",Home Improvement,Tool Sets,4,21.91,87.64,0,87.64,DIY Homeowner,181,34
+WLMRT-00034,2/15/2023,"Los Angeles, CA",Lighting,Light Fixtures,3,376.38,1129.14,15,959.77,DIY Homeowner,311,37
+WLMRT-00035,4/26/2023,"Phoenix, AZ",Building Materials,Lumber,5,103.55,517.75,0,517.75,DIY Homeowner,137,24
+WLMRT-00036,8/11/2023,"New York, NY",Home Improvement,Hand Tools,3,289.33,867.99,0,867.99,Property Manager,440,28
+WLMRT-00037,5/7/2023,"Dallas, TX",Paint,Exterior Paint,2,168.05,336.1,5,319.3,Property Manager,308,35
+WLMRT-00038,1/26/2023,"Dallas, TX",Appliances,Washers,9,309.64,2786.76,0,2786.76,Property Manager,322,42
+WLMRT-00039,11/17/2023,"Seattle, WA",Garden Center,Landscaping Supplies,3,175.62,526.86,0,526.86,Property Manager,297,29
+WLMRT-00040,2/20/2023,"Atlanta, GA",Paint,Exterior Paint,6,299.51,1797.06,0,1797.06,Professional Contractor,179,12
+WLMRT-00041,4/11/2023,"Atlanta, GA",Paint,Paint Supplies,5,143.06,715.3,5,679.54,Property Manager,205,12
+WLMRT-00042,12/16/2023,"Phoenix, AZ",Garden Center,Outdoor Furniture,7,77.79,544.53,20,435.62,Property Manager,133,36
+WLMRT-00043,4/30/2023,"Phoenix, AZ",Building Materials,Insulation,7,132.92,930.44,20,744.35,Professional Contractor,288,15
+WLMRT-00044,5/9/2023,"Chicago, IL",Flooring,Laminate,1,226.75,226.75,0,226.75,Property Manager,57,31
+WLMRT-00045,9/29/2023,"Los Angeles, CA",Plumbing,Shower Systems,5,309.74,1548.7,0,1548.7,Renovation Enthusiast,163,22
+WLMRT-00046,3/27/2023,"Atlanta, GA",Building Materials,Lumber,5,56.14,280.7,10,252.63,Professional Contractor,462,18
+WLMRT-00047,12/7/2023,"Phoenix, AZ",Plumbing,Toilets,1,237.69,237.69,0,237.69,DIY Homeowner,19,11
+WLMRT-00048,6/29/2023,"Phoenix, AZ",Flooring,Laminate,3,256.54,769.62,0,769.62,DIY Homeowner,13,22
+WLMRT-00049,9/4/2023,"Chicago, IL",Plumbing,Pipes,4,291.98,1167.92,0,1167.92,Professional Contractor,42,39
+WLMRT-00050,4/11/2023,"Houston, TX",Garden Center,Outdoor Furniture,1,480.98,480.98,0,480.98,Professional Contractor,294,19
+WLMRT-00051,10/29/2023,"Chicago, IL",Flooring,Hardwood,3,312.94,938.82,0,938.82,Renovation Enthusiast,273,35
+WLMRT-00052,3/31/2023,"New York, NY",Appliances,Washers,3,148.11,444.33,5,422.11,Property Manager,123,17
+WLMRT-00053,8/5/2023,"Los Angeles, CA",Garden Center,Plants,9,278.51,2506.59,5,2381.26,DIY Homeowner,201,41
+WLMRT-00054,2/5/2023,"Chicago, IL",Home Improvement,Power Tools,7,294.47,2061.29,15,1752.1,Renovation Enthusiast,46,18
+WLMRT-00055,1/13/2023,"Phoenix, AZ",Home Improvement,Power Tools,3,60.53,181.59,0,181.59,DIY Homeowner,93,31
+WLMRT-00056,7/6/2023,"Dallas, TX",Lighting,Ceiling Fans,4,15.31,61.24,10,55.12,DIY Homeowner,274,13
+WLMRT-00057,8/11/2023,"Seattle, WA",Flooring,Carpet,3,251.58,754.74,0,754.74,Property Manager,108,18
+WLMRT-00058,2/22/2023,"Phoenix, AZ",Home Improvement,Workbenches,9,65.6,590.4,0,590.4,DIY Homeowner,432,20
+WLMRT-00059,5/13/2023,"Dallas, TX",Paint,Primers,2,484.64,969.28,5,920.82,DIY Homeowner,410,44
+WLMRT-00060,5/21/2023,"Seattle, WA",Paint,Exterior Paint,9,412.71,3714.39,0,3714.39,Professional Contractor,38,43
+WLMRT-00061,5/16/2023,"Seattle, WA",Lighting,Ceiling Fans,1,441.38,441.38,15,375.17,DIY Homeowner,226,10
+WLMRT-00062,9/9/2023,"Phoenix, AZ",Flooring,Tile,6,355.49,2132.94,15,1813,Professional Contractor,48,9
+WLMRT-00063,8/30/2023,"Houston, TX",Garden Center,Gardening Tools,4,68.22,272.88,10,245.59,DIY Homeowner,432,7
+WLMRT-00064,12/14/2023,"New York, NY",Building Materials,Lumber,1,50.62,50.62,0,50.62,DIY Homeowner,143,38
+WLMRT-00065,10/30/2023,"Los Angeles, CA",Garden Center,Landscaping Supplies,6,463.08,2778.48,0,2778.48,Property Manager,236,25
+WLMRT-00066,2/16/2023,"Atlanta, GA",Flooring,Hardwood,1,317.5,317.5,0,317.5,Professional Contractor,480,17
+WLMRT-00067,8/12/2023,"Seattle, WA",Flooring,Carpet,6,233.27,1399.62,0,1399.62,Property Manager,131,34
+WLMRT-00068,5/16/2023,"Chicago, IL",Flooring,Carpet,2,140.31,280.62,20,224.5,DIY Homeowner,201,33
+WLMRT-00069,5/25/2023,"Atlanta, GA",Lighting,Ceiling Fans,5,408.76,2043.8,0,2043.8,Property Manager,406,41
+WLMRT-00070,3/23/2023,"Dallas, TX",Garden Center,Landscaping Supplies,5,310.57,1552.85,0,1552.85,Professional Contractor,295,11
+WLMRT-00071,10/16/2023,"New York, NY",Paint,Interior Paint,2,493.77,987.54,0,987.54,DIY Homeowner,291,31
+WLMRT-00072,10/10/2023,"Atlanta, GA",Lighting,Ceiling Fans,1,239.66,239.66,0,239.66,Renovation Enthusiast,414,12
+WLMRT-00073,7/16/2023,"Phoenix, AZ",Flooring,Hardwood,6,457.45,2744.7,5,2607.46,Renovation Enthusiast,174,16
+WLMRT-00074,5/25/2023,"Los Angeles, CA",Appliances,Washers,9,73.29,659.61,0,659.61,Renovation Enthusiast,269,7
+WLMRT-00075,10/15/2023,"Chicago, IL",Home Improvement,Workbenches,8,20.87,166.96,0,166.96,Professional Contractor,127,9
+WLMRT-00076,9/25/2023,"Atlanta, GA",Building Materials,Drywall,5,53.32,266.6,0,266.6,Renovation Enthusiast,121,29
+WLMRT-00077,12/7/2023,"New York, NY",Paint,Exterior Paint,3,452.54,1357.62,0,1357.62,Property Manager,303,40
+WLMRT-00078,12/1/2023,"Dallas, TX",Appliances,Dryers,2,180.65,361.3,0,361.3,Professional Contractor,344,36
+WLMRT-00079,2/20/2023,"Atlanta, GA",Paint,Interior Paint,4,235.08,940.32,0,940.32,DIY Homeowner,349,30
+WLMRT-00080,9/19/2023,"Los Angeles, CA",Garden Center,Gardening Tools,3,273.26,819.78,0,819.78,Renovation Enthusiast,104,17
+WLMRT-00081,1/8/2023,"Houston, TX",Lighting,Outdoor Lighting,4,179.38,717.52,10,645.77,Renovation Enthusiast,164,35
+WLMRT-00082,3/2/2023,"Chicago, IL",Plumbing,Shower Systems,3,412.68,1238.04,0,1238.04,Professional Contractor,326,28
+WLMRT-00083,1/1/2023,"Los Angeles, CA",Garden Center,Plants,2,73.09,146.18,5,138.87,Professional Contractor,82,32
+WLMRT-00084,5/1/2023,"New York, NY",Home Improvement,Tool Sets,8,438.05,3504.4,0,3504.4,Renovation Enthusiast,346,32
+WLMRT-00085,1/8/2023,"Atlanta, GA",Flooring,Tile,4,112.58,450.32,15,382.77,Renovation Enthusiast,23,32
+WLMRT-00086,3/19/2023,"Seattle, WA",Flooring,Laminate,8,75.23,601.84,10,541.66,Renovation Enthusiast,247,24
+WLMRT-00087,8/15/2023,"Dallas, TX",Appliances,Dryers,9,371.33,3341.97,0,3341.97,Property Manager,450,23
+WLMRT-00088,5/6/2023,"Houston, TX",Paint,Interior Paint,1,178.03,178.03,5,169.13,DIY Homeowner,76,24
+WLMRT-00089,4/21/2023,"New York, NY",Paint,Exterior Paint,8,297.4,2379.2,0,2379.2,Property Manager,434,43
+WLMRT-00090,10/9/2023,"Seattle, WA",Lighting,Light Fixtures,8,254.14,2033.12,5,1931.46,Professional Contractor,298,28
+WLMRT-00091,3/11/2023,"Phoenix, AZ",Garden Center,Landscaping Supplies,4,426.9,1707.6,0,1707.6,Professional Contractor,104,30
+WLMRT-00092,9/4/2023,"Dallas, TX",Paint,Primers,8,351.51,2812.08,0,2812.08,Property Manager,331,26
+WLMRT-00093,1/4/2023,"Phoenix, AZ",Flooring,Laminate,6,136.37,818.22,5,777.31,Property Manager,71,8
+WLMRT-00094,1/26/2023,"Dallas, TX",Paint,Interior Paint,5,101.65,508.25,5,482.84,Professional Contractor,221,39
+WLMRT-00095,5/20/2023,"Phoenix, AZ",Flooring,Hardwood,6,294.81,1768.86,15,1503.53,Renovation Enthusiast,342,9
+WLMRT-00096,6/27/2023,"Seattle, WA",Home Improvement,Hand Tools,5,41.05,205.25,0,205.25,Property Manager,177,8
+WLMRT-00097,11/15/2023,"Los Angeles, CA",Flooring,Hardwood,1,67.18,67.18,0,67.18,Renovation Enthusiast,428,36
+WLMRT-00098,3/10/2023,"New York, NY",Paint,Paint Supplies,2,70.91,141.82,20,113.46,Property Manager,427,18
+WLMRT-00099,1/1/2023,"Seattle, WA",Building Materials,Cement,6,33.57,201.42,0,201.42,DIY Homeowner,370,43
+WLMRT-00100,10/13/2023,"Dallas, TX",Lighting,Ceiling Fans,5,409.14,2045.7,5,1943.42,Renovation Enthusiast,71,10
+WLMRT-00101,2/11/2023,"Atlanta, GA",Home Improvement,Hand Tools,8,231.45,1851.6,0,1851.6,Property Manager,188,44
+WLMRT-00102,3/4/2023,"Phoenix, AZ",Home Improvement,Power Tools,9,184.13,1657.17,0,1657.17,Renovation Enthusiast,471,12
+WLMRT-00103,6/28/2023,"Seattle, WA",Lighting,Light Fixtures,4,399.07,1596.28,0,1596.28,DIY Homeowner,487,33
+WLMRT-00104,2/7/2023,"Atlanta, GA",Flooring,Hardwood,5,391.5,1957.5,0,1957.5,DIY Homeowner,95,8
+WLMRT-00105,5/3/2023,"Chicago, IL",Appliances,Refrigerators,6,412.42,2474.52,0,2474.52,Renovation Enthusiast,374,30
+WLMRT-00106,1/15/2023,"Los Angeles, CA",Flooring,Carpet,5,248.32,1241.6,5,1179.52,Property Manager,139,33
+WLMRT-00107,8/31/2023,"Houston, TX",Paint,Paint Supplies,5,415.13,2075.65,15,1764.3,Professional Contractor,47,12
+WLMRT-00108,10/30/2023,"Chicago, IL",Plumbing,Faucets,8,257.89,2063.12,0,2063.12,DIY Homeowner,113,18
+WLMRT-00109,11/20/2023,"Los Angeles, CA",Flooring,Carpet,5,356.55,1782.75,5,1693.61,Professional Contractor,296,15
+WLMRT-00110,1/29/2023,"New York, NY",Lighting,Outdoor Lighting,9,463.53,4171.77,0,4171.77,Renovation Enthusiast,110,27
+WLMRT-00111,7/1/2023,"Phoenix, AZ",Appliances,Refrigerators,1,436.25,436.25,0,436.25,Renovation Enthusiast,408,27
+WLMRT-00112,11/5/2023,"Atlanta, GA",Paint,Exterior Paint,4,396.02,1584.08,0,1584.08,Professional Contractor,72,31
+WLMRT-00113,10/21/2023,"Chicago, IL",Appliances,Dryers,2,245.61,491.22,0,491.22,Renovation Enthusiast,436,30
+WLMRT-00114,6/29/2023,"New York, NY",Home Improvement,Power Tools,8,162.62,1300.96,0,1300.96,DIY Homeowner,159,32
+WLMRT-00115,2/18/2023,"Phoenix, AZ",Flooring,Hardwood,4,234.9,939.6,0,939.6,Property Manager,485,13
+WLMRT-00116,5/21/2023,"New York, NY",Home Improvement,Tool Sets,3,112.85,338.55,0,338.55,Renovation Enthusiast,167,35
+WLMRT-00117,10/13/2023,"Seattle, WA",Home Improvement,Workbenches,3,42.2,126.6,5,120.27,Professional Contractor,203,34
+WLMRT-00118,8/10/2023,"New York, NY",Home Improvement,Tool Sets,4,99.14,396.56,0,396.56,DIY Homeowner,140,38
+WLMRT-00119,6/11/2023,"Houston, TX",Appliances,Refrigerators,7,489.68,3427.76,5,3256.37,Property Manager,358,14
+WLMRT-00120,9/4/2023,"Dallas, TX",Home Improvement,Workbenches,7,339.23,2374.61,0,2374.61,DIY Homeowner,258,43
+WLMRT-00121,4/7/2023,"Houston, TX",Building Materials,Insulation,8,58.73,469.84,20,375.87,Property Manager,297,22
+WLMRT-00122,6/14/2023,"New York, NY",Flooring,Hardwood,7,449.2,3144.4,5,2987.18,Renovation Enthusiast,170,29
+WLMRT-00123,4/22/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,4,325.03,1300.12,10,1170.11,Professional Contractor,312,11
+WLMRT-00124,8/22/2023,"Phoenix, AZ",Flooring,Laminate,3,299.24,897.72,10,807.95,Property Manager,302,44
+WLMRT-00125,8/14/2023,"Los Angeles, CA",Plumbing,Toilets,3,474.74,1424.22,5,1353.01,Professional Contractor,90,16
+WLMRT-00126,2/28/2023,"New York, NY",Lighting,Bulbs,1,247.54,247.54,0,247.54,DIY Homeowner,49,8
+WLMRT-00127,12/25/2023,"Atlanta, GA",Garden Center,Gardening Tools,6,419.12,2514.72,0,2514.72,Property Manager,38,40
+WLMRT-00128,3/16/2023,"New York, NY",Paint,Exterior Paint,5,409.38,2046.9,0,2046.9,DIY Homeowner,26,43
+WLMRT-00129,3/17/2023,"Phoenix, AZ",Home Improvement,Power Tools,6,77.07,462.42,0,462.42,DIY Homeowner,228,40
+WLMRT-00130,11/5/2023,"Phoenix, AZ",Flooring,Laminate,1,215.2,215.2,5,204.44,Property Manager,55,8
+WLMRT-00131,12/29/2023,"Atlanta, GA",Flooring,Tile,5,305.54,1527.7,0,1527.7,Professional Contractor,276,17
+WLMRT-00132,4/23/2023,"Dallas, TX",Plumbing,Shower Systems,8,287.54,2300.32,0,2300.32,Professional Contractor,161,28
+WLMRT-00133,10/16/2023,"Chicago, IL",Garden Center,Landscaping Supplies,4,89.39,357.56,0,357.56,Property Manager,455,40
+WLMRT-00134,3/14/2023,"Atlanta, GA",Home Improvement,Workbenches,1,212.27,212.27,5,201.66,DIY Homeowner,51,31
+WLMRT-00135,5/11/2023,"Chicago, IL",Paint,Interior Paint,3,143.35,430.05,0,430.05,Professional Contractor,110,23
+WLMRT-00136,11/7/2023,"Atlanta, GA",Appliances,Dryers,8,381.61,3052.88,10,2747.59,Renovation Enthusiast,224,43
+WLMRT-00137,7/17/2023,"Seattle, WA",Lighting,Ceiling Fans,2,249.82,499.64,5,474.66,Renovation Enthusiast,498,32
+WLMRT-00138,9/23/2023,"Seattle, WA",Paint,Primers,1,98.48,98.48,0,98.48,DIY Homeowner,400,20
+WLMRT-00139,1/7/2023,"Atlanta, GA",Paint,Primers,8,485.82,3886.56,5,3692.23,Renovation Enthusiast,232,36
+WLMRT-00140,4/13/2023,"Atlanta, GA",Flooring,Laminate,8,122.7,981.6,0,981.6,Property Manager,140,43
+WLMRT-00141,7/2/2023,"Phoenix, AZ",Building Materials,Cement,7,164.49,1151.43,0,1151.43,DIY Homeowner,479,31
+WLMRT-00142,6/10/2023,"Seattle, WA",Garden Center,Plants,2,21.96,43.92,20,35.14,Professional Contractor,260,19
+WLMRT-00143,4/6/2023,"Dallas, TX",Garden Center,Outdoor Furniture,7,14.65,102.55,5,97.42,DIY Homeowner,486,22
+WLMRT-00144,8/27/2023,"Atlanta, GA",Plumbing,Faucets,9,174.82,1573.38,5,1494.71,Property Manager,487,9
+WLMRT-00145,6/7/2023,"Chicago, IL",Garden Center,Landscaping Supplies,2,124.47,248.94,0,248.94,DIY Homeowner,446,21
+WLMRT-00146,11/1/2023,"Atlanta, GA",Home Improvement,Workbenches,4,116.94,467.76,5,444.37,Professional Contractor,494,12
+WLMRT-00147,11/15/2023,"New York, NY",Paint,Paint Supplies,2,91.85,183.7,0,183.7,Property Manager,81,26
+WLMRT-00148,11/6/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,2,198.2,396.4,0,396.4,DIY Homeowner,268,12
+WLMRT-00149,2/23/2023,"Phoenix, AZ",Garden Center,Outdoor Furniture,1,263.95,263.95,20,211.16,Property Manager,70,41
+WLMRT-00150,3/3/2023,"Atlanta, GA",Appliances,Dishwashers,3,409.76,1229.28,5,1167.82,Professional Contractor,390,31
+WLMRT-00151,12/23/2023,"Chicago, IL",Home Improvement,Tool Sets,9,201.67,1815.03,0,1815.03,Renovation Enthusiast,146,9
+WLMRT-00152,11/28/2023,"Chicago, IL",Home Improvement,Power Tools,8,466.48,3731.84,0,3731.84,Renovation Enthusiast,481,21
+WLMRT-00153,9/8/2023,"Los Angeles, CA",Lighting,Outdoor Lighting,2,49.71,99.42,0,99.42,Property Manager,293,11
+WLMRT-00154,4/24/2023,"Seattle, WA",Garden Center,Plants,3,414.09,1242.27,5,1180.16,Property Manager,49,33
+WLMRT-00155,10/16/2023,"New York, NY",Garden Center,Landscaping Supplies,3,435.4,1306.2,10,1175.58,Property Manager,68,19
+WLMRT-00156,12/11/2023,"Los Angeles, CA",Building Materials,Drywall,4,313.12,1252.48,0,1252.48,Professional Contractor,142,37
+WLMRT-00157,6/9/2023,"Dallas, TX",Paint,Interior Paint,7,88.77,621.39,0,621.39,Property Manager,86,35
+WLMRT-00158,8/12/2023,"Los Angeles, CA",Flooring,Laminate,1,284.32,284.32,0,284.32,Property Manager,197,30
+WLMRT-00159,11/22/2023,"Dallas, TX",Garden Center,Gardening Tools,7,275.22,1926.54,10,1733.89,Property Manager,421,21
+WLMRT-00160,10/5/2023,"Houston, TX",Lighting,Outdoor Lighting,4,43.24,172.96,0,172.96,Renovation Enthusiast,21,28
+WLMRT-00161,7/12/2023,"New York, NY",Home Improvement,Hand Tools,8,32.41,259.28,20,207.42,Professional Contractor,184,35
+WLMRT-00162,9/8/2023,"Dallas, TX",Flooring,Carpet,7,42.16,295.12,0,295.12,DIY Homeowner,88,38
+WLMRT-00163,2/27/2023,"Phoenix, AZ",Building Materials,Drywall,2,144.08,288.16,15,244.94,DIY Homeowner,108,19
+WLMRT-00164,9/28/2023,"Phoenix, AZ",Home Improvement,Power Tools,4,421.57,1686.28,5,1601.97,Renovation Enthusiast,31,17
+WLMRT-00165,12/3/2023,"New York, NY",Building Materials,Cement,8,221.84,1774.72,15,1508.51,DIY Homeowner,366,26
+WLMRT-00166,9/14/2023,"Chicago, IL",Lighting,Outdoor Lighting,6,122.68,736.08,0,736.08,DIY Homeowner,290,30
+WLMRT-00167,9/28/2023,"Houston, TX",Flooring,Carpet,8,88.03,704.24,10,633.82,DIY Homeowner,318,14
+WLMRT-00168,6/23/2023,"Chicago, IL",Paint,Paint Supplies,7,316.85,2217.95,0,2217.95,Property Manager,33,9
+WLMRT-00169,1/15/2023,"Atlanta, GA",Flooring,Laminate,7,71.34,499.38,0,499.38,Property Manager,18,44
+WLMRT-00170,11/15/2023,"New York, NY",Plumbing,Faucets,5,141.81,709.05,0,709.05,Property Manager,73,19
+WLMRT-00171,10/4/2023,"Chicago, IL",Home Improvement,Hand Tools,2,245.17,490.34,5,465.82,Renovation Enthusiast,20,31
+WLMRT-00172,4/12/2023,"Atlanta, GA",Home Improvement,Workbenches,6,377.09,2262.54,0,2262.54,DIY Homeowner,386,38
+WLMRT-00173,11/6/2023,"New York, NY",Paint,Paint Supplies,4,179.55,718.2,0,718.2,Property Manager,362,8
+WLMRT-00174,8/21/2023,"Los Angeles, CA",Home Improvement,Hand Tools,1,414.01,414.01,0,414.01,Professional Contractor,203,44
+WLMRT-00175,6/23/2023,"Chicago, IL",Paint,Exterior Paint,2,30.18,60.36,0,60.36,Property Manager,468,9
+WLMRT-00176,1/9/2023,"New York, NY",Building Materials,Lumber,7,310.34,2172.38,5,2063.76,DIY Homeowner,273,14
+WLMRT-00177,11/14/2023,"Houston, TX",Appliances,Washers,7,333.8,2336.6,0,2336.6,Property Manager,323,28
+WLMRT-00178,1/3/2023,"Phoenix, AZ",Appliances,Refrigerators,2,39.57,79.14,5,75.18,Renovation Enthusiast,34,25
+WLMRT-00179,12/22/2023,"Los Angeles, CA",Paint,Paint Supplies,7,222.49,1557.43,0,1557.43,Property Manager,91,12
+WLMRT-00180,5/30/2023,"Los Angeles, CA",Appliances,Dishwashers,8,487.65,3901.2,0,3901.2,Renovation Enthusiast,252,41
+WLMRT-00181,7/26/2023,"Atlanta, GA",Garden Center,Outdoor Furniture,1,435.45,435.45,0,435.45,Renovation Enthusiast,33,26
+WLMRT-00182,8/8/2023,"Houston, TX",Garden Center,Gardening Tools,4,257.37,1029.48,10,926.53,Professional Contractor,105,42
+WLMRT-00183,12/20/2023,"Seattle, WA",Appliances,Dishwashers,2,302.88,605.76,0,605.76,Property Manager,435,18
+WLMRT-00184,1/18/2023,"Seattle, WA",Building Materials,Lumber,1,74.47,74.47,0,74.47,Property Manager,487,29
+WLMRT-00185,1/14/2023,"New York, NY",Appliances,Washers,7,212.39,1486.73,0,1486.73,Professional Contractor,327,20
+WLMRT-00186,3/25/2023,"Chicago, IL",Plumbing,Shower Systems,6,329.54,1977.24,20,1581.79,DIY Homeowner,75,41
+WLMRT-00187,6/13/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,3,226.59,679.77,0,679.77,Property Manager,275,18
+WLMRT-00188,9/14/2023,"Los Angeles, CA",Lighting,Outdoor Lighting,8,312.4,2499.2,0,2499.2,DIY Homeowner,383,26
+WLMRT-00189,4/17/2023,"Los Angeles, CA",Flooring,Tile,5,271.42,1357.1,10,1221.39,DIY Homeowner,53,34
+WLMRT-00190,4/18/2023,"Dallas, TX",Paint,Interior Paint,4,142.18,568.72,0,568.72,Professional Contractor,302,26
+WLMRT-00191,1/1/2023,"Phoenix, AZ",Appliances,Dryers,6,98.21,589.26,0,589.26,Renovation Enthusiast,188,20
+WLMRT-00192,10/3/2023,"Los Angeles, CA",Flooring,Laminate,8,346.12,2768.96,20,2215.17,Professional Contractor,315,35
+WLMRT-00193,8/11/2023,"Seattle, WA",Home Improvement,Tool Sets,2,177.9,355.8,0,355.8,Professional Contractor,393,22
+WLMRT-00194,1/8/2023,"Chicago, IL",Appliances,Refrigerators,1,368.11,368.11,0,368.11,DIY Homeowner,14,28
+WLMRT-00195,7/12/2023,"Phoenix, AZ",Paint,Primers,2,129.63,259.26,10,233.33,Professional Contractor,241,18
+WLMRT-00196,12/11/2023,"New York, NY",Building Materials,Cement,1,304.3,304.3,5,289.08,Renovation Enthusiast,62,11
+WLMRT-00197,8/8/2023,"Chicago, IL",Home Improvement,Hand Tools,6,165.87,995.22,0,995.22,DIY Homeowner,185,19
+WLMRT-00198,3/18/2023,"Phoenix, AZ",Home Improvement,Power Tools,4,328.75,1315,0,1315,Professional Contractor,111,25
+WLMRT-00199,3/23/2023,"Los Angeles, CA",Lighting,Ceiling Fans,7,223.44,1564.08,0,1564.08,Renovation Enthusiast,319,13
+WLMRT-00200,5/23/2023,"Atlanta, GA",Home Improvement,Workbenches,7,286.09,2002.63,0,2002.63,Renovation Enthusiast,482,39
+WLMRT-00201,10/18/2023,"Houston, TX",Home Improvement,Hand Tools,3,92.54,277.62,5,263.74,Professional Contractor,439,15
+WLMRT-00202,10/9/2023,"Seattle, WA",Building Materials,Cement,2,244.8,489.6,10,440.64,DIY Homeowner,162,18
+WLMRT-00203,10/31/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,4,307.87,1231.48,0,1231.48,Property Manager,311,27
+WLMRT-00204,12/2/2023,"Phoenix, AZ",Paint,Interior Paint,9,330.8,2977.2,0,2977.2,Renovation Enthusiast,286,19
+WLMRT-00205,10/17/2023,"New York, NY",Lighting,Ceiling Fans,4,135.82,543.28,5,516.12,Property Manager,166,34
+WLMRT-00206,5/24/2023,"Chicago, IL",Building Materials,Cement,2,205.95,411.9,0,411.9,DIY Homeowner,354,36
+WLMRT-00207,12/17/2023,"Houston, TX",Building Materials,Drywall,7,267.33,1871.31,0,1871.31,Renovation Enthusiast,250,42
+WLMRT-00208,9/20/2023,"New York, NY",Flooring,Hardwood,8,267.98,2143.84,20,1715.07,Renovation Enthusiast,384,28
+WLMRT-00209,8/2/2023,"Houston, TX",Lighting,Ceiling Fans,9,326.84,2941.56,0,2941.56,Property Manager,134,14
+WLMRT-00210,2/18/2023,"Chicago, IL",Plumbing,Shower Systems,5,158.01,790.05,10,711.04,Property Manager,69,16
+WLMRT-00211,6/13/2023,"Chicago, IL",Home Improvement,Power Tools,7,297.44,2082.08,0,2082.08,Renovation Enthusiast,117,40
+WLMRT-00212,5/29/2023,"Atlanta, GA",Home Improvement,Hand Tools,5,324.57,1622.85,0,1622.85,Property Manager,20,16
+WLMRT-00213,3/18/2023,"Los Angeles, CA",Home Improvement,Power Tools,9,494.01,4446.09,0,4446.09,Renovation Enthusiast,155,9
+WLMRT-00214,5/5/2023,"Phoenix, AZ",Appliances,Refrigerators,1,17.75,17.75,0,17.75,Property Manager,28,10
+WLMRT-00215,2/11/2023,"Seattle, WA",Appliances,Dryers,4,51.97,207.88,0,207.88,DIY Homeowner,82,14
+WLMRT-00216,3/11/2023,"Atlanta, GA",Home Improvement,Tool Sets,4,226.78,907.12,0,907.12,Property Manager,14,33
+WLMRT-00217,9/21/2023,"New York, NY",Plumbing,Toilets,2,343.26,686.52,0,686.52,Property Manager,268,28
+WLMRT-00218,8/3/2023,"Houston, TX",Lighting,Light Fixtures,6,283.31,1699.86,0,1699.86,Professional Contractor,125,14
+WLMRT-00219,2/5/2023,"Los Angeles, CA",Lighting,Ceiling Fans,9,93.53,841.77,0,841.77,Professional Contractor,130,22
+WLMRT-00220,5/16/2023,"Houston, TX",Flooring,Tile,7,205.66,1439.62,0,1439.62,Property Manager,477,7
+WLMRT-00221,5/29/2023,"Houston, TX",Home Improvement,Hand Tools,6,53.67,322.02,10,289.82,Renovation Enthusiast,281,18
+WLMRT-00222,8/14/2023,"Los Angeles, CA",Lighting,Light Fixtures,4,158.53,634.12,0,634.12,Professional Contractor,370,27
+WLMRT-00223,9/6/2023,"Atlanta, GA",Appliances,Refrigerators,3,204.52,613.56,15,521.53,Renovation Enthusiast,475,12
+WLMRT-00224,5/23/2023,"New York, NY",Building Materials,Cement,5,201.61,1008.05,15,856.84,Property Manager,51,44
+WLMRT-00225,10/18/2023,"New York, NY",Appliances,Dishwashers,6,79.23,475.38,0,475.38,Renovation Enthusiast,82,21
+WLMRT-00226,3/7/2023,"Dallas, TX",Garden Center,Gardening Tools,3,179.59,538.77,0,538.77,Property Manager,275,31
+WLMRT-00227,9/10/2023,"New York, NY",Appliances,Refrigerators,4,307.12,1228.48,5,1167.06,DIY Homeowner,319,9
+WLMRT-00228,1/25/2023,"Los Angeles, CA",Building Materials,Lumber,2,43.4,86.8,0,86.8,Professional Contractor,88,10
+WLMRT-00229,1/12/2023,"Seattle, WA",Garden Center,Landscaping Supplies,4,225.36,901.44,10,811.3,Property Manager,169,35
+WLMRT-00230,5/10/2023,"Houston, TX",Building Materials,Insulation,3,199.37,598.11,5,568.2,DIY Homeowner,275,31
+WLMRT-00231,9/24/2023,"Chicago, IL",Appliances,Refrigerators,8,155.7,1245.6,0,1245.6,Renovation Enthusiast,108,27
+WLMRT-00232,7/9/2023,"New York, NY",Home Improvement,Tool Sets,7,349.16,2444.12,5,2321.91,Property Manager,269,23
+WLMRT-00233,11/4/2023,"Los Angeles, CA",Garden Center,Landscaping Supplies,4,268.25,1073,5,1019.35,Renovation Enthusiast,494,41
+WLMRT-00234,4/2/2023,"New York, NY",Paint,Exterior Paint,7,369.47,2586.29,20,2069.03,Professional Contractor,192,8
+WLMRT-00235,9/3/2023,"New York, NY",Lighting,Bulbs,5,382.54,1912.7,0,1912.7,Professional Contractor,398,7
+WLMRT-00236,8/30/2023,"Los Angeles, CA",Garden Center,Plants,5,402.75,2013.75,0,2013.75,DIY Homeowner,474,41
+WLMRT-00237,7/10/2023,"Los Angeles, CA",Home Improvement,Workbenches,7,83.13,581.91,0,581.91,Professional Contractor,61,24
+WLMRT-00238,8/21/2023,"Los Angeles, CA",Plumbing,Toilets,6,202.27,1213.62,10,1092.26,Professional Contractor,114,23
+WLMRT-00239,5/9/2023,"Chicago, IL",Plumbing,Toilets,1,422.03,422.03,0,422.03,Professional Contractor,241,27
+WLMRT-00240,9/4/2023,"Chicago, IL",Flooring,Carpet,6,321.97,1931.82,10,1738.64,Renovation Enthusiast,352,30
+WLMRT-00241,3/10/2023,"Seattle, WA",Garden Center,Landscaping Supplies,1,227.2,227.2,0,227.2,Property Manager,96,7
+WLMRT-00242,6/1/2023,"Atlanta, GA",Garden Center,Plants,4,371.38,1485.52,0,1485.52,Professional Contractor,237,17
+WLMRT-00243,7/30/2023,"Phoenix, AZ",Flooring,Tile,3,95.31,285.93,0,285.93,DIY Homeowner,361,14
+WLMRT-00244,2/7/2023,"Phoenix, AZ",Plumbing,Toilets,1,154.77,154.77,0,154.77,Property Manager,338,8
+WLMRT-00245,2/18/2023,"Houston, TX",Paint,Exterior Paint,4,389.57,1558.28,20,1246.62,DIY Homeowner,128,16
+WLMRT-00246,5/20/2023,"Dallas, TX",Garden Center,Landscaping Supplies,2,304.92,609.84,15,518.36,DIY Homeowner,409,38
+WLMRT-00247,8/14/2023,"Dallas, TX",Plumbing,Faucets,1,464.76,464.76,0,464.76,Renovation Enthusiast,497,20
+WLMRT-00248,4/24/2023,"New York, NY",Flooring,Carpet,4,69.54,278.16,0,278.16,Property Manager,122,27
+WLMRT-00249,2/1/2023,"New York, NY",Building Materials,Insulation,7,424.79,2973.53,0,2973.53,DIY Homeowner,158,19
+WLMRT-00250,5/6/2023,"Seattle, WA",Lighting,Light Fixtures,8,283.33,2266.64,5,2153.31,Renovation Enthusiast,212,28
+WLMRT-00251,12/11/2023,"New York, NY",Lighting,Outdoor Lighting,2,62.89,125.78,5,119.49,DIY Homeowner,292,37
+WLMRT-00252,3/29/2023,"Houston, TX",Paint,Interior Paint,6,275.7,1654.2,5,1571.49,DIY Homeowner,12,25
+WLMRT-00253,1/30/2023,"Phoenix, AZ",Paint,Paint Supplies,9,382.95,3446.55,0,3446.55,Renovation Enthusiast,195,22
+WLMRT-00254,12/30/2023,"Los Angeles, CA",Plumbing,Shower Systems,1,146.17,146.17,0,146.17,Renovation Enthusiast,371,40
+WLMRT-00255,1/10/2023,"Los Angeles, CA",Building Materials,Cement,7,311.34,2179.38,0,2179.38,Professional Contractor,22,15
+WLMRT-00256,3/27/2023,"Chicago, IL",Flooring,Laminate,6,418.01,2508.06,0,2508.06,Professional Contractor,427,26
+WLMRT-00257,8/31/2023,"Phoenix, AZ",Building Materials,Insulation,6,439.56,2637.36,0,2637.36,DIY Homeowner,120,10
+WLMRT-00258,1/24/2023,"New York, NY",Flooring,Tile,5,334.89,1674.45,5,1590.73,Professional Contractor,414,16
+WLMRT-00259,9/17/2023,"Houston, TX",Lighting,Ceiling Fans,4,207.14,828.56,0,828.56,Renovation Enthusiast,23,9
+WLMRT-00260,12/2/2023,"Chicago, IL",Plumbing,Shower Systems,4,284.72,1138.88,0,1138.88,Professional Contractor,167,24
+WLMRT-00261,7/7/2023,"Houston, TX",Building Materials,Insulation,1,321.88,321.88,0,321.88,Renovation Enthusiast,118,18
+WLMRT-00262,4/27/2023,"Phoenix, AZ",Lighting,Outdoor Lighting,3,225.7,677.1,0,677.1,Property Manager,122,39
+WLMRT-00263,4/26/2023,"Atlanta, GA",Appliances,Dryers,9,467.23,4205.07,0,4205.07,DIY Homeowner,207,10
+WLMRT-00264,2/16/2023,"Dallas, TX",Flooring,Tile,6,495.65,2973.9,0,2973.9,Property Manager,146,32
+WLMRT-00265,3/2/2023,"Chicago, IL",Plumbing,Faucets,3,22.84,68.52,0,68.52,DIY Homeowner,127,12
+WLMRT-00266,12/31/2023,"Dallas, TX",Home Improvement,Power Tools,3,137.06,411.18,0,411.18,Professional Contractor,78,35
+WLMRT-00267,2/18/2023,"Los Angeles, CA",Plumbing,Faucets,5,355.95,1779.75,0,1779.75,Professional Contractor,240,41
+WLMRT-00268,11/9/2023,"Houston, TX",Home Improvement,Hand Tools,9,87.87,790.83,0,790.83,Property Manager,66,37
+WLMRT-00269,2/5/2023,"Los Angeles, CA",Flooring,Laminate,8,37.96,303.68,0,303.68,Professional Contractor,400,41
+WLMRT-00270,9/27/2023,"Seattle, WA",Paint,Exterior Paint,6,220.15,1320.9,5,1254.86,DIY Homeowner,53,15
+WLMRT-00271,7/3/2023,"Dallas, TX",Garden Center,Landscaping Supplies,2,454.15,908.3,0,908.3,DIY Homeowner,187,39
+WLMRT-00272,3/11/2023,"Phoenix, AZ",Building Materials,Insulation,2,368.9,737.8,20,590.24,Renovation Enthusiast,152,13
+WLMRT-00273,6/3/2023,"Houston, TX",Garden Center,Landscaping Supplies,9,252.3,2270.7,0,2270.7,DIY Homeowner,140,29
+WLMRT-00274,11/1/2023,"Dallas, TX",Appliances,Dryers,9,474.05,4266.45,0,4266.45,Property Manager,434,39
+WLMRT-00275,7/15/2023,"Phoenix, AZ",Appliances,Washers,9,426.8,3841.2,0,3841.2,Renovation Enthusiast,161,40
+WLMRT-00276,2/12/2023,"Atlanta, GA",Flooring,Tile,6,278.93,1673.58,0,1673.58,Professional Contractor,207,40
+WLMRT-00277,12/7/2023,"Los Angeles, CA",Home Improvement,Hand Tools,6,426.49,2558.94,0,2558.94,Professional Contractor,153,28
+WLMRT-00278,10/21/2023,"Houston, TX",Flooring,Tile,3,35.46,106.38,0,106.38,Renovation Enthusiast,41,13
+WLMRT-00279,6/3/2023,"Phoenix, AZ",Garden Center,Landscaping Supplies,4,264.5,1058,0,1058,Property Manager,88,28
+WLMRT-00280,9/27/2023,"Dallas, TX",Flooring,Hardwood,9,284.49,2560.41,5,2432.39,Property Manager,456,8
+WLMRT-00281,9/11/2023,"Dallas, TX",Home Improvement,Workbenches,1,201.46,201.46,0,201.46,Renovation Enthusiast,445,29
+WLMRT-00282,6/27/2023,"Dallas, TX",Home Improvement,Tool Sets,5,482.59,2412.95,0,2412.95,Property Manager,17,30
+WLMRT-00283,10/24/2023,"Houston, TX",Flooring,Hardwood,5,163.05,815.25,0,815.25,DIY Homeowner,441,24
+WLMRT-00284,9/25/2023,"Chicago, IL",Appliances,Dryers,3,187.92,563.76,0,563.76,Renovation Enthusiast,49,44
+WLMRT-00285,5/9/2023,"Phoenix, AZ",Home Improvement,Workbenches,8,448.05,3584.4,10,3225.96,Property Manager,110,10
+WLMRT-00286,9/3/2023,"Dallas, TX",Lighting,Outdoor Lighting,9,403.77,3633.93,0,3633.93,Professional Contractor,138,27
+WLMRT-00287,6/11/2023,"Houston, TX",Lighting,Outdoor Lighting,6,490.09,2940.54,0,2940.54,Renovation Enthusiast,292,11
+WLMRT-00288,12/19/2023,"Houston, TX",Home Improvement,Power Tools,4,446.23,1784.92,0,1784.92,Professional Contractor,236,34
+WLMRT-00289,5/14/2023,"Dallas, TX",Garden Center,Landscaping Supplies,9,240.87,2167.83,5,2059.44,Renovation Enthusiast,466,27
+WLMRT-00290,5/11/2023,"Houston, TX",Plumbing,Toilets,5,65.34,326.7,0,326.7,Professional Contractor,478,41
+WLMRT-00291,2/10/2023,"Dallas, TX",Flooring,Tile,2,376.92,753.84,0,753.84,DIY Homeowner,393,28
+WLMRT-00292,4/18/2023,"Dallas, TX",Home Improvement,Hand Tools,3,25.25,75.75,5,71.96,DIY Homeowner,75,41
+WLMRT-00293,6/5/2023,"Phoenix, AZ",Plumbing,Shower Systems,6,429.31,2575.86,20,2060.69,Property Manager,256,29
+WLMRT-00294,3/8/2023,"Houston, TX",Plumbing,Faucets,9,115.61,1040.49,0,1040.49,Renovation Enthusiast,236,20
+WLMRT-00295,2/8/2023,"Atlanta, GA",Flooring,Tile,2,328.88,657.76,5,624.87,Professional Contractor,416,33
+WLMRT-00296,2/15/2023,"New York, NY",Appliances,Washers,4,196.99,787.96,0,787.96,Professional Contractor,39,20
+WLMRT-00297,10/8/2023,"Seattle, WA",Building Materials,Cement,6,147.22,883.32,5,839.15,Property Manager,119,9
+WLMRT-00298,7/20/2023,"Houston, TX",Appliances,Dishwashers,7,314.46,2201.22,0,2201.22,DIY Homeowner,384,25
+WLMRT-00299,4/30/2023,"New York, NY",Paint,Interior Paint,4,57.3,229.2,0,229.2,Professional Contractor,170,31
+WLMRT-00300,11/5/2023,"Dallas, TX",Lighting,Ceiling Fans,9,33.59,302.31,10,272.08,Property Manager,11,28
+WLMRT-00301,5/7/2023,"Phoenix, AZ",Home Improvement,Tool Sets,1,149.79,149.79,0,149.79,Property Manager,73,27
+WLMRT-00302,11/21/2023,"Seattle, WA",Paint,Paint Supplies,5,303.5,1517.5,5,1441.62,DIY Homeowner,210,15
+WLMRT-00303,8/4/2023,"Seattle, WA",Flooring,Hardwood,8,263.55,2108.4,0,2108.4,Renovation Enthusiast,447,18
+WLMRT-00304,1/15/2023,"Atlanta, GA",Lighting,Bulbs,4,227.26,909.04,15,772.68,Property Manager,47,26
+WLMRT-00305,6/28/2023,"Houston, TX",Home Improvement,Tool Sets,7,74.53,521.71,0,521.71,Property Manager,438,9
+WLMRT-00306,7/13/2023,"Seattle, WA",Lighting,Light Fixtures,7,492.08,3444.56,5,3272.33,Property Manager,271,28
+WLMRT-00307,3/2/2023,"Houston, TX",Home Improvement,Hand Tools,8,127.04,1016.32,20,813.06,Professional Contractor,102,41
+WLMRT-00308,10/18/2023,"Seattle, WA",Plumbing,Pipes,4,111.43,445.72,0,445.72,DIY Homeowner,58,14
+WLMRT-00309,12/19/2023,"Chicago, IL",Building Materials,Insulation,5,224.88,1124.4,0,1124.4,Property Manager,372,15
+WLMRT-00310,11/1/2023,"Atlanta, GA",Plumbing,Pipes,8,270.48,2163.84,0,2163.84,Renovation Enthusiast,50,19
+WLMRT-00311,5/27/2023,"Dallas, TX",Plumbing,Pipes,1,201.04,201.04,0,201.04,Renovation Enthusiast,465,18
+WLMRT-00312,10/28/2023,"Chicago, IL",Garden Center,Outdoor Furniture,5,10.77,53.85,0,53.85,Renovation Enthusiast,167,29
+WLMRT-00313,12/6/2023,"Chicago, IL",Home Improvement,Hand Tools,2,335.99,671.98,0,671.98,DIY Homeowner,91,43
+WLMRT-00314,3/25/2023,"Atlanta, GA",Building Materials,Lumber,3,183.84,551.52,0,551.52,Renovation Enthusiast,294,16
+WLMRT-00315,11/27/2023,"Los Angeles, CA",Appliances,Washers,2,78.05,156.1,5,148.29,DIY Homeowner,37,9
+WLMRT-00316,6/4/2023,"Los Angeles, CA",Flooring,Laminate,6,416.22,2497.32,0,2497.32,Professional Contractor,90,18
+WLMRT-00317,11/17/2023,"Phoenix, AZ",Building Materials,Lumber,5,70.27,351.35,0,351.35,DIY Homeowner,418,29
+WLMRT-00318,10/21/2023,"Houston, TX",Plumbing,Pipes,6,427.4,2564.4,5,2436.18,Property Manager,384,15
+WLMRT-00319,5/2/2023,"New York, NY",Garden Center,Landscaping Supplies,2,198.28,396.56,10,356.9,Renovation Enthusiast,344,29
+WLMRT-00320,2/17/2023,"Seattle, WA",Plumbing,Faucets,9,23.44,210.96,5,200.41,Property Manager,176,40
+WLMRT-00321,1/7/2023,"Houston, TX",Plumbing,Pipes,8,383.33,3066.64,0,3066.64,Renovation Enthusiast,166,16
+WLMRT-00322,5/6/2023,"Dallas, TX",Flooring,Hardwood,1,341.79,341.79,0,341.79,DIY Homeowner,185,18
+WLMRT-00323,1/31/2023,"Houston, TX",Lighting,Ceiling Fans,2,247.94,495.88,20,396.7,Property Manager,76,17
+WLMRT-00324,6/3/2023,"Dallas, TX",Garden Center,Gardening Tools,6,463.56,2781.36,0,2781.36,Renovation Enthusiast,315,12
+WLMRT-00325,9/2/2023,"New York, NY",Building Materials,Drywall,5,419.39,2096.95,20,1677.56,DIY Homeowner,366,41
+WLMRT-00326,7/15/2023,"Chicago, IL",Paint,Paint Supplies,9,492.17,4429.53,5,4208.05,DIY Homeowner,135,23
+WLMRT-00327,10/5/2023,"Houston, TX",Garden Center,Plants,5,244.16,1220.8,0,1220.8,DIY Homeowner,351,29
+WLMRT-00328,2/11/2023,"Chicago, IL",Building Materials,Cement,3,96.81,290.43,0,290.43,DIY Homeowner,30,17
+WLMRT-00329,4/2/2023,"Phoenix, AZ",Paint,Paint Supplies,3,83.76,251.28,0,251.28,Professional Contractor,444,23
+WLMRT-00330,12/4/2023,"Seattle, WA",Building Materials,Drywall,9,398.34,3585.06,0,3585.06,Renovation Enthusiast,350,14
+WLMRT-00331,5/25/2023,"Los Angeles, CA",Flooring,Carpet,6,121.6,729.6,0,729.6,Property Manager,363,17
+WLMRT-00332,2/16/2023,"Houston, TX",Lighting,Light Fixtures,5,375.47,1877.35,0,1877.35,Renovation Enthusiast,474,26
+WLMRT-00333,1/12/2023,"New York, NY",Home Improvement,Power Tools,3,236.71,710.13,0,710.13,Property Manager,317,38
+WLMRT-00334,7/2/2023,"Chicago, IL",Lighting,Outdoor Lighting,6,266,1596,5,1516.2,Professional Contractor,408,33
+WLMRT-00335,9/6/2023,"Dallas, TX",Building Materials,Drywall,1,434.13,434.13,0,434.13,Professional Contractor,101,10
+WLMRT-00336,6/12/2023,"Seattle, WA",Paint,Primers,9,39.14,352.26,0,352.26,DIY Homeowner,378,39
+WLMRT-00337,5/27/2023,"Phoenix, AZ",Plumbing,Faucets,3,229.68,689.04,20,551.23,DIY Homeowner,198,37
+WLMRT-00338,4/24/2023,"Seattle, WA",Paint,Exterior Paint,6,364.13,2184.78,0,2184.78,Professional Contractor,329,27
+WLMRT-00339,7/13/2023,"Atlanta, GA",Plumbing,Toilets,3,113.25,339.75,5,322.76,DIY Homeowner,172,25
+WLMRT-00340,10/9/2023,"Atlanta, GA",Appliances,Dishwashers,7,11.14,77.98,5,74.08,Renovation Enthusiast,34,43
+WLMRT-00341,2/6/2023,"Los Angeles, CA",Home Improvement,Workbenches,8,386.77,3094.16,10,2784.74,Property Manager,266,42
+WLMRT-00342,7/10/2023,"Seattle, WA",Building Materials,Insulation,9,364.34,3279.06,0,3279.06,Professional Contractor,423,37
+WLMRT-00343,12/21/2023,"Seattle, WA",Lighting,Bulbs,2,12.98,25.96,0,25.96,Renovation Enthusiast,25,8
+WLMRT-00344,6/11/2023,"Chicago, IL",Plumbing,Toilets,6,34.61,207.66,5,197.28,Professional Contractor,193,37
+WLMRT-00345,10/22/2023,"Dallas, TX",Flooring,Carpet,7,465.32,3257.24,0,3257.24,Professional Contractor,127,35
+WLMRT-00346,10/22/2023,"Atlanta, GA",Paint,Interior Paint,9,117.44,1056.96,5,1004.11,DIY Homeowner,62,25
+WLMRT-00347,8/2/2023,"Phoenix, AZ",Home Improvement,Power Tools,7,256.51,1795.57,0,1795.57,Professional Contractor,493,14
+WLMRT-00348,5/28/2023,"Seattle, WA",Lighting,Light Fixtures,2,359.84,719.68,0,719.68,Property Manager,344,28
+WLMRT-00349,9/17/2023,"Los Angeles, CA",Lighting,Bulbs,7,363.12,2541.84,0,2541.84,Property Manager,471,40
+WLMRT-00350,12/20/2023,"Phoenix, AZ",Appliances,Dryers,9,376.84,3391.56,0,3391.56,Renovation Enthusiast,250,35
+WLMRT-00351,4/6/2023,"New York, NY",Appliances,Washers,1,40.72,40.72,0,40.72,Professional Contractor,399,11
+WLMRT-00352,11/16/2023,"Los Angeles, CA",Flooring,Carpet,9,186.51,1678.59,0,1678.59,Renovation Enthusiast,171,10
+WLMRT-00353,11/3/2023,"Los Angeles, CA",Flooring,Tile,1,194.88,194.88,20,155.9,Property Manager,430,23
+WLMRT-00354,8/6/2023,"Los Angeles, CA",Appliances,Refrigerators,9,354.89,3194.01,0,3194.01,Professional Contractor,222,27
+WLMRT-00355,4/11/2023,"Atlanta, GA",Building Materials,Cement,1,341.29,341.29,0,341.29,DIY Homeowner,30,26
+WLMRT-00356,5/20/2023,"Los Angeles, CA",Building Materials,Drywall,1,186.42,186.42,0,186.42,Property Manager,50,41
+WLMRT-00357,5/26/2023,"Seattle, WA",Paint,Exterior Paint,3,191.21,573.63,10,516.27,Property Manager,22,24
+WLMRT-00358,4/10/2023,"Phoenix, AZ",Garden Center,Gardening Tools,9,332.1,2988.9,5,2839.46,Renovation Enthusiast,479,39
+WLMRT-00359,12/9/2023,"Los Angeles, CA",Flooring,Hardwood,2,203.42,406.84,5,386.5,Property Manager,283,9
+WLMRT-00360,5/29/2023,"Houston, TX",Flooring,Carpet,6,107.62,645.72,0,645.72,Property Manager,244,41
+WLMRT-00361,2/18/2023,"New York, NY",Garden Center,Gardening Tools,5,141.12,705.6,5,670.32,DIY Homeowner,22,43
+WLMRT-00362,9/15/2023,"New York, NY",Lighting,Ceiling Fans,4,474.93,1899.72,0,1899.72,Renovation Enthusiast,120,44
+WLMRT-00363,7/1/2023,"Houston, TX",Home Improvement,Workbenches,9,482.11,4338.99,0,4338.99,Property Manager,330,26
+WLMRT-00364,9/29/2023,"Phoenix, AZ",Paint,Interior Paint,8,74.44,595.52,0,595.52,Property Manager,190,36
+WLMRT-00365,5/14/2023,"Phoenix, AZ",Home Improvement,Workbenches,5,177.48,887.4,0,887.4,Renovation Enthusiast,253,18
+WLMRT-00366,2/12/2023,"Los Angeles, CA",Plumbing,Toilets,7,440.84,3085.88,0,3085.88,Renovation Enthusiast,340,14
+WLMRT-00367,8/5/2023,"Seattle, WA",Home Improvement,Workbenches,6,84.64,507.84,0,507.84,Property Manager,498,35
+WLMRT-00368,7/24/2023,"Phoenix, AZ",Appliances,Dishwashers,7,339.1,2373.7,20,1898.96,Property Manager,402,11
+WLMRT-00369,11/27/2023,"Phoenix, AZ",Plumbing,Toilets,6,189.18,1135.08,5,1078.33,Renovation Enthusiast,208,32
+WLMRT-00370,10/28/2023,"Dallas, TX",Home Improvement,Tool Sets,5,268.36,1341.8,0,1341.8,Property Manager,421,17
+WLMRT-00371,2/18/2023,"Phoenix, AZ",Building Materials,Cement,6,152.35,914.1,0,914.1,Property Manager,168,32
+WLMRT-00372,1/5/2023,"Houston, TX",Home Improvement,Workbenches,9,229.36,2064.24,0,2064.24,Professional Contractor,431,33
+WLMRT-00373,8/12/2023,"Los Angeles, CA",Appliances,Washers,5,481.53,2407.65,0,2407.65,Professional Contractor,95,24
+WLMRT-00374,10/29/2023,"Los Angeles, CA",Lighting,Bulbs,3,91.22,273.66,0,273.66,DIY Homeowner,244,39
+WLMRT-00375,11/27/2023,"Los Angeles, CA",Home Improvement,Hand Tools,6,63.36,380.16,20,304.13,Property Manager,57,32
+WLMRT-00376,11/28/2023,"Dallas, TX",Lighting,Ceiling Fans,9,460.5,4144.5,0,4144.5,Renovation Enthusiast,383,24
+WLMRT-00377,9/17/2023,"Houston, TX",Appliances,Dryers,2,352.17,704.34,0,704.34,Renovation Enthusiast,459,40
+WLMRT-00378,5/21/2023,"Chicago, IL",Paint,Paint Supplies,4,131.2,524.8,0,524.8,DIY Homeowner,90,26
+WLMRT-00379,12/8/2023,"Los Angeles, CA",Plumbing,Faucets,9,419.35,3774.15,0,3774.15,Property Manager,165,27
+WLMRT-00380,9/9/2023,"Seattle, WA",Plumbing,Faucets,7,367.14,2569.98,0,2569.98,Renovation Enthusiast,164,35
+WLMRT-00381,5/21/2023,"Los Angeles, CA",Building Materials,Drywall,4,151.55,606.2,20,484.96,Property Manager,43,7
+WLMRT-00382,4/3/2023,"Phoenix, AZ",Plumbing,Pipes,3,202.3,606.9,0,606.9,DIY Homeowner,108,33
+WLMRT-00383,1/17/2023,"Chicago, IL",Appliances,Refrigerators,4,199.3,797.2,0,797.2,DIY Homeowner,333,7
+WLMRT-00384,2/27/2023,"Chicago, IL",Appliances,Refrigerators,4,59.88,239.52,10,215.57,Professional Contractor,50,11
+WLMRT-00385,10/5/2023,"Chicago, IL",Appliances,Dishwashers,9,475.72,4281.48,5,4067.41,DIY Homeowner,321,27
+WLMRT-00386,10/9/2023,"Dallas, TX",Building Materials,Insulation,7,448.11,3136.77,10,2823.09,Renovation Enthusiast,142,27
+WLMRT-00387,10/6/2023,"Chicago, IL",Lighting,Outdoor Lighting,2,110.29,220.58,0,220.58,DIY Homeowner,377,25
+WLMRT-00388,2/15/2023,"Houston, TX",Plumbing,Faucets,9,188.53,1696.77,15,1442.25,Professional Contractor,430,7
+WLMRT-00389,10/7/2023,"Dallas, TX",Building Materials,Cement,4,349.87,1399.48,0,1399.48,Property Manager,13,9
+WLMRT-00390,6/30/2023,"Seattle, WA",Appliances,Dishwashers,7,466.19,3263.33,0,3263.33,Renovation Enthusiast,327,12
+WLMRT-00391,5/18/2023,"Seattle, WA",Garden Center,Outdoor Furniture,7,159.06,1113.42,0,1113.42,DIY Homeowner,393,28
+WLMRT-00392,11/28/2023,"New York, NY",Paint,Primers,4,373.53,1494.12,5,1419.41,DIY Homeowner,323,36
+WLMRT-00393,1/25/2023,"Seattle, WA",Lighting,Bulbs,3,98.99,296.97,0,296.97,Professional Contractor,56,42
+WLMRT-00394,1/22/2023,"Los Angeles, CA",Paint,Exterior Paint,5,83.3,416.5,0,416.5,Property Manager,296,16
+WLMRT-00395,6/11/2023,"Phoenix, AZ",Plumbing,Faucets,9,141.73,1275.57,0,1275.57,Property Manager,282,10
+WLMRT-00396,4/21/2023,"Atlanta, GA",Plumbing,Shower Systems,5,284.44,1422.2,0,1422.2,DIY Homeowner,226,42
+WLMRT-00397,3/29/2023,"Chicago, IL",Home Improvement,Workbenches,7,236.24,1653.68,0,1653.68,DIY Homeowner,387,23
+WLMRT-00398,6/18/2023,"Los Angeles, CA",Appliances,Refrigerators,6,174.45,1046.7,0,1046.7,Property Manager,346,18
+WLMRT-00399,4/19/2023,"Phoenix, AZ",Plumbing,Toilets,1,162.87,162.87,0,162.87,Professional Contractor,41,38
+WLMRT-00400,12/5/2023,"Dallas, TX",Plumbing,Toilets,3,15.59,46.77,5,44.43,Professional Contractor,171,10
+WLMRT-00401,12/5/2023,"New York, NY",Plumbing,Pipes,1,483.85,483.85,0,483.85,Renovation Enthusiast,462,33
+WLMRT-00402,1/13/2023,"Seattle, WA",Plumbing,Toilets,3,476.71,1430.13,0,1430.13,Property Manager,467,31
+WLMRT-00403,5/31/2023,"Chicago, IL",Flooring,Carpet,6,339.62,2037.72,0,2037.72,DIY Homeowner,215,9
+WLMRT-00404,3/24/2023,"Dallas, TX",Appliances,Washers,4,340.27,1361.08,0,1361.08,Property Manager,21,17
+WLMRT-00405,5/20/2023,"Atlanta, GA",Garden Center,Gardening Tools,1,220.96,220.96,0,220.96,Property Manager,127,39
+WLMRT-00406,1/19/2023,"New York, NY",Lighting,Ceiling Fans,2,110.65,221.3,15,188.1,Renovation Enthusiast,150,26
+WLMRT-00407,3/20/2023,"Phoenix, AZ",Lighting,Light Fixtures,7,214.98,1504.86,5,1429.62,Professional Contractor,413,35
+WLMRT-00408,11/15/2023,"Chicago, IL",Plumbing,Pipes,9,15.63,140.67,0,140.67,Professional Contractor,26,8
+WLMRT-00409,11/21/2023,"Houston, TX",Lighting,Light Fixtures,9,371.56,3344.04,0,3344.04,Professional Contractor,442,33
+WLMRT-00410,3/12/2023,"Dallas, TX",Home Improvement,Tool Sets,2,246.69,493.38,5,468.71,Property Manager,289,16
+WLMRT-00411,6/3/2023,"Dallas, TX",Lighting,Bulbs,7,94.33,660.31,20,528.25,Renovation Enthusiast,484,26
+WLMRT-00412,3/25/2023,"Dallas, TX",Flooring,Tile,2,141.03,282.06,5,267.96,Professional Contractor,143,21
+WLMRT-00413,3/14/2023,"Atlanta, GA",Building Materials,Cement,6,163.32,979.92,0,979.92,Property Manager,267,35
+WLMRT-00414,3/24/2023,"Chicago, IL",Flooring,Hardwood,5,472.92,2364.6,15,2009.91,Professional Contractor,414,28
+WLMRT-00415,1/25/2023,"Los Angeles, CA",Flooring,Carpet,1,17.54,17.54,15,14.91,Property Manager,146,42
+WLMRT-00416,5/18/2023,"Houston, TX",Building Materials,Lumber,6,488.73,2932.38,0,2932.38,DIY Homeowner,292,41
+WLMRT-00417,12/7/2023,"Phoenix, AZ",Flooring,Hardwood,4,222.86,891.44,0,891.44,DIY Homeowner,412,34
+WLMRT-00418,2/10/2023,"Chicago, IL",Home Improvement,Hand Tools,4,109.97,439.88,0,439.88,Renovation Enthusiast,160,38
+WLMRT-00419,3/4/2023,"Atlanta, GA",Flooring,Hardwood,5,47.8,239,0,239,Professional Contractor,70,9
+WLMRT-00420,6/10/2023,"Dallas, TX",Lighting,Outdoor Lighting,2,192.38,384.76,10,346.28,Renovation Enthusiast,47,25
+WLMRT-00421,11/15/2023,"Los Angeles, CA",Flooring,Carpet,3,312.22,936.66,0,936.66,DIY Homeowner,100,14
+WLMRT-00422,7/28/2023,"Atlanta, GA",Building Materials,Lumber,6,401.86,2411.16,0,2411.16,Renovation Enthusiast,293,39
+WLMRT-00423,5/17/2023,"Chicago, IL",Lighting,Outdoor Lighting,5,211.56,1057.8,0,1057.8,Professional Contractor,197,44
+WLMRT-00424,4/24/2023,"Houston, TX",Appliances,Dryers,5,394.15,1970.75,10,1773.68,Professional Contractor,159,17
+WLMRT-00425,7/24/2023,"Houston, TX",Appliances,Washers,7,37.53,262.71,0,262.71,Professional Contractor,485,21
+WLMRT-00426,1/3/2023,"New York, NY",Home Improvement,Hand Tools,2,210.3,420.6,0,420.6,Professional Contractor,422,11
+WLMRT-00427,12/14/2023,"Los Angeles, CA",Home Improvement,Hand Tools,7,363.08,2541.56,5,2414.48,Renovation Enthusiast,300,10
+WLMRT-00428,7/15/2023,"Houston, TX",Garden Center,Landscaping Supplies,8,281.16,2249.28,0,2249.28,DIY Homeowner,328,30
+WLMRT-00429,11/7/2023,"New York, NY",Home Improvement,Workbenches,7,476.88,3338.16,5,3171.25,Property Manager,186,22
+WLMRT-00430,8/1/2023,"Los Angeles, CA",Home Improvement,Power Tools,6,281.15,1686.9,0,1686.9,Renovation Enthusiast,434,11
+WLMRT-00431,3/17/2023,"Phoenix, AZ",Appliances,Dishwashers,3,213.11,639.33,5,607.36,Renovation Enthusiast,294,43
+WLMRT-00432,6/9/2023,"New York, NY",Paint,Paint Supplies,7,220.51,1543.57,0,1543.57,Renovation Enthusiast,459,43
+WLMRT-00433,1/18/2023,"New York, NY",Lighting,Light Fixtures,6,50.94,305.64,0,305.64,DIY Homeowner,425,20
+WLMRT-00434,4/25/2023,"Houston, TX",Appliances,Washers,9,113.83,1024.47,0,1024.47,Renovation Enthusiast,256,25
+WLMRT-00435,6/1/2023,"Seattle, WA",Lighting,Bulbs,9,213.73,1923.57,10,1731.21,Professional Contractor,204,16
+WLMRT-00436,12/20/2023,"Dallas, TX",Plumbing,Pipes,6,291.95,1751.7,0,1751.7,DIY Homeowner,214,35
+WLMRT-00437,12/10/2023,"Chicago, IL",Paint,Interior Paint,7,66,462,10,415.8,Professional Contractor,16,7
+WLMRT-00438,1/17/2023,"Dallas, TX",Home Improvement,Power Tools,3,284.73,854.19,0,854.19,DIY Homeowner,291,22
+WLMRT-00439,6/5/2023,"Atlanta, GA",Home Improvement,Workbenches,8,419.7,3357.6,10,3021.84,DIY Homeowner,434,13
+WLMRT-00440,12/5/2023,"Dallas, TX",Lighting,Light Fixtures,9,442.45,3982.05,0,3982.05,Renovation Enthusiast,439,36
+WLMRT-00441,5/26/2023,"Dallas, TX",Home Improvement,Workbenches,2,42.82,85.64,0,85.64,Professional Contractor,248,42
+WLMRT-00442,4/26/2023,"Atlanta, GA",Paint,Interior Paint,2,193.98,387.96,20,310.37,DIY Homeowner,29,35
+WLMRT-00443,8/9/2023,"Dallas, TX",Building Materials,Insulation,3,181.76,545.28,5,518.02,Property Manager,448,10
+WLMRT-00444,11/27/2023,"Chicago, IL",Building Materials,Insulation,2,334.23,668.46,0,668.46,DIY Homeowner,168,40
+WLMRT-00445,7/26/2023,"Seattle, WA",Garden Center,Plants,4,385.59,1542.36,0,1542.36,Professional Contractor,377,38
+WLMRT-00446,7/28/2023,"Dallas, TX",Appliances,Refrigerators,3,314.03,942.09,0,942.09,DIY Homeowner,101,15
+WLMRT-00447,8/3/2023,"Phoenix, AZ",Paint,Primers,5,330.53,1652.65,10,1487.39,Property Manager,254,28
+WLMRT-00448,11/28/2023,"Chicago, IL",Lighting,Ceiling Fans,6,199.24,1195.44,0,1195.44,Property Manager,49,8
+WLMRT-00449,7/23/2023,"Chicago, IL",Lighting,Outdoor Lighting,1,296.49,296.49,0,296.49,Professional Contractor,355,29
+WLMRT-00450,8/12/2023,"Atlanta, GA",Appliances,Dishwashers,6,271.29,1627.74,15,1383.58,Renovation Enthusiast,231,7
+WLMRT-00451,6/5/2023,"Los Angeles, CA",Lighting,Light Fixtures,4,413.65,1654.6,5,1571.87,Professional Contractor,472,21
+WLMRT-00452,10/6/2023,"Phoenix, AZ",Flooring,Laminate,8,53.31,426.48,5,405.16,DIY Homeowner,170,34
+WLMRT-00453,6/14/2023,"Phoenix, AZ",Plumbing,Faucets,6,213.47,1280.82,0,1280.82,Property Manager,14,12
+WLMRT-00454,7/6/2023,"Seattle, WA",Home Improvement,Workbenches,7,498.12,3486.84,0,3486.84,Professional Contractor,273,17
+WLMRT-00455,9/13/2023,"New York, NY",Home Improvement,Workbenches,4,452.52,1810.08,5,1719.58,DIY Homeowner,489,16
+WLMRT-00456,12/13/2023,"Dallas, TX",Building Materials,Insulation,1,480.97,480.97,0,480.97,Renovation Enthusiast,447,17
+WLMRT-00457,10/31/2023,"Los Angeles, CA",Lighting,Bulbs,6,17.05,102.3,15,86.96,Professional Contractor,442,38
+WLMRT-00458,7/2/2023,"Phoenix, AZ",Flooring,Carpet,3,469.82,1409.46,10,1268.51,DIY Homeowner,147,25
+WLMRT-00459,3/2/2023,"Los Angeles, CA",Home Improvement,Tool Sets,3,226.72,680.16,0,680.16,Professional Contractor,162,26
+WLMRT-00460,12/9/2023,"Seattle, WA",Plumbing,Shower Systems,2,177.53,355.06,5,337.31,DIY Homeowner,398,27
+WLMRT-00461,9/3/2023,"Atlanta, GA",Flooring,Laminate,4,470.57,1882.28,0,1882.28,Professional Contractor,404,24
+WLMRT-00462,7/1/2023,"Chicago, IL",Building Materials,Cement,7,463.27,3242.89,0,3242.89,Property Manager,434,31
+WLMRT-00463,12/5/2023,"Atlanta, GA",Home Improvement,Workbenches,7,303.66,2125.62,0,2125.62,Renovation Enthusiast,415,28
+WLMRT-00464,7/28/2023,"Los Angeles, CA",Appliances,Washers,2,19.38,38.76,0,38.76,Property Manager,68,21
+WLMRT-00465,4/28/2023,"Houston, TX",Flooring,Laminate,6,272.61,1635.66,20,1308.53,Property Manager,22,19
+WLMRT-00466,8/18/2023,"Chicago, IL",Appliances,Dishwashers,6,295.76,1774.56,0,1774.56,Property Manager,308,28
+WLMRT-00467,1/29/2023,"Seattle, WA",Flooring,Laminate,1,307.36,307.36,0,307.36,Property Manager,439,13
+WLMRT-00468,8/27/2023,"Seattle, WA",Plumbing,Toilets,5,402.04,2010.2,10,1809.18,Property Manager,428,26
+WLMRT-00469,8/27/2023,"Phoenix, AZ",Garden Center,Outdoor Furniture,9,237.85,2140.65,5,2033.62,Renovation Enthusiast,375,26
+WLMRT-00470,11/5/2023,"Phoenix, AZ",Flooring,Carpet,1,337.96,337.96,15,287.27,Professional Contractor,412,17
+WLMRT-00471,3/12/2023,"Houston, TX",Appliances,Washers,2,242.73,485.46,0,485.46,Professional Contractor,403,38
+WLMRT-00472,3/25/2023,"Dallas, TX",Flooring,Hardwood,9,484.2,4357.8,0,4357.8,Property Manager,416,17
+WLMRT-00473,4/3/2023,"New York, NY",Lighting,Outdoor Lighting,7,189.14,1323.98,5,1257.78,Property Manager,489,42
+WLMRT-00474,3/27/2023,"Houston, TX",Garden Center,Outdoor Furniture,2,177.9,355.8,20,284.64,Renovation Enthusiast,385,29
+WLMRT-00475,1/31/2023,"Phoenix, AZ",Lighting,Bulbs,5,244.46,1222.3,0,1222.3,Professional Contractor,247,30
+WLMRT-00476,4/22/2023,"Houston, TX",Building Materials,Drywall,7,50.31,352.17,20,281.74,Renovation Enthusiast,499,40
+WLMRT-00477,3/30/2023,"Seattle, WA",Home Improvement,Hand Tools,3,495.97,1487.91,10,1339.12,DIY Homeowner,280,21
+WLMRT-00478,6/16/2023,"Los Angeles, CA",Paint,Interior Paint,9,470.81,4237.29,0,4237.29,Professional Contractor,91,19
+WLMRT-00479,11/28/2023,"Houston, TX",Plumbing,Faucets,3,332.46,997.38,10,897.64,DIY Homeowner,27,22
+WLMRT-00480,7/15/2023,"Dallas, TX",Paint,Interior Paint,8,106.25,850,10,765,DIY Homeowner,399,25
+WLMRT-00481,7/7/2023,"Chicago, IL",Garden Center,Gardening Tools,6,122.62,735.72,15,625.36,Renovation Enthusiast,342,38
+WLMRT-00482,7/10/2023,"New York, NY",Building Materials,Cement,5,146.54,732.7,0,732.7,Property Manager,255,40
+WLMRT-00483,4/6/2023,"Los Angeles, CA",Plumbing,Faucets,8,283.8,2270.4,0,2270.4,Professional Contractor,215,38
+WLMRT-00484,9/13/2023,"Dallas, TX",Building Materials,Cement,1,367.44,367.44,5,349.07,DIY Homeowner,199,31
+WLMRT-00485,10/14/2023,"New York, NY",Paint,Interior Paint,4,132.34,529.36,5,502.89,Professional Contractor,54,26
+WLMRT-00486,12/3/2023,"New York, NY",Flooring,Carpet,1,281.63,281.63,0,281.63,DIY Homeowner,67,14
+WLMRT-00487,4/19/2023,"Phoenix, AZ",Appliances,Washers,8,111.7,893.6,5,848.92,Professional Contractor,278,43
+WLMRT-00488,7/8/2023,"Seattle, WA",Home Improvement,Tool Sets,2,382.61,765.22,0,765.22,Renovation Enthusiast,368,19
+WLMRT-00489,8/9/2023,"New York, NY",Plumbing,Faucets,2,93.65,187.3,5,177.94,DIY Homeowner,121,23
+WLMRT-00490,4/26/2023,"Phoenix, AZ",Plumbing,Pipes,4,259.83,1039.32,0,1039.32,Renovation Enthusiast,393,36
+WLMRT-00491,11/4/2023,"Atlanta, GA",Home Improvement,Hand Tools,1,400.04,400.04,0,400.04,Renovation Enthusiast,274,38
+WLMRT-00492,8/25/2023,"New York, NY",Paint,Interior Paint,9,102.68,924.12,0,924.12,Renovation Enthusiast,330,17
+WLMRT-00493,12/17/2023,"Atlanta, GA",Paint,Interior Paint,5,287.23,1436.15,15,1220.73,Renovation Enthusiast,351,44
+WLMRT-00494,7/11/2023,"Dallas, TX",Garden Center,Gardening Tools,8,389.87,3118.96,0,3118.96,Renovation Enthusiast,353,27
+WLMRT-00495,3/4/2023,"Seattle, WA",Building Materials,Insulation,7,140.09,980.63,5,931.6,DIY Homeowner,193,44
+WLMRT-00496,2/7/2023,"Phoenix, AZ",Flooring,Hardwood,3,258.1,774.3,0,774.3,Professional Contractor,308,42
+WLMRT-00497,11/4/2023,"Chicago, IL",Appliances,Dishwashers,1,356.06,356.06,0,356.06,Renovation Enthusiast,92,41
+WLMRT-00498,7/3/2023,"Dallas, TX",Lighting,Outdoor Lighting,1,53.6,53.6,10,48.24,Property Manager,456,18
+WLMRT-00499,7/27/2023,"Chicago, IL",Plumbing,Toilets,6,40.29,241.74,0,241.74,DIY Homeowner,193,18
+WLMRT-00500,5/22/2023,"Los Angeles, CA",Paint,Interior Paint,2,102.8,205.6,0,205.6,Property Manager,499,15
+WLMRT-00501,12/26/2023,"Chicago, IL",Appliances,Dryers,3,154.19,462.57,5,439.44,Renovation Enthusiast,473,21
+WLMRT-00502,4/15/2023,"Los Angeles, CA",Building Materials,Cement,2,429.5,859,10,773.1,Professional Contractor,480,10
+WLMRT-00503,7/2/2023,"Seattle, WA",Paint,Interior Paint,6,103.4,620.4,15,527.34,Professional Contractor,158,31
+WLMRT-00504,4/26/2023,"New York, NY",Flooring,Hardwood,1,67.29,67.29,0,67.29,DIY Homeowner,259,21
+WLMRT-00505,10/4/2023,"Seattle, WA",Lighting,Ceiling Fans,5,184.01,920.05,0,920.05,Renovation Enthusiast,312,29
+WLMRT-00506,1/18/2023,"Los Angeles, CA",Flooring,Carpet,3,287.64,862.92,5,819.77,Renovation Enthusiast,49,16
+WLMRT-00507,7/19/2023,"Phoenix, AZ",Home Improvement,Tool Sets,5,58.38,291.9,0,291.9,DIY Homeowner,65,44
+WLMRT-00508,3/14/2023,"Dallas, TX",Garden Center,Landscaping Supplies,2,372.04,744.08,5,706.88,Property Manager,276,34
+WLMRT-00509,3/31/2023,"Los Angeles, CA",Flooring,Tile,8,155.22,1241.76,0,1241.76,DIY Homeowner,229,36
+WLMRT-00510,8/11/2023,"Chicago, IL",Home Improvement,Power Tools,8,180.28,1442.24,0,1442.24,Renovation Enthusiast,354,18
+WLMRT-00511,10/5/2023,"Seattle, WA",Home Improvement,Power Tools,1,133.9,133.9,5,127.2,Renovation Enthusiast,435,27
+WLMRT-00512,1/22/2023,"New York, NY",Paint,Primers,8,87.57,700.56,0,700.56,DIY Homeowner,99,19
+WLMRT-00513,12/3/2023,"Seattle, WA",Home Improvement,Hand Tools,6,287.19,1723.14,0,1723.14,Professional Contractor,454,21
+WLMRT-00514,10/10/2023,"Los Angeles, CA",Lighting,Ceiling Fans,5,110.08,550.4,0,550.4,Property Manager,479,29
+WLMRT-00515,1/26/2023,"Phoenix, AZ",Home Improvement,Power Tools,4,132.39,529.56,5,503.08,Renovation Enthusiast,155,10
+WLMRT-00516,1/14/2023,"New York, NY",Home Improvement,Power Tools,7,214.66,1502.62,0,1502.62,Renovation Enthusiast,72,41
+WLMRT-00517,4/10/2023,"Dallas, TX",Home Improvement,Workbenches,8,166.63,1333.04,0,1333.04,DIY Homeowner,372,7
+WLMRT-00518,6/13/2023,"Los Angeles, CA",Building Materials,Drywall,5,44.35,221.75,0,221.75,Renovation Enthusiast,305,22
+WLMRT-00519,7/9/2023,"Houston, TX",Flooring,Hardwood,2,282.95,565.9,0,565.9,Professional Contractor,280,37
+WLMRT-00520,2/14/2023,"Chicago, IL",Home Improvement,Workbenches,7,467.81,3274.67,0,3274.67,Renovation Enthusiast,134,22
+WLMRT-00521,8/18/2023,"Chicago, IL",Building Materials,Drywall,5,392.67,1963.35,5,1865.18,Renovation Enthusiast,180,29
+WLMRT-00522,5/2/2023,"Los Angeles, CA",Garden Center,Gardening Tools,4,386.38,1545.52,0,1545.52,Professional Contractor,155,21
+WLMRT-00523,4/6/2023,"Atlanta, GA",Plumbing,Pipes,4,115.45,461.8,0,461.8,Property Manager,332,17
+WLMRT-00524,4/6/2023,"Houston, TX",Building Materials,Insulation,4,124.61,498.44,0,498.44,Renovation Enthusiast,223,12
+WLMRT-00525,7/12/2023,"Houston, TX",Building Materials,Drywall,7,140.3,982.1,5,933,Renovation Enthusiast,402,18
+WLMRT-00526,8/13/2023,"Chicago, IL",Paint,Interior Paint,9,107.07,963.63,5,915.45,Professional Contractor,184,11
+WLMRT-00527,9/13/2023,"Phoenix, AZ",Paint,Exterior Paint,9,88.51,796.59,0,796.59,DIY Homeowner,34,16
+WLMRT-00528,11/10/2023,"New York, NY",Lighting,Bulbs,9,35.67,321.03,5,304.98,Renovation Enthusiast,235,16
+WLMRT-00529,1/11/2023,"Los Angeles, CA",Building Materials,Lumber,6,487.6,2925.6,0,2925.6,Renovation Enthusiast,391,8
+WLMRT-00530,10/25/2023,"Chicago, IL",Flooring,Laminate,1,14.75,14.75,0,14.75,Renovation Enthusiast,355,22
+WLMRT-00531,12/30/2023,"Dallas, TX",Lighting,Bulbs,4,487.16,1948.64,0,1948.64,Professional Contractor,420,33
+WLMRT-00532,3/13/2023,"Phoenix, AZ",Paint,Primers,7,279.44,1956.08,0,1956.08,Property Manager,150,23
+WLMRT-00533,10/19/2023,"Los Angeles, CA",Paint,Paint Supplies,5,54.06,270.3,0,270.3,Property Manager,358,18
+WLMRT-00534,5/31/2023,"Seattle, WA",Garden Center,Gardening Tools,7,35.13,245.91,5,233.61,Property Manager,294,9
+WLMRT-00535,10/2/2023,"Los Angeles, CA",Paint,Exterior Paint,5,404.66,2023.3,15,1719.8,Renovation Enthusiast,294,26
+WLMRT-00536,11/15/2023,"Houston, TX",Home Improvement,Hand Tools,6,71.53,429.18,0,429.18,Professional Contractor,365,36
+WLMRT-00537,2/3/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,6,137.32,823.92,0,823.92,Professional Contractor,376,42
+WLMRT-00538,2/7/2023,"New York, NY",Home Improvement,Workbenches,9,79.14,712.26,10,641.03,Property Manager,347,11
+WLMRT-00539,5/6/2023,"Dallas, TX",Flooring,Hardwood,6,338.92,2033.52,20,1626.82,DIY Homeowner,86,15
+WLMRT-00540,5/15/2023,"Houston, TX",Appliances,Dryers,3,293.13,879.39,5,835.42,DIY Homeowner,104,38
+WLMRT-00541,5/18/2023,"Chicago, IL",Appliances,Washers,8,286.47,2291.76,5,2177.17,Property Manager,432,37
+WLMRT-00542,5/9/2023,"Dallas, TX",Building Materials,Insulation,5,391.96,1959.8,0,1959.8,Professional Contractor,405,37
+WLMRT-00543,12/14/2023,"Seattle, WA",Home Improvement,Power Tools,5,385.03,1925.15,5,1828.89,Professional Contractor,269,25
+WLMRT-00544,10/23/2023,"Chicago, IL",Appliances,Dryers,3,168.92,506.76,10,456.08,Professional Contractor,191,8
+WLMRT-00545,11/12/2023,"New York, NY",Home Improvement,Hand Tools,4,145.2,580.8,0,580.8,DIY Homeowner,275,39
+WLMRT-00546,12/27/2023,"New York, NY",Garden Center,Gardening Tools,5,328.71,1643.55,5,1561.37,DIY Homeowner,477,33
+WLMRT-00547,6/11/2023,"Seattle, WA",Home Improvement,Hand Tools,9,465.14,4186.26,0,4186.26,Property Manager,355,15
+WLMRT-00548,8/14/2023,"Seattle, WA",Appliances,Dishwashers,7,319.37,2235.59,5,2123.81,DIY Homeowner,173,30
+WLMRT-00549,6/8/2023,"Atlanta, GA",Lighting,Light Fixtures,2,34.7,69.4,0,69.4,Property Manager,349,30
+WLMRT-00550,4/20/2023,"New York, NY",Garden Center,Plants,2,72.47,144.94,15,123.2,Professional Contractor,341,28
+WLMRT-00551,2/5/2023,"Los Angeles, CA",Plumbing,Toilets,6,267.48,1604.88,20,1283.9,Property Manager,449,31
+WLMRT-00552,6/13/2023,"Houston, TX",Plumbing,Faucets,6,154.95,929.7,5,883.22,Property Manager,409,11
+WLMRT-00553,4/14/2023,"Dallas, TX",Flooring,Laminate,7,17.96,125.72,5,119.43,Professional Contractor,346,29
+WLMRT-00554,7/18/2023,"New York, NY",Lighting,Outdoor Lighting,1,417.44,417.44,0,417.44,Renovation Enthusiast,270,33
+WLMRT-00555,4/14/2023,"Seattle, WA",Flooring,Tile,1,16.68,16.68,0,16.68,Renovation Enthusiast,92,29
+WLMRT-00556,9/8/2023,"Houston, TX",Plumbing,Shower Systems,5,262.09,1310.45,10,1179.4,Professional Contractor,104,28
+WLMRT-00557,11/21/2023,"Houston, TX",Appliances,Dryers,9,201.05,1809.45,0,1809.45,DIY Homeowner,352,38
+WLMRT-00558,2/23/2023,"Seattle, WA",Building Materials,Insulation,6,438.07,2628.42,10,2365.58,Renovation Enthusiast,460,7
+WLMRT-00559,4/21/2023,"Atlanta, GA",Paint,Interior Paint,2,339.53,679.06,0,679.06,Professional Contractor,121,39
+WLMRT-00560,6/12/2023,"Los Angeles, CA",Building Materials,Insulation,4,353.3,1413.2,10,1271.88,DIY Homeowner,252,25
+WLMRT-00561,6/22/2023,"Dallas, TX",Lighting,Ceiling Fans,9,149.43,1344.87,0,1344.87,Property Manager,374,28
+WLMRT-00562,7/19/2023,"Chicago, IL",Building Materials,Drywall,3,244.46,733.38,0,733.38,Renovation Enthusiast,146,26
+WLMRT-00563,8/28/2023,"Phoenix, AZ",Plumbing,Shower Systems,7,124.53,871.71,0,871.71,Professional Contractor,20,44
+WLMRT-00564,10/2/2023,"Seattle, WA",Appliances,Washers,4,160.81,643.24,0,643.24,Professional Contractor,364,14
+WLMRT-00565,9/20/2023,"Dallas, TX",Building Materials,Insulation,4,103.07,412.28,5,391.67,Professional Contractor,149,43
+WLMRT-00566,3/29/2023,"Seattle, WA",Lighting,Ceiling Fans,9,418.27,3764.43,0,3764.43,Professional Contractor,127,10
+WLMRT-00567,11/1/2023,"Phoenix, AZ",Building Materials,Drywall,6,279.73,1678.38,0,1678.38,DIY Homeowner,37,32
+WLMRT-00568,1/29/2023,"Dallas, TX",Home Improvement,Power Tools,4,91.37,365.48,5,347.21,Renovation Enthusiast,282,9
+WLMRT-00569,4/3/2023,"Los Angeles, CA",Plumbing,Shower Systems,8,493.04,3944.32,0,3944.32,Professional Contractor,56,44
+WLMRT-00570,8/5/2023,"Chicago, IL",Plumbing,Shower Systems,6,76.32,457.92,0,457.92,DIY Homeowner,147,13
+WLMRT-00571,11/2/2023,"New York, NY",Plumbing,Shower Systems,4,155.71,622.84,0,622.84,Property Manager,427,10
+WLMRT-00572,8/6/2023,"Houston, TX",Home Improvement,Power Tools,7,301.66,2111.62,0,2111.62,DIY Homeowner,17,30
+WLMRT-00573,9/1/2023,"Dallas, TX",Building Materials,Insulation,9,204.19,1837.71,10,1653.94,Property Manager,364,37
+WLMRT-00574,1/17/2023,"Phoenix, AZ",Flooring,Carpet,7,256.22,1793.54,0,1793.54,Professional Contractor,212,8
+WLMRT-00575,8/10/2023,"Houston, TX",Flooring,Laminate,5,105.65,528.25,0,528.25,DIY Homeowner,451,32
+WLMRT-00576,8/25/2023,"New York, NY",Paint,Exterior Paint,8,402.83,3222.64,0,3222.64,Renovation Enthusiast,104,43
+WLMRT-00577,2/2/2023,"Chicago, IL",Lighting,Ceiling Fans,6,312.79,1876.74,20,1501.39,Renovation Enthusiast,414,18
+WLMRT-00578,6/10/2023,"Dallas, TX",Paint,Exterior Paint,5,225.53,1127.65,0,1127.65,Property Manager,181,24
+WLMRT-00579,6/20/2023,"Chicago, IL",Building Materials,Cement,6,116,696,10,626.4,DIY Homeowner,104,17
+WLMRT-00580,7/29/2023,"Houston, TX",Flooring,Hardwood,2,401.89,803.78,0,803.78,Professional Contractor,392,12
+WLMRT-00581,7/4/2023,"Los Angeles, CA",Appliances,Dryers,7,306.49,2145.43,0,2145.43,Property Manager,442,15
+WLMRT-00582,5/30/2023,"Seattle, WA",Appliances,Refrigerators,7,395.99,2771.93,0,2771.93,DIY Homeowner,339,21
+WLMRT-00583,5/3/2023,"Phoenix, AZ",Paint,Primers,3,373.72,1121.16,0,1121.16,DIY Homeowner,15,18
+WLMRT-00584,3/18/2023,"Los Angeles, CA",Paint,Primers,3,197.56,592.68,0,592.68,Renovation Enthusiast,184,10
+WLMRT-00585,2/14/2023,"Seattle, WA",Building Materials,Insulation,3,440.24,1320.72,0,1320.72,Property Manager,336,21
+WLMRT-00586,8/14/2023,"Atlanta, GA",Paint,Exterior Paint,8,267.2,2137.6,0,2137.6,Property Manager,217,14
+WLMRT-00587,11/2/2023,"Houston, TX",Plumbing,Pipes,1,400.28,400.28,0,400.28,Professional Contractor,434,42
+WLMRT-00588,6/20/2023,"New York, NY",Home Improvement,Tool Sets,5,475,2375,15,2018.75,Professional Contractor,52,20
+WLMRT-00589,11/11/2023,"Houston, TX",Flooring,Tile,9,37.15,334.35,0,334.35,Property Manager,120,15
+WLMRT-00590,8/8/2023,"Atlanta, GA",Plumbing,Toilets,9,58.23,524.07,20,419.26,Renovation Enthusiast,15,22
+WLMRT-00591,4/4/2023,"Los Angeles, CA",Plumbing,Pipes,5,57.51,287.55,5,273.17,Professional Contractor,347,8
+WLMRT-00592,10/28/2023,"Chicago, IL",Appliances,Dryers,2,317.6,635.2,5,603.44,Renovation Enthusiast,44,32
+WLMRT-00593,2/14/2023,"Houston, TX",Lighting,Outdoor Lighting,9,319.05,2871.45,20,2297.16,Renovation Enthusiast,160,25
+WLMRT-00594,8/8/2023,"Houston, TX",Appliances,Dishwashers,1,417.98,417.98,0,417.98,Renovation Enthusiast,135,43
+WLMRT-00595,4/8/2023,"Phoenix, AZ",Appliances,Dryers,8,278.81,2230.48,5,2118.96,DIY Homeowner,319,28
+WLMRT-00596,6/22/2023,"New York, NY",Plumbing,Toilets,7,475.14,3325.98,0,3325.98,DIY Homeowner,94,31
+WLMRT-00597,5/14/2023,"Phoenix, AZ",Home Improvement,Tool Sets,7,247.06,1729.42,0,1729.42,Renovation Enthusiast,86,24
+WLMRT-00598,8/13/2023,"Los Angeles, CA",Paint,Interior Paint,7,281.2,1968.4,0,1968.4,DIY Homeowner,97,13
+WLMRT-00599,12/6/2023,"Dallas, TX",Appliances,Washers,9,374.92,3374.28,5,3205.57,DIY Homeowner,99,19
+WLMRT-00600,5/28/2023,"Los Angeles, CA",Home Improvement,Hand Tools,5,39.86,199.3,0,199.3,Property Manager,34,12
+WLMRT-00601,2/7/2023,"New York, NY",Building Materials,Lumber,2,471.32,942.64,0,942.64,Renovation Enthusiast,234,30
+WLMRT-00602,8/29/2023,"Houston, TX",Building Materials,Lumber,8,265.47,2123.76,5,2017.57,Professional Contractor,162,40
+WLMRT-00603,8/14/2023,"Los Angeles, CA",Home Improvement,Tool Sets,7,220.54,1543.78,0,1543.78,Property Manager,338,7
+WLMRT-00604,12/2/2023,"Houston, TX",Appliances,Dishwashers,7,198.52,1389.64,0,1389.64,DIY Homeowner,143,27
+WLMRT-00605,12/18/2023,"Atlanta, GA",Appliances,Dishwashers,7,364.31,2550.17,0,2550.17,Professional Contractor,253,24
+WLMRT-00606,9/1/2023,"Los Angeles, CA",Flooring,Hardwood,4,328.2,1312.8,0,1312.8,DIY Homeowner,163,10
+WLMRT-00607,5/23/2023,"Dallas, TX",Home Improvement,Power Tools,4,356.44,1425.76,0,1425.76,DIY Homeowner,155,8
+WLMRT-00608,9/17/2023,"Chicago, IL",Garden Center,Plants,9,441.08,3969.72,0,3969.72,Property Manager,265,15
+WLMRT-00609,9/24/2023,"Dallas, TX",Lighting,Ceiling Fans,4,255.03,1020.12,0,1020.12,Property Manager,82,13
+WLMRT-00610,11/8/2023,"Houston, TX",Appliances,Dryers,7,488.51,3419.57,0,3419.57,Renovation Enthusiast,166,20
+WLMRT-00611,7/16/2023,"Phoenix, AZ",Appliances,Dryers,9,84.42,759.78,0,759.78,Property Manager,218,8
+WLMRT-00612,5/2/2023,"Phoenix, AZ",Home Improvement,Workbenches,7,257.18,1800.26,0,1800.26,Professional Contractor,84,26
+WLMRT-00613,8/2/2023,"Dallas, TX",Plumbing,Toilets,3,266.47,799.41,5,759.44,Professional Contractor,225,10
+WLMRT-00614,2/4/2023,"Phoenix, AZ",Paint,Exterior Paint,1,332.28,332.28,0,332.28,Property Manager,476,31
+WLMRT-00615,8/20/2023,"Dallas, TX",Plumbing,Toilets,2,165.3,330.6,0,330.6,Property Manager,282,19
+WLMRT-00616,1/10/2023,"Chicago, IL",Paint,Paint Supplies,9,456.79,4111.11,15,3494.44,Professional Contractor,294,31
+WLMRT-00617,6/23/2023,"Seattle, WA",Paint,Primers,3,159.96,479.88,10,431.89,Property Manager,175,20
+WLMRT-00618,6/25/2023,"Los Angeles, CA",Building Materials,Drywall,8,125.46,1003.68,10,903.31,Renovation Enthusiast,285,38
+WLMRT-00619,11/23/2023,"Atlanta, GA",Lighting,Ceiling Fans,1,302.94,302.94,5,287.79,Property Manager,205,41
+WLMRT-00620,9/3/2023,"Los Angeles, CA",Building Materials,Cement,7,361.56,2530.92,0,2530.92,Renovation Enthusiast,464,29
+WLMRT-00621,11/27/2023,"Chicago, IL",Home Improvement,Power Tools,1,102.71,102.71,0,102.71,Property Manager,196,23
+WLMRT-00622,2/17/2023,"Seattle, WA",Building Materials,Insulation,4,467.59,1870.36,10,1683.32,Renovation Enthusiast,456,37
+WLMRT-00623,1/24/2023,"Houston, TX",Paint,Primers,2,209.81,419.62,0,419.62,Professional Contractor,88,12
+WLMRT-00624,2/19/2023,"Houston, TX",Building Materials,Insulation,8,350.64,2805.12,15,2384.35,Professional Contractor,370,40
+WLMRT-00625,12/18/2023,"Los Angeles, CA",Plumbing,Toilets,4,276.69,1106.76,0,1106.76,DIY Homeowner,88,20
+WLMRT-00626,4/8/2023,"Chicago, IL",Home Improvement,Hand Tools,7,441.16,3088.12,0,3088.12,Renovation Enthusiast,418,44
+WLMRT-00627,12/13/2023,"New York, NY",Lighting,Light Fixtures,1,231.12,231.12,0,231.12,DIY Homeowner,102,26
+WLMRT-00628,9/2/2023,"New York, NY",Garden Center,Outdoor Furniture,5,411.92,2059.6,5,1956.62,Professional Contractor,436,23
+WLMRT-00629,5/10/2023,"Houston, TX",Plumbing,Pipes,7,167.22,1170.54,0,1170.54,Professional Contractor,482,11
+WLMRT-00630,1/16/2023,"Dallas, TX",Garden Center,Plants,5,110.08,550.4,10,495.36,DIY Homeowner,331,15
+WLMRT-00631,12/8/2023,"Seattle, WA",Building Materials,Drywall,6,412.89,2477.34,0,2477.34,DIY Homeowner,375,39
+WLMRT-00632,4/7/2023,"Atlanta, GA",Appliances,Dishwashers,4,261.07,1044.28,0,1044.28,Professional Contractor,68,38
+WLMRT-00633,4/16/2023,"Atlanta, GA",Home Improvement,Tool Sets,4,459.74,1838.96,0,1838.96,Professional Contractor,96,30
+WLMRT-00634,1/13/2023,"Seattle, WA",Plumbing,Faucets,6,177.21,1063.26,5,1010.1,DIY Homeowner,198,23
+WLMRT-00635,7/1/2023,"Dallas, TX",Paint,Exterior Paint,2,235.76,471.52,10,424.37,Renovation Enthusiast,155,13
+WLMRT-00636,7/12/2023,"Houston, TX",Plumbing,Faucets,1,430.19,430.19,0,430.19,Renovation Enthusiast,483,20
+WLMRT-00637,11/28/2023,"Chicago, IL",Home Improvement,Tool Sets,8,411.25,3290,15,2796.5,Property Manager,420,44
+WLMRT-00638,7/1/2023,"Atlanta, GA",Plumbing,Pipes,8,273.42,2187.36,0,2187.36,Renovation Enthusiast,328,41
+WLMRT-00639,1/22/2023,"Dallas, TX",Lighting,Outdoor Lighting,3,171.78,515.34,10,463.81,Professional Contractor,167,24
+WLMRT-00640,9/30/2023,"New York, NY",Paint,Exterior Paint,7,90.5,633.5,15,538.48,Professional Contractor,460,25
+WLMRT-00641,10/18/2023,"Chicago, IL",Home Improvement,Power Tools,1,412.41,412.41,0,412.41,DIY Homeowner,330,7
+WLMRT-00642,1/16/2023,"Houston, TX",Building Materials,Insulation,6,16.48,98.88,0,98.88,Property Manager,109,16
+WLMRT-00643,9/30/2023,"Atlanta, GA",Plumbing,Shower Systems,7,490.59,3434.13,0,3434.13,DIY Homeowner,344,40
+WLMRT-00644,7/25/2023,"New York, NY",Lighting,Outdoor Lighting,7,300.19,2101.33,0,2101.33,Professional Contractor,134,23
+WLMRT-00645,11/22/2023,"New York, NY",Garden Center,Landscaping Supplies,9,326.31,2936.79,0,2936.79,Professional Contractor,67,12
+WLMRT-00646,2/14/2023,"Atlanta, GA",Building Materials,Insulation,7,144.25,1009.75,0,1009.75,Renovation Enthusiast,36,32
+WLMRT-00647,2/5/2023,"Los Angeles, CA",Home Improvement,Tool Sets,9,355.92,3203.28,5,3043.12,Professional Contractor,106,22
+WLMRT-00648,4/29/2023,"Seattle, WA",Paint,Exterior Paint,3,317.56,952.68,5,905.05,Renovation Enthusiast,106,29
+WLMRT-00649,11/10/2023,"Seattle, WA",Paint,Primers,2,462.8,925.6,0,925.6,DIY Homeowner,279,38
+WLMRT-00650,1/10/2023,"Phoenix, AZ",Lighting,Light Fixtures,2,347.52,695.04,0,695.04,DIY Homeowner,218,39
+WLMRT-00651,7/10/2023,"Phoenix, AZ",Appliances,Washers,3,324.97,974.91,0,974.91,Property Manager,41,21
+WLMRT-00652,10/11/2023,"Atlanta, GA",Lighting,Outdoor Lighting,2,241.53,483.06,0,483.06,Renovation Enthusiast,208,19
+WLMRT-00653,8/3/2023,"Houston, TX",Paint,Exterior Paint,1,428.29,428.29,5,406.88,DIY Homeowner,436,44
+WLMRT-00654,12/10/2023,"Seattle, WA",Home Improvement,Hand Tools,8,276.55,2212.4,15,1880.54,Property Manager,139,38
+WLMRT-00655,11/14/2023,"Seattle, WA",Home Improvement,Power Tools,4,463.77,1855.08,0,1855.08,DIY Homeowner,103,17
+WLMRT-00656,7/2/2023,"Los Angeles, CA",Garden Center,Landscaping Supplies,1,105.77,105.77,0,105.77,Property Manager,54,24
+WLMRT-00657,1/14/2023,"Atlanta, GA",Home Improvement,Power Tools,4,476.51,1906.04,0,1906.04,Property Manager,56,15
+WLMRT-00658,6/4/2023,"Phoenix, AZ",Garden Center,Landscaping Supplies,5,437.59,2187.95,15,1859.76,Professional Contractor,226,32
+WLMRT-00659,4/2/2023,"Atlanta, GA",Appliances,Washers,5,103.27,516.35,15,438.9,DIY Homeowner,282,39
+WLMRT-00660,7/3/2023,"Phoenix, AZ",Flooring,Tile,1,425.75,425.75,20,340.6,Renovation Enthusiast,365,13
+WLMRT-00661,12/22/2023,"Seattle, WA",Lighting,Outdoor Lighting,6,203.58,1221.48,0,1221.48,DIY Homeowner,127,22
+WLMRT-00662,7/19/2023,"Los Angeles, CA",Plumbing,Shower Systems,6,321.02,1926.12,5,1829.81,Property Manager,343,32
+WLMRT-00663,7/18/2023,"Atlanta, GA",Appliances,Washers,9,246.47,2218.23,0,2218.23,Renovation Enthusiast,77,32
+WLMRT-00664,4/18/2023,"New York, NY",Building Materials,Lumber,1,356.57,356.57,5,338.74,Property Manager,245,32
+WLMRT-00665,10/31/2023,"Houston, TX",Garden Center,Landscaping Supplies,2,20.82,41.64,0,41.64,Renovation Enthusiast,288,23
+WLMRT-00666,5/10/2023,"Houston, TX",Lighting,Outdoor Lighting,3,251.26,753.78,5,716.09,Property Manager,109,20
+WLMRT-00667,6/11/2023,"Houston, TX",Plumbing,Pipes,6,253.65,1521.9,0,1521.9,Property Manager,21,36
+WLMRT-00668,3/12/2023,"Seattle, WA",Garden Center,Landscaping Supplies,3,176.6,529.8,10,476.82,Renovation Enthusiast,366,13
+WLMRT-00669,1/11/2023,"Phoenix, AZ",Building Materials,Cement,3,91.09,273.27,5,259.61,Renovation Enthusiast,18,21
+WLMRT-00670,1/17/2023,"Chicago, IL",Building Materials,Lumber,8,167.81,1342.48,5,1275.36,Renovation Enthusiast,115,30
+WLMRT-00671,4/29/2023,"New York, NY",Garden Center,Outdoor Furniture,6,268.52,1611.12,0,1611.12,Professional Contractor,19,23
+WLMRT-00672,8/11/2023,"Dallas, TX",Home Improvement,Power Tools,7,304.29,2130.03,5,2023.53,DIY Homeowner,94,28
+WLMRT-00673,12/4/2023,"Los Angeles, CA",Home Improvement,Tool Sets,2,69.49,138.98,0,138.98,Professional Contractor,401,17
+WLMRT-00674,5/20/2023,"Atlanta, GA",Paint,Exterior Paint,8,147.02,1176.16,0,1176.16,Property Manager,19,27
+WLMRT-00675,1/8/2023,"Houston, TX",Flooring,Hardwood,6,377.48,2264.88,0,2264.88,Professional Contractor,315,36
+WLMRT-00676,8/4/2023,"Phoenix, AZ",Paint,Primers,9,170.66,1535.94,10,1382.35,Professional Contractor,198,28
+WLMRT-00677,5/25/2023,"Dallas, TX",Flooring,Laminate,6,247.66,1485.96,5,1411.66,Professional Contractor,414,12
+WLMRT-00678,2/8/2023,"Seattle, WA",Garden Center,Plants,2,46.7,93.4,0,93.4,DIY Homeowner,469,33
+WLMRT-00679,6/29/2023,"Chicago, IL",Appliances,Dishwashers,9,68.41,615.69,0,615.69,Professional Contractor,241,29
+WLMRT-00680,3/5/2023,"Phoenix, AZ",Garden Center,Landscaping Supplies,1,423.56,423.56,0,423.56,Professional Contractor,238,40
+WLMRT-00681,9/3/2023,"Chicago, IL",Flooring,Laminate,8,312.44,2499.52,0,2499.52,Professional Contractor,403,29
+WLMRT-00682,5/19/2023,"Chicago, IL",Flooring,Laminate,4,263.15,1052.6,5,999.97,DIY Homeowner,333,25
+WLMRT-00683,12/16/2023,"Dallas, TX",Appliances,Washers,7,139.95,979.65,0,979.65,Property Manager,289,40
+WLMRT-00684,1/18/2023,"Atlanta, GA",Garden Center,Landscaping Supplies,5,90.65,453.25,0,453.25,Professional Contractor,294,9
+WLMRT-00685,7/5/2023,"Chicago, IL",Appliances,Dryers,2,17.85,35.7,0,35.7,Property Manager,494,28
+WLMRT-00686,5/7/2023,"Los Angeles, CA",Flooring,Tile,8,179.47,1435.76,0,1435.76,Renovation Enthusiast,197,15
+WLMRT-00687,1/5/2023,"Dallas, TX",Plumbing,Faucets,4,315.52,1262.08,0,1262.08,DIY Homeowner,152,13
+WLMRT-00688,12/21/2023,"Phoenix, AZ",Plumbing,Shower Systems,4,380.66,1522.64,0,1522.64,DIY Homeowner,117,32
+WLMRT-00689,5/31/2023,"Los Angeles, CA",Garden Center,Plants,1,492.48,492.48,0,492.48,Property Manager,132,22
+WLMRT-00690,9/12/2023,"Houston, TX",Lighting,Outdoor Lighting,5,165.77,828.85,0,828.85,Property Manager,366,39
+WLMRT-00691,1/12/2023,"Los Angeles, CA",Flooring,Laminate,4,200.11,800.44,0,800.44,Property Manager,491,40
+WLMRT-00692,4/16/2023,"Los Angeles, CA",Garden Center,Landscaping Supplies,6,145.03,870.18,0,870.18,DIY Homeowner,114,14
+WLMRT-00693,11/3/2023,"Chicago, IL",Garden Center,Outdoor Furniture,9,125.44,1128.96,0,1128.96,Renovation Enthusiast,92,16
+WLMRT-00694,1/4/2023,"Phoenix, AZ",Flooring,Laminate,8,176.02,1408.16,0,1408.16,Renovation Enthusiast,429,43
+WLMRT-00695,3/2/2023,"Los Angeles, CA",Building Materials,Drywall,3,275.86,827.58,0,827.58,DIY Homeowner,114,20
+WLMRT-00696,9/12/2023,"Los Angeles, CA",Flooring,Laminate,4,156.97,627.88,0,627.88,Professional Contractor,361,32
+WLMRT-00697,9/8/2023,"Dallas, TX",Home Improvement,Workbenches,3,292.84,878.52,0,878.52,Professional Contractor,58,44
+WLMRT-00698,5/12/2023,"Atlanta, GA",Paint,Primers,9,296.8,2671.2,0,2671.2,Renovation Enthusiast,481,37
+WLMRT-00699,6/17/2023,"Seattle, WA",Paint,Primers,2,429.85,859.7,5,816.72,DIY Homeowner,89,19
+WLMRT-00700,7/14/2023,"New York, NY",Paint,Interior Paint,6,433.18,2599.08,0,2599.08,Professional Contractor,314,18
+WLMRT-00701,11/8/2023,"Houston, TX",Paint,Primers,7,87.64,613.48,0,613.48,Property Manager,165,22
+WLMRT-00702,5/25/2023,"Chicago, IL",Garden Center,Plants,3,159.4,478.2,0,478.2,Professional Contractor,429,42
+WLMRT-00703,1/19/2023,"Los Angeles, CA",Flooring,Carpet,7,14.68,102.76,0,102.76,DIY Homeowner,43,8
+WLMRT-00704,9/23/2023,"Seattle, WA",Garden Center,Gardening Tools,9,97.79,880.11,0,880.11,DIY Homeowner,19,44
+WLMRT-00705,5/8/2023,"Dallas, TX",Building Materials,Lumber,8,71.08,568.64,0,568.64,DIY Homeowner,94,36
+WLMRT-00706,9/22/2023,"Atlanta, GA",Garden Center,Plants,9,102.51,922.59,5,876.46,Property Manager,175,25
+WLMRT-00707,6/10/2023,"Los Angeles, CA",Flooring,Laminate,8,447.72,3581.76,5,3402.67,DIY Homeowner,301,16
+WLMRT-00708,11/9/2023,"Atlanta, GA",Paint,Primers,5,473.23,2366.15,20,1892.92,Property Manager,480,26
+WLMRT-00709,1/25/2023,"Houston, TX",Lighting,Ceiling Fans,8,241.4,1931.2,0,1931.2,Renovation Enthusiast,102,25
+WLMRT-00710,7/12/2023,"Los Angeles, CA",Plumbing,Shower Systems,5,202.21,1011.05,0,1011.05,Property Manager,136,44
+WLMRT-00711,6/21/2023,"Los Angeles, CA",Garden Center,Gardening Tools,5,241.39,1206.95,15,1025.91,Property Manager,380,19
+WLMRT-00712,7/20/2023,"Atlanta, GA",Home Improvement,Power Tools,2,469.44,938.88,0,938.88,Property Manager,200,26
+WLMRT-00713,10/10/2023,"Phoenix, AZ",Home Improvement,Hand Tools,4,376.86,1507.44,20,1205.95,DIY Homeowner,382,13
+WLMRT-00714,2/5/2023,"Seattle, WA",Home Improvement,Power Tools,4,488.95,1955.8,0,1955.8,DIY Homeowner,205,30
+WLMRT-00715,7/15/2023,"Dallas, TX",Garden Center,Landscaping Supplies,5,262.43,1312.15,5,1246.54,DIY Homeowner,219,23
+WLMRT-00716,7/22/2023,"Dallas, TX",Lighting,Bulbs,1,448.91,448.91,0,448.91,Property Manager,280,34
+WLMRT-00717,8/2/2023,"Dallas, TX",Plumbing,Shower Systems,4,126.76,507.04,5,481.69,DIY Homeowner,19,38
+WLMRT-00718,12/8/2023,"Chicago, IL",Lighting,Outdoor Lighting,2,330.63,661.26,0,661.26,DIY Homeowner,437,14
+WLMRT-00719,9/11/2023,"Chicago, IL",Lighting,Bulbs,4,55.3,221.2,0,221.2,Professional Contractor,402,15
+WLMRT-00720,9/12/2023,"Dallas, TX",Lighting,Bulbs,2,131.34,262.68,5,249.55,Property Manager,176,26
+WLMRT-00721,7/23/2023,"Chicago, IL",Plumbing,Shower Systems,6,140.72,844.32,5,802.1,Property Manager,175,10
+WLMRT-00722,8/5/2023,"Atlanta, GA",Paint,Primers,9,33.48,301.32,0,301.32,Professional Contractor,187,44
+WLMRT-00723,12/25/2023,"Chicago, IL",Flooring,Laminate,1,128.38,128.38,0,128.38,Professional Contractor,261,40
+WLMRT-00724,2/14/2023,"Chicago, IL",Lighting,Bulbs,2,422.39,844.78,10,760.3,Professional Contractor,366,38
+WLMRT-00725,8/2/2023,"New York, NY",Building Materials,Drywall,3,45.61,136.83,0,136.83,Property Manager,154,13
+WLMRT-00726,11/18/2023,"Houston, TX",Garden Center,Gardening Tools,7,360.53,2523.71,0,2523.71,Property Manager,334,38
+WLMRT-00727,8/7/2023,"Los Angeles, CA",Appliances,Dryers,5,201.55,1007.75,10,906.98,Property Manager,492,9
+WLMRT-00728,12/23/2023,"Seattle, WA",Flooring,Carpet,6,185.74,1114.44,0,1114.44,Property Manager,305,19
+WLMRT-00729,11/30/2023,"Los Angeles, CA",Flooring,Tile,6,346.74,2080.44,0,2080.44,Property Manager,346,8
+WLMRT-00730,6/29/2023,"Chicago, IL",Home Improvement,Workbenches,6,159.01,954.06,10,858.65,Renovation Enthusiast,453,18
+WLMRT-00731,3/25/2023,"Phoenix, AZ",Plumbing,Shower Systems,9,61.16,550.44,5,522.92,DIY Homeowner,129,16
+WLMRT-00732,2/9/2023,"New York, NY",Home Improvement,Workbenches,3,242.47,727.41,0,727.41,DIY Homeowner,391,13
+WLMRT-00733,12/28/2023,"Houston, TX",Garden Center,Gardening Tools,3,35.07,105.21,0,105.21,Renovation Enthusiast,75,12
+WLMRT-00734,1/20/2023,"Atlanta, GA",Home Improvement,Hand Tools,2,228.62,457.24,0,457.24,Property Manager,154,17
+WLMRT-00735,4/1/2023,"New York, NY",Lighting,Light Fixtures,6,405.9,2435.4,5,2313.63,Professional Contractor,344,35
+WLMRT-00736,2/18/2023,"Houston, TX",Plumbing,Pipes,6,405.32,2431.92,0,2431.92,DIY Homeowner,175,43
+WLMRT-00737,11/16/2023,"Chicago, IL",Lighting,Bulbs,2,117.96,235.92,0,235.92,Property Manager,172,40
+WLMRT-00738,12/16/2023,"Los Angeles, CA",Flooring,Hardwood,5,328.28,1641.4,0,1641.4,DIY Homeowner,157,30
+WLMRT-00739,12/16/2023,"Chicago, IL",Garden Center,Plants,7,76.47,535.29,0,535.29,DIY Homeowner,462,29
+WLMRT-00740,2/22/2023,"Phoenix, AZ",Flooring,Carpet,3,370.6,1111.8,10,1000.62,DIY Homeowner,188,10
+WLMRT-00741,3/5/2023,"Los Angeles, CA",Lighting,Outdoor Lighting,1,499.12,499.12,5,474.16,Renovation Enthusiast,30,37
+WLMRT-00742,3/7/2023,"Dallas, TX",Lighting,Outdoor Lighting,2,440.87,881.74,0,881.74,Renovation Enthusiast,168,34
+WLMRT-00743,10/8/2023,"Dallas, TX",Paint,Exterior Paint,4,29.57,118.28,0,118.28,Renovation Enthusiast,135,16
+WLMRT-00744,9/15/2023,"Chicago, IL",Garden Center,Landscaping Supplies,6,464.99,2789.94,0,2789.94,Professional Contractor,173,27
+WLMRT-00745,11/22/2023,"Seattle, WA",Home Improvement,Power Tools,3,244.16,732.48,10,659.23,Professional Contractor,478,32
+WLMRT-00746,8/24/2023,"Chicago, IL",Lighting,Outdoor Lighting,5,71.37,356.85,0,356.85,Renovation Enthusiast,153,43
+WLMRT-00747,2/16/2023,"Phoenix, AZ",Building Materials,Lumber,8,491.7,3933.6,0,3933.6,Renovation Enthusiast,447,33
+WLMRT-00748,7/5/2023,"New York, NY",Lighting,Bulbs,6,421.03,2526.18,0,2526.18,Renovation Enthusiast,106,13
+WLMRT-00749,1/21/2023,"Seattle, WA",Plumbing,Shower Systems,6,412.05,2472.3,5,2348.68,Property Manager,273,37
+WLMRT-00750,4/3/2023,"Seattle, WA",Appliances,Refrigerators,6,101.43,608.58,0,608.58,Property Manager,46,28
+WLMRT-00751,8/20/2023,"Los Angeles, CA",Paint,Paint Supplies,6,34.01,204.06,0,204.06,Professional Contractor,382,39
+WLMRT-00752,9/6/2023,"Phoenix, AZ",Home Improvement,Tool Sets,8,483.61,3868.88,5,3675.44,DIY Homeowner,436,34
+WLMRT-00753,8/3/2023,"Los Angeles, CA",Flooring,Hardwood,7,347.81,2434.67,0,2434.67,DIY Homeowner,311,8
+WLMRT-00754,5/9/2023,"Phoenix, AZ",Home Improvement,Hand Tools,4,178.22,712.88,10,641.59,DIY Homeowner,134,12
+WLMRT-00755,11/10/2023,"Chicago, IL",Garden Center,Gardening Tools,7,406.51,2845.57,5,2703.29,Professional Contractor,112,30
+WLMRT-00756,3/6/2023,"Atlanta, GA",Plumbing,Pipes,1,26.18,26.18,0,26.18,DIY Homeowner,268,17
+WLMRT-00757,10/28/2023,"Chicago, IL",Plumbing,Pipes,1,17.18,17.18,5,16.32,Professional Contractor,37,42
+WLMRT-00758,1/16/2023,"Dallas, TX",Plumbing,Pipes,3,124.11,372.33,0,372.33,Property Manager,491,17
+WLMRT-00759,8/6/2023,"Dallas, TX",Home Improvement,Workbenches,5,208.68,1043.4,0,1043.4,Professional Contractor,491,29
+WLMRT-00760,2/8/2023,"Dallas, TX",Paint,Paint Supplies,7,440.59,3084.13,0,3084.13,DIY Homeowner,88,8
+WLMRT-00761,5/12/2023,"Houston, TX",Home Improvement,Hand Tools,5,473.4,2367,0,2367,Property Manager,197,41
+WLMRT-00762,11/6/2023,"Houston, TX",Plumbing,Pipes,7,61.28,428.96,0,428.96,Professional Contractor,334,28
+WLMRT-00763,4/19/2023,"Houston, TX",Plumbing,Pipes,5,277.04,1385.2,15,1177.42,Property Manager,190,24
+WLMRT-00764,6/18/2023,"Chicago, IL",Appliances,Washers,2,341.79,683.58,0,683.58,Property Manager,56,35
+WLMRT-00765,3/26/2023,"Atlanta, GA",Lighting,Outdoor Lighting,3,417.87,1253.61,0,1253.61,Professional Contractor,11,20
+WLMRT-00766,4/9/2023,"Chicago, IL",Building Materials,Insulation,3,401.29,1203.87,0,1203.87,Renovation Enthusiast,132,43
+WLMRT-00767,5/20/2023,"Los Angeles, CA",Appliances,Dryers,7,48.37,338.59,5,321.66,DIY Homeowner,115,38
+WLMRT-00768,12/3/2023,"Los Angeles, CA",Appliances,Refrigerators,9,315.82,2842.38,0,2842.38,Property Manager,18,35
+WLMRT-00769,5/23/2023,"New York, NY",Garden Center,Landscaping Supplies,4,317.11,1268.44,0,1268.44,DIY Homeowner,240,22
+WLMRT-00770,4/24/2023,"New York, NY",Building Materials,Drywall,6,18.29,109.74,15,93.28,Professional Contractor,29,31
+WLMRT-00771,7/15/2023,"Phoenix, AZ",Home Improvement,Hand Tools,1,483.07,483.07,0,483.07,DIY Homeowner,107,11
+WLMRT-00772,2/14/2023,"Atlanta, GA",Lighting,Light Fixtures,1,156.72,156.72,0,156.72,Professional Contractor,38,9
+WLMRT-00773,9/10/2023,"New York, NY",Appliances,Refrigerators,2,490.88,981.76,0,981.76,Professional Contractor,188,19
+WLMRT-00774,6/12/2023,"Phoenix, AZ",Paint,Primers,9,19.08,171.72,0,171.72,Professional Contractor,73,37
+WLMRT-00775,5/10/2023,"Seattle, WA",Flooring,Laminate,5,228.48,1142.4,5,1085.28,Property Manager,321,31
+WLMRT-00776,10/13/2023,"Phoenix, AZ",Appliances,Dryers,6,295.3,1771.8,20,1417.44,Renovation Enthusiast,35,30
+WLMRT-00777,10/26/2023,"Houston, TX",Garden Center,Gardening Tools,1,444.43,444.43,5,422.21,DIY Homeowner,20,40
+WLMRT-00778,3/26/2023,"Houston, TX",Appliances,Dishwashers,4,18.17,72.68,0,72.68,Professional Contractor,487,36
+WLMRT-00779,11/9/2023,"Phoenix, AZ",Plumbing,Pipes,3,427.27,1281.81,5,1217.72,DIY Homeowner,340,21
+WLMRT-00780,7/30/2023,"Phoenix, AZ",Plumbing,Shower Systems,8,319.74,2557.92,0,2557.92,Renovation Enthusiast,393,35
+WLMRT-00781,6/18/2023,"Atlanta, GA",Paint,Primers,5,368.79,1843.95,20,1475.16,Renovation Enthusiast,144,32
+WLMRT-00782,3/13/2023,"Los Angeles, CA",Plumbing,Faucets,5,416.67,2083.35,0,2083.35,Professional Contractor,472,19
+WLMRT-00783,4/17/2023,"Phoenix, AZ",Flooring,Hardwood,2,110.09,220.18,15,187.15,Professional Contractor,214,39
+WLMRT-00784,8/29/2023,"New York, NY",Appliances,Washers,1,435.79,435.79,0,435.79,Professional Contractor,225,24
+WLMRT-00785,3/13/2023,"Houston, TX",Building Materials,Drywall,1,237.33,237.33,0,237.33,DIY Homeowner,471,28
+WLMRT-00786,1/26/2023,"Phoenix, AZ",Lighting,Outdoor Lighting,3,322.17,966.51,0,966.51,Renovation Enthusiast,464,31
+WLMRT-00787,8/21/2023,"Chicago, IL",Garden Center,Plants,7,118.03,826.21,0,826.21,Renovation Enthusiast,418,19
+WLMRT-00788,7/5/2023,"Chicago, IL",Appliances,Dryers,6,197.21,1183.26,20,946.61,Professional Contractor,335,25
+WLMRT-00789,4/13/2023,"Atlanta, GA",Building Materials,Cement,5,482.6,2413,5,2292.35,DIY Homeowner,462,7
+WLMRT-00790,3/4/2023,"Los Angeles, CA",Building Materials,Drywall,9,172.15,1549.35,0,1549.35,DIY Homeowner,33,41
+WLMRT-00791,5/19/2023,"Phoenix, AZ",Lighting,Light Fixtures,3,321.28,963.84,0,963.84,Renovation Enthusiast,51,22
+WLMRT-00792,7/11/2023,"Seattle, WA",Appliances,Dishwashers,3,175.87,527.61,20,422.09,Renovation Enthusiast,40,32
+WLMRT-00793,11/30/2023,"Seattle, WA",Garden Center,Plants,1,69.59,69.59,0,69.59,Professional Contractor,402,44
+WLMRT-00794,9/6/2023,"Atlanta, GA",Paint,Interior Paint,6,264.91,1589.46,0,1589.46,Property Manager,438,23
+WLMRT-00795,6/17/2023,"Chicago, IL",Paint,Paint Supplies,3,414.51,1243.53,0,1243.53,Property Manager,311,28
+WLMRT-00796,3/10/2023,"Atlanta, GA",Paint,Interior Paint,5,34.43,172.15,0,172.15,DIY Homeowner,424,39
+WLMRT-00797,6/23/2023,"Los Angeles, CA",Paint,Primers,7,136.31,954.17,0,954.17,Property Manager,236,8
+WLMRT-00798,1/21/2023,"Chicago, IL",Paint,Interior Paint,4,275.59,1102.36,5,1047.24,DIY Homeowner,326,44
+WLMRT-00799,1/25/2023,"Chicago, IL",Flooring,Hardwood,6,168.49,1010.94,5,960.39,Renovation Enthusiast,316,11
+WLMRT-00800,2/17/2023,"Atlanta, GA",Garden Center,Plants,3,325.1,975.3,0,975.3,Professional Contractor,287,19
+WLMRT-00801,11/5/2023,"Houston, TX",Home Improvement,Tool Sets,5,232.93,1164.65,10,1048.19,Professional Contractor,225,26
+WLMRT-00802,11/28/2023,"Los Angeles, CA",Flooring,Hardwood,7,481.92,3373.44,0,3373.44,Property Manager,225,15
+WLMRT-00803,6/27/2023,"Los Angeles, CA",Plumbing,Toilets,2,351.41,702.82,5,667.68,DIY Homeowner,223,22
+WLMRT-00804,10/7/2023,"Chicago, IL",Home Improvement,Power Tools,2,434.63,869.26,0,869.26,Professional Contractor,320,22
+WLMRT-00805,1/29/2023,"Phoenix, AZ",Building Materials,Lumber,1,48.68,48.68,15,41.38,DIY Homeowner,66,23
+WLMRT-00806,4/3/2023,"Houston, TX",Appliances,Washers,3,400.46,1201.38,0,1201.38,Property Manager,160,39
+WLMRT-00807,1/18/2023,"Atlanta, GA",Paint,Interior Paint,6,290.66,1743.96,15,1482.37,Renovation Enthusiast,129,43
+WLMRT-00808,7/15/2023,"Chicago, IL",Appliances,Washers,8,475.15,3801.2,5,3611.14,Renovation Enthusiast,454,36
+WLMRT-00809,3/21/2023,"Phoenix, AZ",Paint,Paint Supplies,3,276.61,829.83,0,829.83,Property Manager,300,27
+WLMRT-00810,8/16/2023,"Seattle, WA",Appliances,Refrigerators,9,253.78,2284.02,5,2169.82,Renovation Enthusiast,75,15
+WLMRT-00811,11/13/2023,"New York, NY",Flooring,Tile,4,390.17,1560.68,5,1482.65,DIY Homeowner,110,12
+WLMRT-00812,8/25/2023,"Chicago, IL",Garden Center,Plants,6,99.95,599.7,5,569.72,Renovation Enthusiast,481,37
+WLMRT-00813,8/12/2023,"Atlanta, GA",Garden Center,Gardening Tools,8,124.84,998.72,0,998.72,Professional Contractor,118,33
+WLMRT-00814,10/15/2023,"Houston, TX",Home Improvement,Hand Tools,2,458.2,916.4,5,870.58,DIY Homeowner,329,14
+WLMRT-00815,12/28/2023,"New York, NY",Flooring,Tile,5,63.94,319.7,20,255.76,Renovation Enthusiast,296,42
+WLMRT-00816,1/15/2023,"Phoenix, AZ",Lighting,Bulbs,5,108.35,541.75,0,541.75,DIY Homeowner,419,8
+WLMRT-00817,9/1/2023,"Houston, TX",Flooring,Laminate,2,64.89,129.78,10,116.8,Renovation Enthusiast,340,34
+WLMRT-00818,5/3/2023,"Seattle, WA",Plumbing,Pipes,5,380.7,1903.5,0,1903.5,Professional Contractor,127,16
+WLMRT-00819,7/10/2023,"Houston, TX",Building Materials,Cement,3,34.66,103.98,0,103.98,Professional Contractor,84,31
+WLMRT-00820,6/20/2023,"Phoenix, AZ",Garden Center,Outdoor Furniture,6,251.81,1510.86,0,1510.86,Property Manager,315,29
+WLMRT-00821,9/17/2023,"Houston, TX",Garden Center,Gardening Tools,8,209.63,1677.04,0,1677.04,Renovation Enthusiast,158,24
+WLMRT-00822,8/31/2023,"Atlanta, GA",Home Improvement,Workbenches,1,419.86,419.86,10,377.87,Professional Contractor,215,9
+WLMRT-00823,1/12/2023,"Los Angeles, CA",Flooring,Laminate,2,364.3,728.6,0,728.6,DIY Homeowner,144,36
+WLMRT-00824,6/7/2023,"Atlanta, GA",Flooring,Carpet,6,155.63,933.78,0,933.78,Professional Contractor,353,43
+WLMRT-00825,12/24/2023,"Chicago, IL",Plumbing,Toilets,6,86.37,518.22,15,440.49,DIY Homeowner,341,34
+WLMRT-00826,7/18/2023,"Phoenix, AZ",Plumbing,Pipes,2,265.64,531.28,0,531.28,Professional Contractor,102,34
+WLMRT-00827,7/25/2023,"Chicago, IL",Building Materials,Cement,8,344.07,2752.56,0,2752.56,Professional Contractor,465,10
+WLMRT-00828,9/18/2023,"Atlanta, GA",Building Materials,Lumber,2,85.17,170.34,0,170.34,Renovation Enthusiast,291,43
+WLMRT-00829,5/7/2023,"Seattle, WA",Appliances,Dishwashers,7,189.69,1327.83,0,1327.83,Property Manager,62,44
+WLMRT-00830,12/30/2023,"Seattle, WA",Flooring,Hardwood,7,251.71,1761.97,0,1761.97,DIY Homeowner,232,26
+WLMRT-00831,12/26/2023,"Dallas, TX",Building Materials,Insulation,7,336.26,2353.82,0,2353.82,Renovation Enthusiast,371,25
+WLMRT-00832,10/31/2023,"Dallas, TX",Appliances,Washers,9,91.73,825.57,0,825.57,Professional Contractor,87,31
+WLMRT-00833,4/29/2023,"Phoenix, AZ",Building Materials,Cement,8,66.65,533.2,0,533.2,Property Manager,264,34
+WLMRT-00834,7/25/2023,"Atlanta, GA",Garden Center,Landscaping Supplies,3,427.25,1281.75,0,1281.75,Renovation Enthusiast,475,17
+WLMRT-00835,7/23/2023,"New York, NY",Plumbing,Faucets,8,450.76,3606.08,0,3606.08,Renovation Enthusiast,210,8
+WLMRT-00836,7/21/2023,"Chicago, IL",Garden Center,Landscaping Supplies,7,389.79,2728.53,0,2728.53,Professional Contractor,120,12
+WLMRT-00837,4/14/2023,"Los Angeles, CA",Flooring,Tile,1,359.67,359.67,0,359.67,DIY Homeowner,297,11
+WLMRT-00838,9/21/2023,"Atlanta, GA",Home Improvement,Hand Tools,2,158.44,316.88,0,316.88,Renovation Enthusiast,208,21
+WLMRT-00839,3/25/2023,"Chicago, IL",Garden Center,Plants,3,181.59,544.77,5,517.53,Renovation Enthusiast,491,28
+WLMRT-00840,1/8/2023,"Phoenix, AZ",Building Materials,Insulation,3,391.18,1173.54,0,1173.54,Professional Contractor,430,33
+WLMRT-00841,2/3/2023,"Seattle, WA",Flooring,Tile,1,445.43,445.43,5,423.16,Professional Contractor,473,35
+WLMRT-00842,4/23/2023,"Los Angeles, CA",Home Improvement,Power Tools,5,164.14,820.7,0,820.7,DIY Homeowner,257,19
+WLMRT-00843,11/9/2023,"Phoenix, AZ",Home Improvement,Hand Tools,8,104.74,837.92,0,837.92,DIY Homeowner,404,18
+WLMRT-00844,6/26/2023,"Atlanta, GA",Appliances,Refrigerators,6,140.96,845.76,0,845.76,DIY Homeowner,496,7
+WLMRT-00845,9/10/2023,"New York, NY",Plumbing,Toilets,8,61.56,492.48,5,467.86,Property Manager,244,29
+WLMRT-00846,3/21/2023,"Phoenix, AZ",Flooring,Laminate,8,302.17,2417.36,20,1933.89,DIY Homeowner,112,18
+WLMRT-00847,2/24/2023,"Phoenix, AZ",Paint,Exterior Paint,8,477.96,3823.68,15,3250.13,Professional Contractor,448,42
+WLMRT-00848,5/25/2023,"Chicago, IL",Home Improvement,Power Tools,2,295.25,590.5,5,560.98,Renovation Enthusiast,241,21
+WLMRT-00849,6/19/2023,"Houston, TX",Home Improvement,Power Tools,9,104.42,939.78,15,798.81,Property Manager,356,31
+WLMRT-00850,3/26/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,5,484.25,2421.25,0,2421.25,Renovation Enthusiast,150,34
+WLMRT-00851,4/9/2023,"Phoenix, AZ",Building Materials,Insulation,7,317.97,2225.79,20,1780.63,Renovation Enthusiast,176,43
+WLMRT-00852,3/27/2023,"New York, NY",Paint,Paint Supplies,1,366.36,366.36,5,348.04,DIY Homeowner,307,18
+WLMRT-00853,6/4/2023,"Seattle, WA",Plumbing,Toilets,7,460.19,3221.33,5,3060.26,DIY Homeowner,132,35
+WLMRT-00854,1/16/2023,"Atlanta, GA",Appliances,Dishwashers,3,266.13,798.39,0,798.39,Property Manager,190,35
+WLMRT-00855,3/31/2023,"Phoenix, AZ",Home Improvement,Workbenches,7,204.07,1428.49,0,1428.49,DIY Homeowner,185,18
+WLMRT-00856,4/13/2023,"Chicago, IL",Plumbing,Shower Systems,6,494.3,2965.8,0,2965.8,Renovation Enthusiast,235,44
+WLMRT-00857,9/6/2023,"New York, NY",Plumbing,Pipes,2,199.75,399.5,0,399.5,DIY Homeowner,355,28
+WLMRT-00858,7/3/2023,"Atlanta, GA",Paint,Paint Supplies,5,389.58,1947.9,5,1850.5,Renovation Enthusiast,288,15
+WLMRT-00859,8/9/2023,"Seattle, WA",Appliances,Washers,6,20.31,121.86,5,115.77,Renovation Enthusiast,343,43
+WLMRT-00860,11/27/2023,"New York, NY",Appliances,Dishwashers,1,41.16,41.16,5,39.1,Professional Contractor,251,13
+WLMRT-00861,11/14/2023,"Phoenix, AZ",Appliances,Washers,8,103.71,829.68,5,788.2,DIY Homeowner,431,26
+WLMRT-00862,2/13/2023,"Seattle, WA",Appliances,Dishwashers,1,474.62,474.62,10,427.16,Renovation Enthusiast,411,33
+WLMRT-00863,11/11/2023,"Atlanta, GA",Building Materials,Cement,7,117.64,823.48,5,782.31,Renovation Enthusiast,388,40
+WLMRT-00864,5/25/2023,"Seattle, WA",Flooring,Carpet,6,377.31,2263.86,0,2263.86,Property Manager,91,25
+WLMRT-00865,9/29/2023,"Seattle, WA",Paint,Paint Supplies,2,251.28,502.56,0,502.56,Renovation Enthusiast,186,18
+WLMRT-00866,11/23/2023,"New York, NY",Garden Center,Outdoor Furniture,1,200.45,200.45,0,200.45,DIY Homeowner,33,31
+WLMRT-00867,8/22/2023,"Atlanta, GA",Paint,Interior Paint,7,49.23,344.61,10,310.15,Professional Contractor,338,18
+WLMRT-00868,8/16/2023,"Houston, TX",Building Materials,Lumber,7,180.95,1266.65,0,1266.65,DIY Homeowner,89,39
+WLMRT-00869,11/27/2023,"Phoenix, AZ",Flooring,Hardwood,2,112.61,225.22,0,225.22,DIY Homeowner,368,10
+WLMRT-00870,7/13/2023,"Los Angeles, CA",Building Materials,Cement,7,42.66,298.62,5,283.69,DIY Homeowner,133,25
+WLMRT-00871,3/18/2023,"Los Angeles, CA",Paint,Exterior Paint,9,451.8,4066.2,0,4066.2,Property Manager,35,13
+WLMRT-00872,11/22/2023,"Dallas, TX",Home Improvement,Power Tools,7,360.14,2520.98,0,2520.98,Property Manager,122,43
+WLMRT-00873,10/13/2023,"Phoenix, AZ",Garden Center,Plants,9,351.22,3160.98,0,3160.98,DIY Homeowner,27,16
+WLMRT-00874,11/29/2023,"Los Angeles, CA",Flooring,Carpet,1,14.16,14.16,0,14.16,Professional Contractor,296,33
+WLMRT-00875,4/3/2023,"Houston, TX",Home Improvement,Power Tools,5,300.89,1504.45,0,1504.45,DIY Homeowner,351,11
+WLMRT-00876,1/6/2023,"Houston, TX",Flooring,Hardwood,6,199.37,1196.22,5,1136.41,DIY Homeowner,176,26
+WLMRT-00877,2/25/2023,"Houston, TX",Home Improvement,Power Tools,5,487.64,2438.2,15,2072.47,Professional Contractor,349,35
+WLMRT-00878,12/10/2023,"Dallas, TX",Flooring,Hardwood,3,471.53,1414.59,10,1273.13,Renovation Enthusiast,211,24
+WLMRT-00879,4/23/2023,"Dallas, TX",Lighting,Ceiling Fans,1,150.62,150.62,5,143.09,DIY Homeowner,393,20
+WLMRT-00880,8/27/2023,"Dallas, TX",Plumbing,Shower Systems,1,377.01,377.01,15,320.46,Property Manager,21,34
+WLMRT-00881,10/23/2023,"Atlanta, GA",Flooring,Hardwood,9,472.79,4255.11,10,3829.6,Property Manager,130,40
+WLMRT-00882,12/29/2023,"Houston, TX",Appliances,Washers,4,468.92,1875.68,0,1875.68,Renovation Enthusiast,164,43
+WLMRT-00883,1/22/2023,"Atlanta, GA",Lighting,Outdoor Lighting,9,191.92,1727.28,0,1727.28,Professional Contractor,225,44
+WLMRT-00884,9/3/2023,"Dallas, TX",Garden Center,Gardening Tools,1,411,411,0,411,Property Manager,431,17
+WLMRT-00885,2/8/2023,"Phoenix, AZ",Flooring,Tile,4,77.81,311.24,15,264.55,DIY Homeowner,434,30
+WLMRT-00886,10/14/2023,"Phoenix, AZ",Home Improvement,Power Tools,9,209.47,1885.23,5,1790.97,Professional Contractor,268,37
+WLMRT-00887,2/25/2023,"Phoenix, AZ",Lighting,Bulbs,4,364.95,1459.8,5,1386.81,Professional Contractor,59,13
+WLMRT-00888,3/23/2023,"Houston, TX",Paint,Interior Paint,8,220.17,1761.36,0,1761.36,Property Manager,163,13
+WLMRT-00889,10/25/2023,"Los Angeles, CA",Lighting,Bulbs,1,290.42,290.42,10,261.38,DIY Homeowner,222,26
+WLMRT-00890,5/29/2023,"Seattle, WA",Garden Center,Landscaping Supplies,6,203.33,1219.98,0,1219.98,DIY Homeowner,362,30
+WLMRT-00891,7/22/2023,"Seattle, WA",Lighting,Outdoor Lighting,7,430.79,3015.53,0,3015.53,Property Manager,447,32
+WLMRT-00892,8/26/2023,"Atlanta, GA",Appliances,Refrigerators,3,18.65,55.95,5,53.15,DIY Homeowner,195,34
+WLMRT-00893,5/18/2023,"Dallas, TX",Garden Center,Gardening Tools,3,185.85,557.55,10,501.79,DIY Homeowner,139,23
+WLMRT-00894,8/19/2023,"Phoenix, AZ",Lighting,Outdoor Lighting,9,209.14,1882.26,10,1694.03,Professional Contractor,82,26
+WLMRT-00895,12/22/2023,"Houston, TX",Garden Center,Landscaping Supplies,4,254.12,1016.48,5,965.66,Property Manager,213,15
+WLMRT-00896,2/17/2023,"New York, NY",Lighting,Bulbs,7,239.61,1677.27,5,1593.41,Property Manager,46,25
+WLMRT-00897,5/5/2023,"Atlanta, GA",Lighting,Outdoor Lighting,6,175.31,1051.86,0,1051.86,DIY Homeowner,75,36
+WLMRT-00898,7/7/2023,"Chicago, IL",Paint,Primers,9,214.15,1927.35,0,1927.35,Property Manager,141,19
+WLMRT-00899,9/10/2023,"Dallas, TX",Home Improvement,Workbenches,2,79.99,159.98,0,159.98,Professional Contractor,37,41
+WLMRT-00900,5/5/2023,"Chicago, IL",Home Improvement,Power Tools,5,222.61,1113.05,20,890.44,Renovation Enthusiast,450,11
+WLMRT-00901,11/16/2023,"Atlanta, GA",Home Improvement,Tool Sets,7,95.36,667.52,0,667.52,Property Manager,114,12
+WLMRT-00902,7/10/2023,"Atlanta, GA",Paint,Paint Supplies,1,303.11,303.11,0,303.11,Property Manager,296,40
+WLMRT-00903,12/15/2023,"Chicago, IL",Home Improvement,Hand Tools,4,123.82,495.28,0,495.28,Renovation Enthusiast,45,27
+WLMRT-00904,7/27/2023,"New York, NY",Flooring,Carpet,3,150.76,452.28,0,452.28,Professional Contractor,136,24
+WLMRT-00905,6/16/2023,"Chicago, IL",Appliances,Refrigerators,7,280.64,1964.48,0,1964.48,Renovation Enthusiast,326,26
+WLMRT-00906,4/15/2023,"Chicago, IL",Appliances,Dishwashers,1,279.77,279.77,0,279.77,DIY Homeowner,349,7
+WLMRT-00907,5/13/2023,"Seattle, WA",Garden Center,Outdoor Furniture,1,134.78,134.78,0,134.78,Renovation Enthusiast,116,23
+WLMRT-00908,5/19/2023,"Houston, TX",Home Improvement,Hand Tools,3,272.35,817.05,5,776.2,Property Manager,466,16
+WLMRT-00909,7/24/2023,"Dallas, TX",Plumbing,Faucets,5,58.88,294.4,0,294.4,Renovation Enthusiast,29,15
+WLMRT-00910,5/12/2023,"Houston, TX",Appliances,Washers,9,302.83,2725.47,0,2725.47,Professional Contractor,467,40
+WLMRT-00911,12/16/2023,"New York, NY",Building Materials,Drywall,2,407.44,814.88,0,814.88,Professional Contractor,409,18
+WLMRT-00912,3/13/2023,"Seattle, WA",Home Improvement,Hand Tools,5,168.37,841.85,15,715.57,Professional Contractor,123,25
+WLMRT-00913,5/19/2023,"Los Angeles, CA",Paint,Primers,4,296.95,1187.8,0,1187.8,Professional Contractor,339,40
+WLMRT-00914,7/20/2023,"New York, NY",Appliances,Dryers,7,229.94,1609.58,0,1609.58,DIY Homeowner,205,32
+WLMRT-00915,12/25/2023,"Atlanta, GA",Paint,Primers,3,19.51,58.53,0,58.53,Renovation Enthusiast,473,36
+WLMRT-00916,3/16/2023,"Seattle, WA",Home Improvement,Tool Sets,8,455.41,3643.28,10,3278.95,Renovation Enthusiast,435,42
+WLMRT-00917,1/13/2023,"Atlanta, GA",Paint,Exterior Paint,2,293.26,586.52,0,586.52,Property Manager,178,19
+WLMRT-00918,7/1/2023,"Chicago, IL",Paint,Paint Supplies,9,244.36,2199.24,0,2199.24,Professional Contractor,177,34
+WLMRT-00919,7/12/2023,"Atlanta, GA",Garden Center,Gardening Tools,7,272.47,1907.29,15,1621.2,Professional Contractor,340,20
+WLMRT-00920,2/14/2023,"Atlanta, GA",Lighting,Outdoor Lighting,3,259.89,779.67,0,779.67,DIY Homeowner,294,24
+WLMRT-00921,9/27/2023,"Chicago, IL",Flooring,Hardwood,6,64.7,388.2,0,388.2,Property Manager,137,24
+WLMRT-00922,9/10/2023,"Dallas, TX",Lighting,Outdoor Lighting,8,325.25,2602,5,2471.9,Renovation Enthusiast,351,23
+WLMRT-00923,5/22/2023,"Dallas, TX",Flooring,Hardwood,5,44.15,220.75,0,220.75,Property Manager,300,17
+WLMRT-00924,1/4/2023,"Dallas, TX",Flooring,Carpet,8,58.45,467.6,15,397.46,Professional Contractor,249,33
+WLMRT-00925,12/6/2023,"Houston, TX",Garden Center,Landscaping Supplies,9,197.3,1775.7,5,1686.92,DIY Homeowner,265,32
+WLMRT-00926,11/29/2023,"Phoenix, AZ",Lighting,Outdoor Lighting,3,36.19,108.57,0,108.57,DIY Homeowner,451,34
+WLMRT-00927,9/23/2023,"New York, NY",Garden Center,Gardening Tools,9,434.9,3914.1,0,3914.1,DIY Homeowner,152,38
+WLMRT-00928,6/1/2023,"New York, NY",Home Improvement,Hand Tools,2,129.04,258.08,0,258.08,Renovation Enthusiast,12,18
+WLMRT-00929,11/30/2023,"Seattle, WA",Flooring,Tile,5,153.48,767.4,20,613.92,Professional Contractor,316,39
+WLMRT-00930,11/28/2023,"Phoenix, AZ",Lighting,Light Fixtures,7,422.85,2959.95,10,2663.96,DIY Homeowner,472,13
+WLMRT-00931,8/22/2023,"New York, NY",Paint,Paint Supplies,6,324.89,1949.34,0,1949.34,DIY Homeowner,84,35
+WLMRT-00932,2/21/2023,"New York, NY",Paint,Paint Supplies,9,339.42,3054.78,0,3054.78,Professional Contractor,337,31
+WLMRT-00933,12/20/2023,"Atlanta, GA",Lighting,Bulbs,5,220.43,1102.15,10,991.94,DIY Homeowner,255,21
+WLMRT-00934,5/11/2023,"New York, NY",Home Improvement,Hand Tools,4,294.07,1176.28,0,1176.28,DIY Homeowner,19,7
+WLMRT-00935,10/10/2023,"Dallas, TX",Building Materials,Lumber,5,385.72,1928.6,0,1928.6,DIY Homeowner,280,41
+WLMRT-00936,3/17/2023,"New York, NY",Paint,Paint Supplies,5,132.74,663.7,0,663.7,Professional Contractor,419,8
+WLMRT-00937,9/8/2023,"Los Angeles, CA",Paint,Paint Supplies,9,452.25,4070.25,0,4070.25,Renovation Enthusiast,61,23
+WLMRT-00938,7/12/2023,"Chicago, IL",Lighting,Bulbs,3,398.4,1195.2,0,1195.2,Property Manager,216,10
+WLMRT-00939,8/31/2023,"Seattle, WA",Home Improvement,Power Tools,4,297.03,1188.12,0,1188.12,DIY Homeowner,468,18
+WLMRT-00940,4/4/2023,"Houston, TX",Lighting,Outdoor Lighting,5,432.85,2164.25,5,2056.04,DIY Homeowner,290,17
+WLMRT-00941,5/6/2023,"Chicago, IL",Plumbing,Faucets,9,347.23,3125.07,0,3125.07,Property Manager,266,23
+WLMRT-00942,11/24/2023,"Los Angeles, CA",Home Improvement,Power Tools,9,465.64,4190.76,0,4190.76,Renovation Enthusiast,103,22
+WLMRT-00943,1/14/2023,"New York, NY",Home Improvement,Power Tools,9,472.22,4249.98,0,4249.98,Professional Contractor,473,20
+WLMRT-00944,4/21/2023,"Phoenix, AZ",Garden Center,Outdoor Furniture,3,200.17,600.51,0,600.51,Professional Contractor,364,29
+WLMRT-00945,1/23/2023,"Houston, TX",Home Improvement,Hand Tools,5,256.81,1284.05,0,1284.05,DIY Homeowner,72,38
+WLMRT-00946,12/12/2023,"Atlanta, GA",Home Improvement,Tool Sets,7,136.33,954.31,0,954.31,Property Manager,203,25
+WLMRT-00947,3/29/2023,"Dallas, TX",Plumbing,Shower Systems,6,161.83,970.98,20,776.78,DIY Homeowner,82,34
+WLMRT-00948,12/17/2023,"Houston, TX",Home Improvement,Hand Tools,5,419.43,2097.15,5,1992.29,Professional Contractor,240,12
+WLMRT-00949,2/22/2023,"New York, NY",Plumbing,Toilets,7,310.57,2173.99,0,2173.99,Property Manager,144,16
+WLMRT-00950,9/10/2023,"Phoenix, AZ",Appliances,Dishwashers,5,459.96,2299.8,5,2184.81,Professional Contractor,222,43
+WLMRT-00951,11/20/2023,"Phoenix, AZ",Plumbing,Pipes,7,349.36,2445.52,0,2445.52,Property Manager,118,28
+WLMRT-00952,8/6/2023,"New York, NY",Plumbing,Pipes,6,146.29,877.74,0,877.74,Professional Contractor,475,13
+WLMRT-00953,3/13/2023,"New York, NY",Appliances,Washers,7,384.34,2690.38,5,2555.86,Professional Contractor,322,15
+WLMRT-00954,9/26/2023,"Chicago, IL",Paint,Primers,3,74.96,224.88,0,224.88,Property Manager,299,38
+WLMRT-00955,9/28/2023,"Seattle, WA",Home Improvement,Workbenches,6,257.77,1546.62,5,1469.29,DIY Homeowner,445,25
+WLMRT-00956,8/11/2023,"Los Angeles, CA",Home Improvement,Hand Tools,2,142.47,284.94,0,284.94,Professional Contractor,391,21
+WLMRT-00957,3/14/2023,"Los Angeles, CA",Lighting,Outdoor Lighting,2,44.35,88.7,5,84.26,Professional Contractor,444,15
+WLMRT-00958,11/5/2023,"Seattle, WA",Plumbing,Shower Systems,6,380.55,2283.3,0,2283.3,Professional Contractor,22,18
+WLMRT-00959,5/29/2023,"Dallas, TX",Building Materials,Drywall,3,59.46,178.38,20,142.7,DIY Homeowner,385,24
+WLMRT-00960,9/30/2023,"Houston, TX",Flooring,Carpet,4,121.77,487.08,0,487.08,Renovation Enthusiast,267,31
+WLMRT-00961,10/9/2023,"Seattle, WA",Home Improvement,Tool Sets,9,381.14,3430.26,0,3430.26,DIY Homeowner,368,9
+WLMRT-00962,10/24/2023,"Los Angeles, CA",Paint,Primers,8,139.89,1119.12,0,1119.12,Renovation Enthusiast,483,16
+WLMRT-00963,6/26/2023,"Atlanta, GA",Lighting,Bulbs,5,133.86,669.3,5,635.83,Renovation Enthusiast,189,30
+WLMRT-00964,1/23/2023,"Seattle, WA",Appliances,Refrigerators,8,428.59,3428.72,5,3257.28,DIY Homeowner,212,11
+WLMRT-00965,9/1/2023,"Phoenix, AZ",Home Improvement,Tool Sets,9,486.96,4382.64,0,4382.64,DIY Homeowner,374,32
+WLMRT-00966,10/7/2023,"Los Angeles, CA",Lighting,Ceiling Fans,4,289.04,1156.16,0,1156.16,Property Manager,217,39
+WLMRT-00967,5/4/2023,"Chicago, IL",Garden Center,Plants,9,310.45,2794.05,0,2794.05,Renovation Enthusiast,226,21
+WLMRT-00968,7/25/2023,"Seattle, WA",Appliances,Dishwashers,7,303.94,2127.58,0,2127.58,Property Manager,495,36
+WLMRT-00969,7/26/2023,"Chicago, IL",Building Materials,Lumber,8,168,1344,15,1142.4,DIY Homeowner,315,28
+WLMRT-00970,7/6/2023,"New York, NY",Building Materials,Lumber,4,491.25,1965,5,1866.75,Professional Contractor,150,15
+WLMRT-00971,3/11/2023,"Atlanta, GA",Building Materials,Drywall,6,10.2,61.2,5,58.14,Property Manager,302,33
+WLMRT-00972,5/8/2023,"Phoenix, AZ",Appliances,Washers,5,71.82,359.1,5,341.14,Property Manager,464,16
+WLMRT-00973,3/1/2023,"Los Angeles, CA",Appliances,Refrigerators,1,306.95,306.95,0,306.95,Professional Contractor,470,34
+WLMRT-00974,10/24/2023,"New York, NY",Home Improvement,Power Tools,1,464.56,464.56,15,394.88,DIY Homeowner,74,18
+WLMRT-00975,3/30/2023,"Atlanta, GA",Garden Center,Plants,1,88.75,88.75,10,79.88,Professional Contractor,156,35
+WLMRT-00976,11/25/2023,"Seattle, WA",Appliances,Refrigerators,4,193.03,772.12,0,772.12,DIY Homeowner,413,9
+WLMRT-00977,2/19/2023,"Houston, TX",Building Materials,Lumber,2,84.21,168.42,0,168.42,Professional Contractor,345,17
+WLMRT-00978,8/18/2023,"Seattle, WA",Paint,Interior Paint,6,307.35,1844.1,0,1844.1,Professional Contractor,97,15
+WLMRT-00979,3/30/2023,"Houston, TX",Lighting,Ceiling Fans,3,104.96,314.88,5,299.14,Professional Contractor,40,33
+WLMRT-00980,2/1/2023,"Seattle, WA",Flooring,Hardwood,3,264.06,792.18,20,633.74,Professional Contractor,89,13
+WLMRT-00981,11/4/2023,"Phoenix, AZ",Flooring,Hardwood,4,204.18,816.72,0,816.72,Professional Contractor,26,17
+WLMRT-00982,12/27/2023,"New York, NY",Lighting,Light Fixtures,5,356.25,1781.25,0,1781.25,Renovation Enthusiast,311,41
+WLMRT-00983,12/2/2023,"Los Angeles, CA",Flooring,Laminate,9,382.63,3443.67,0,3443.67,Professional Contractor,163,28
+WLMRT-00984,3/4/2023,"Seattle, WA",Paint,Paint Supplies,1,330.84,330.84,10,297.76,Renovation Enthusiast,410,44
+WLMRT-00985,5/17/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,2,264.39,528.78,0,528.78,Property Manager,179,19
+WLMRT-00986,7/14/2023,"New York, NY",Home Improvement,Workbenches,3,344.88,1034.64,0,1034.64,Renovation Enthusiast,113,28
+WLMRT-00987,3/28/2023,"Chicago, IL",Appliances,Washers,2,169.45,338.9,10,305.01,DIY Homeowner,20,39
+WLMRT-00988,10/14/2023,"Los Angeles, CA",Lighting,Outdoor Lighting,5,40.19,200.95,0,200.95,Renovation Enthusiast,483,12
+WLMRT-00989,11/25/2023,"Chicago, IL",Building Materials,Lumber,7,239.83,1678.81,0,1678.81,Professional Contractor,493,42
+WLMRT-00990,8/4/2023,"Phoenix, AZ",Building Materials,Lumber,1,53.86,53.86,0,53.86,Property Manager,469,7
+WLMRT-00991,1/21/2023,"Houston, TX",Garden Center,Gardening Tools,4,156.44,625.76,0,625.76,DIY Homeowner,275,21
+WLMRT-00992,1/28/2023,"Los Angeles, CA",Garden Center,Landscaping Supplies,3,281.61,844.83,0,844.83,Renovation Enthusiast,460,16
+WLMRT-00993,7/3/2023,"Phoenix, AZ",Paint,Exterior Paint,1,235.45,235.45,0,235.45,DIY Homeowner,68,7
+WLMRT-00994,10/20/2023,"Dallas, TX",Building Materials,Lumber,9,147,1323,15,1124.55,DIY Homeowner,355,10
+WLMRT-00995,8/7/2023,"Atlanta, GA",Home Improvement,Hand Tools,3,422.76,1268.28,0,1268.28,DIY Homeowner,286,43
+WLMRT-00996,8/1/2023,"Chicago, IL",Building Materials,Lumber,3,341.72,1025.16,10,922.64,Renovation Enthusiast,256,9
+WLMRT-00997,3/2/2023,"New York, NY",Home Improvement,Tool Sets,1,424.32,424.32,15,360.67,DIY Homeowner,151,22
+WLMRT-00998,2/24/2023,"Dallas, TX",Home Improvement,Hand Tools,7,173.73,1216.11,0,1216.11,DIY Homeowner,168,22
+WLMRT-00999,4/22/2023,"New York, NY",Paint,Interior Paint,4,337.03,1348.12,0,1348.12,Professional Contractor,86,9
+WLMRT-01000,2/21/2023,"Chicago, IL",Building Materials,Lumber,3,253.2,759.6,0,759.6,Property Manager,491,39
+WLMRT-01001,4/30/2023,"Dallas, TX",Plumbing,Pipes,7,63.58,445.06,5,422.81,Professional Contractor,160,36
+WLMRT-01002,4/6/2023,"Seattle, WA",Flooring,Hardwood,7,256.77,1797.39,0,1797.39,DIY Homeowner,465,21
+WLMRT-01003,5/1/2023,"Los Angeles, CA",Flooring,Laminate,2,120.37,240.74,0,240.74,DIY Homeowner,63,32
+WLMRT-01004,7/19/2023,"Houston, TX",Home Improvement,Workbenches,5,251.99,1259.95,0,1259.95,Property Manager,96,24
+WLMRT-01005,2/11/2023,"Houston, TX",Lighting,Ceiling Fans,9,37.63,338.67,5,321.74,Renovation Enthusiast,115,22
+WLMRT-01006,11/30/2023,"Los Angeles, CA",Plumbing,Shower Systems,2,296.83,593.66,10,534.29,Property Manager,395,13
+WLMRT-01007,1/21/2023,"Dallas, TX",Plumbing,Pipes,6,255.1,1530.6,0,1530.6,Property Manager,94,26
+WLMRT-01008,1/9/2023,"Atlanta, GA",Plumbing,Pipes,1,40,40,0,40,Professional Contractor,242,35
+WLMRT-01009,3/30/2023,"New York, NY",Lighting,Outdoor Lighting,4,354.93,1419.72,0,1419.72,Renovation Enthusiast,449,42
+WLMRT-01010,8/11/2023,"Los Angeles, CA",Plumbing,Pipes,9,102.43,921.87,0,921.87,DIY Homeowner,137,32
+WLMRT-01011,4/20/2023,"Dallas, TX",Plumbing,Pipes,7,363.1,2541.7,0,2541.7,Renovation Enthusiast,20,30
+WLMRT-01012,2/26/2023,"New York, NY",Plumbing,Toilets,6,56.09,336.54,0,336.54,Property Manager,279,39
+WLMRT-01013,7/11/2023,"Seattle, WA",Appliances,Washers,4,294.59,1178.36,0,1178.36,DIY Homeowner,68,39
+WLMRT-01014,5/29/2023,"New York, NY",Plumbing,Pipes,9,68.88,619.92,0,619.92,DIY Homeowner,310,14
+WLMRT-01015,5/5/2023,"Dallas, TX",Plumbing,Pipes,1,227.73,227.73,10,204.96,DIY Homeowner,452,22
+WLMRT-01016,12/4/2023,"Atlanta, GA",Appliances,Dryers,6,112.61,675.66,0,675.66,Renovation Enthusiast,334,25
+WLMRT-01017,4/5/2023,"Atlanta, GA",Appliances,Dryers,2,421.91,843.82,0,843.82,Renovation Enthusiast,345,44
+WLMRT-01018,11/30/2023,"Dallas, TX",Home Improvement,Power Tools,9,421.9,3797.1,0,3797.1,Professional Contractor,317,35
+WLMRT-01019,5/25/2023,"Los Angeles, CA",Plumbing,Toilets,9,102.85,925.65,0,925.65,Property Manager,178,9
+WLMRT-01020,8/2/2023,"Chicago, IL",Building Materials,Cement,9,225.81,2032.29,0,2032.29,Professional Contractor,356,42
+WLMRT-01021,2/25/2023,"Chicago, IL",Garden Center,Gardening Tools,3,420.56,1261.68,0,1261.68,Renovation Enthusiast,103,29
+WLMRT-01022,5/18/2023,"Atlanta, GA",Building Materials,Lumber,9,224.77,2022.93,0,2022.93,Property Manager,95,23
+WLMRT-01023,4/10/2023,"Atlanta, GA",Paint,Interior Paint,4,299.99,1199.96,0,1199.96,Property Manager,132,28
+WLMRT-01024,5/16/2023,"Dallas, TX",Building Materials,Lumber,1,103.03,103.03,5,97.88,DIY Homeowner,134,13
+WLMRT-01025,3/10/2023,"Los Angeles, CA",Paint,Interior Paint,9,338.9,3050.1,5,2897.6,Renovation Enthusiast,331,16
+WLMRT-01026,7/26/2023,"Los Angeles, CA",Plumbing,Pipes,8,268.63,2149.04,0,2149.04,Property Manager,19,37
+WLMRT-01027,9/18/2023,"Los Angeles, CA",Home Improvement,Power Tools,7,465.46,3258.22,0,3258.22,Renovation Enthusiast,172,21
+WLMRT-01028,12/15/2023,"New York, NY",Plumbing,Shower Systems,2,376.14,752.28,5,714.67,DIY Homeowner,305,7
+WLMRT-01029,8/8/2023,"Atlanta, GA",Garden Center,Outdoor Furniture,3,442.41,1327.23,15,1128.15,Renovation Enthusiast,434,32
+WLMRT-01030,3/25/2023,"Los Angeles, CA",Plumbing,Pipes,5,377.89,1889.45,0,1889.45,Renovation Enthusiast,113,10
+WLMRT-01031,12/5/2023,"Phoenix, AZ",Paint,Exterior Paint,4,244.96,979.84,10,881.86,Renovation Enthusiast,62,19
+WLMRT-01032,11/12/2023,"New York, NY",Lighting,Light Fixtures,5,80.84,404.2,15,343.57,Professional Contractor,374,19
+WLMRT-01033,5/4/2023,"Dallas, TX",Building Materials,Lumber,8,63.72,509.76,15,433.3,Property Manager,49,44
+WLMRT-01034,3/16/2023,"Atlanta, GA",Plumbing,Shower Systems,3,275.77,827.31,0,827.31,Property Manager,340,14
+WLMRT-01035,12/2/2023,"Phoenix, AZ",Home Improvement,Hand Tools,5,458.16,2290.8,5,2176.26,Renovation Enthusiast,81,20
+WLMRT-01036,10/27/2023,"Los Angeles, CA",Plumbing,Toilets,8,494.97,3959.76,0,3959.76,Professional Contractor,290,8
+WLMRT-01037,9/6/2023,"Houston, TX",Appliances,Refrigerators,4,72.81,291.24,0,291.24,Property Manager,179,28
+WLMRT-01038,1/18/2023,"New York, NY",Home Improvement,Hand Tools,4,17.12,68.48,0,68.48,Property Manager,128,13
+WLMRT-01039,10/15/2023,"New York, NY",Home Improvement,Tool Sets,3,60.44,181.32,0,181.32,Renovation Enthusiast,447,35
+WLMRT-01040,10/12/2023,"Seattle, WA",Lighting,Ceiling Fans,3,22.61,67.83,5,64.44,Renovation Enthusiast,439,41
+WLMRT-01041,5/18/2023,"Chicago, IL",Garden Center,Gardening Tools,8,151.26,1210.08,0,1210.08,Property Manager,49,13
+WLMRT-01042,7/30/2023,"New York, NY",Lighting,Light Fixtures,5,294.9,1474.5,0,1474.5,Renovation Enthusiast,42,10
+WLMRT-01043,12/13/2023,"Houston, TX",Appliances,Refrigerators,3,81.98,245.94,0,245.94,Professional Contractor,373,29
+WLMRT-01044,5/24/2023,"Phoenix, AZ",Lighting,Outdoor Lighting,5,493.31,2466.55,0,2466.55,DIY Homeowner,334,43
+WLMRT-01045,12/14/2023,"New York, NY",Paint,Exterior Paint,3,127.22,381.66,0,381.66,Renovation Enthusiast,325,24
+WLMRT-01046,2/25/2023,"Phoenix, AZ",Home Improvement,Power Tools,2,470.86,941.72,0,941.72,DIY Homeowner,200,38
+WLMRT-01047,8/14/2023,"Phoenix, AZ",Appliances,Dryers,6,231.3,1387.8,15,1179.63,Professional Contractor,276,10
+WLMRT-01048,6/9/2023,"Houston, TX",Home Improvement,Hand Tools,4,27.53,110.12,0,110.12,DIY Homeowner,10,9
+WLMRT-01049,3/3/2023,"Seattle, WA",Garden Center,Plants,9,288.48,2596.32,5,2466.5,Professional Contractor,52,8
+WLMRT-01050,7/24/2023,"Seattle, WA",Plumbing,Toilets,3,434.55,1303.65,0,1303.65,Professional Contractor,173,36
+WLMRT-01051,9/28/2023,"Houston, TX",Appliances,Dishwashers,3,252.87,758.61,0,758.61,Professional Contractor,192,19
+WLMRT-01052,4/17/2023,"Phoenix, AZ",Plumbing,Faucets,8,317.36,2538.88,0,2538.88,Professional Contractor,373,16
+WLMRT-01053,11/20/2023,"Phoenix, AZ",Appliances,Refrigerators,7,303.86,2127.02,0,2127.02,Property Manager,50,9
+WLMRT-01054,4/20/2023,"Los Angeles, CA",Home Improvement,Hand Tools,4,119.89,479.56,0,479.56,DIY Homeowner,175,32
+WLMRT-01055,1/17/2023,"Seattle, WA",Building Materials,Cement,3,61.28,183.84,5,174.65,Professional Contractor,216,24
+WLMRT-01056,11/14/2023,"Seattle, WA",Paint,Interior Paint,9,144.87,1303.83,0,1303.83,Renovation Enthusiast,44,34
+WLMRT-01057,12/24/2023,"Atlanta, GA",Paint,Paint Supplies,5,443.61,2218.05,0,2218.05,Professional Contractor,348,29
+WLMRT-01058,7/12/2023,"Dallas, TX",Garden Center,Plants,8,153.23,1225.84,0,1225.84,Renovation Enthusiast,312,22
+WLMRT-01059,2/7/2023,"Dallas, TX",Building Materials,Insulation,1,343.07,343.07,0,343.07,DIY Homeowner,422,32
+WLMRT-01060,8/23/2023,"Los Angeles, CA",Paint,Paint Supplies,6,327.44,1964.64,20,1571.71,Property Manager,383,26
+WLMRT-01061,3/22/2023,"Houston, TX",Paint,Primers,1,61.84,61.84,5,58.75,DIY Homeowner,490,26
+WLMRT-01062,7/16/2023,"Phoenix, AZ",Lighting,Ceiling Fans,8,28.3,226.4,0,226.4,DIY Homeowner,136,19
+WLMRT-01063,7/26/2023,"Seattle, WA",Garden Center,Landscaping Supplies,7,286,2002,15,1701.7,Professional Contractor,442,23
+WLMRT-01064,8/24/2023,"Los Angeles, CA",Home Improvement,Hand Tools,7,335.12,2345.84,20,1876.67,Professional Contractor,400,32
+WLMRT-01065,2/7/2023,"Dallas, TX",Paint,Exterior Paint,2,441.17,882.34,0,882.34,Renovation Enthusiast,259,13
+WLMRT-01066,1/24/2023,"Houston, TX",Flooring,Tile,4,449.97,1799.88,0,1799.88,Property Manager,486,36
+WLMRT-01067,7/30/2023,"Chicago, IL",Garden Center,Plants,3,137.02,411.06,15,349.4,Renovation Enthusiast,308,13
+WLMRT-01068,11/25/2023,"Los Angeles, CA",Garden Center,Plants,6,108.17,649.02,5,616.57,DIY Homeowner,420,14
+WLMRT-01069,11/16/2023,"Chicago, IL",Plumbing,Pipes,3,155.86,467.58,10,420.82,Property Manager,50,36
+WLMRT-01070,7/23/2023,"Dallas, TX",Lighting,Light Fixtures,2,67.23,134.46,5,127.74,Professional Contractor,444,10
+WLMRT-01071,7/31/2023,"Atlanta, GA",Paint,Exterior Paint,2,346.77,693.54,20,554.83,DIY Homeowner,258,29
+WLMRT-01072,10/31/2023,"Houston, TX",Plumbing,Pipes,2,349.82,699.64,0,699.64,Renovation Enthusiast,87,10
+WLMRT-01073,8/16/2023,"Dallas, TX",Home Improvement,Workbenches,6,206.76,1240.56,0,1240.56,Property Manager,40,16
+WLMRT-01074,8/22/2023,"Chicago, IL",Flooring,Tile,3,174.87,524.61,0,524.61,Professional Contractor,317,40
+WLMRT-01075,3/2/2023,"Los Angeles, CA",Garden Center,Landscaping Supplies,7,404.99,2834.93,5,2693.18,Property Manager,252,35
+WLMRT-01076,1/21/2023,"New York, NY",Home Improvement,Tool Sets,2,141.84,283.68,0,283.68,Professional Contractor,21,13
+WLMRT-01077,7/11/2023,"Chicago, IL",Home Improvement,Hand Tools,3,230.98,692.94,10,623.65,Professional Contractor,104,41
+WLMRT-01078,3/17/2023,"Dallas, TX",Home Improvement,Hand Tools,9,65.27,587.43,20,469.94,DIY Homeowner,21,19
+WLMRT-01079,11/22/2023,"Seattle, WA",Flooring,Carpet,5,245.52,1227.6,10,1104.84,Property Manager,333,10
+WLMRT-01080,9/8/2023,"Los Angeles, CA",Lighting,Ceiling Fans,8,17.28,138.24,0,138.24,Renovation Enthusiast,25,23
+WLMRT-01081,12/9/2023,"Chicago, IL",Flooring,Tile,2,360.56,721.12,5,685.06,Professional Contractor,96,28
+WLMRT-01082,12/1/2023,"Chicago, IL",Appliances,Dryers,9,163.75,1473.75,5,1400.06,DIY Homeowner,123,42
+WLMRT-01083,10/19/2023,"Seattle, WA",Home Improvement,Tool Sets,1,213.73,213.73,0,213.73,Professional Contractor,77,28
+WLMRT-01084,9/11/2023,"Los Angeles, CA",Garden Center,Gardening Tools,8,453.61,3628.88,0,3628.88,Property Manager,197,7
+WLMRT-01085,9/7/2023,"Houston, TX",Flooring,Laminate,9,33.23,299.07,15,254.21,Property Manager,403,42
+WLMRT-01086,9/2/2023,"Chicago, IL",Appliances,Washers,6,487.13,2922.78,0,2922.78,DIY Homeowner,333,25
+WLMRT-01087,3/14/2023,"Houston, TX",Appliances,Dryers,6,269.62,1617.72,20,1294.18,Professional Contractor,94,17
+WLMRT-01088,11/20/2023,"Atlanta, GA",Paint,Primers,9,435,3915,0,3915,Renovation Enthusiast,213,8
+WLMRT-01089,7/16/2023,"Houston, TX",Lighting,Outdoor Lighting,6,41.13,246.78,5,234.44,Property Manager,102,28
+WLMRT-01090,7/27/2023,"Chicago, IL",Building Materials,Lumber,3,27.74,83.22,20,66.58,Professional Contractor,387,12
+WLMRT-01091,7/6/2023,"Phoenix, AZ",Paint,Primers,9,128.39,1155.51,10,1039.96,Professional Contractor,369,38
+WLMRT-01092,6/29/2023,"Dallas, TX",Plumbing,Faucets,2,198.63,397.26,5,377.4,Renovation Enthusiast,68,25
+WLMRT-01093,4/5/2023,"Atlanta, GA",Appliances,Refrigerators,1,194.39,194.39,0,194.39,Renovation Enthusiast,360,25
+WLMRT-01094,12/15/2023,"Dallas, TX",Lighting,Ceiling Fans,4,328.92,1315.68,0,1315.68,Professional Contractor,320,12
+WLMRT-01095,2/20/2023,"Dallas, TX",Home Improvement,Power Tools,8,56.44,451.52,0,451.52,Renovation Enthusiast,244,25
+WLMRT-01096,11/8/2023,"Houston, TX",Garden Center,Plants,8,128.09,1024.72,0,1024.72,DIY Homeowner,389,16
+WLMRT-01097,11/22/2023,"Atlanta, GA",Paint,Exterior Paint,5,68.92,344.6,0,344.6,Professional Contractor,473,14
+WLMRT-01098,8/4/2023,"Seattle, WA",Plumbing,Shower Systems,6,11.39,68.34,15,58.09,DIY Homeowner,22,16
+WLMRT-01099,1/1/2023,"Phoenix, AZ",Garden Center,Plants,2,438.72,877.44,0,877.44,Property Manager,321,22
+WLMRT-01100,9/9/2023,"Houston, TX",Garden Center,Plants,4,62,248,0,248,Renovation Enthusiast,277,27
+WLMRT-01101,2/27/2023,"Los Angeles, CA",Appliances,Washers,2,57.83,115.66,0,115.66,Renovation Enthusiast,483,41
+WLMRT-01102,2/28/2023,"Dallas, TX",Home Improvement,Tool Sets,6,217.46,1304.76,0,1304.76,Property Manager,158,13
+WLMRT-01103,4/3/2023,"Seattle, WA",Home Improvement,Hand Tools,5,354.34,1771.7,0,1771.7,DIY Homeowner,95,24
+WLMRT-01104,4/24/2023,"Seattle, WA",Building Materials,Cement,2,211.76,423.52,5,402.34,Professional Contractor,396,43
+WLMRT-01105,10/18/2023,"Houston, TX",Garden Center,Outdoor Furniture,2,110.08,220.16,0,220.16,Property Manager,163,23
+WLMRT-01106,11/9/2023,"Seattle, WA",Plumbing,Toilets,5,51.94,259.7,0,259.7,Renovation Enthusiast,149,37
+WLMRT-01107,3/15/2023,"Phoenix, AZ",Flooring,Carpet,4,245.26,981.04,5,931.99,DIY Homeowner,191,20
+WLMRT-01108,1/29/2023,"Chicago, IL",Building Materials,Lumber,9,328.12,2953.08,0,2953.08,Professional Contractor,104,23
+WLMRT-01109,12/19/2023,"Chicago, IL",Home Improvement,Power Tools,8,488.25,3906,5,3710.7,Property Manager,143,17
+WLMRT-01110,3/2/2023,"Chicago, IL",Garden Center,Gardening Tools,5,485.03,2425.15,5,2303.89,Professional Contractor,97,11
+WLMRT-01111,9/9/2023,"Houston, TX",Garden Center,Gardening Tools,3,478.51,1435.53,0,1435.53,Professional Contractor,306,15
+WLMRT-01112,12/8/2023,"Phoenix, AZ",Lighting,Ceiling Fans,1,108.56,108.56,20,86.85,Professional Contractor,217,37
+WLMRT-01113,12/9/2023,"Chicago, IL",Building Materials,Insulation,2,323.58,647.16,5,614.8,Professional Contractor,131,29
+WLMRT-01114,3/30/2023,"Dallas, TX",Building Materials,Drywall,4,74.16,296.64,0,296.64,Professional Contractor,18,43
+WLMRT-01115,12/5/2023,"Los Angeles, CA",Lighting,Outdoor Lighting,8,452.52,3620.16,15,3077.14,Property Manager,71,12
+WLMRT-01116,9/2/2023,"Los Angeles, CA",Garden Center,Gardening Tools,2,205.22,410.44,15,348.87,Property Manager,468,23
+WLMRT-01117,2/26/2023,"Chicago, IL",Appliances,Dryers,7,16.09,112.63,5,107,DIY Homeowner,56,12
+WLMRT-01118,11/23/2023,"Chicago, IL",Flooring,Carpet,5,416.72,2083.6,10,1875.24,Renovation Enthusiast,83,23
+WLMRT-01119,11/22/2023,"Dallas, TX",Flooring,Tile,9,270.12,2431.08,0,2431.08,Professional Contractor,258,30
+WLMRT-01120,3/21/2023,"New York, NY",Home Improvement,Power Tools,5,354.92,1774.6,0,1774.6,Property Manager,357,23
+WLMRT-01121,8/2/2023,"Dallas, TX",Lighting,Ceiling Fans,4,347.73,1390.92,5,1321.37,DIY Homeowner,108,36
+WLMRT-01122,5/19/2023,"Dallas, TX",Appliances,Dishwashers,3,88.7,266.1,0,266.1,Renovation Enthusiast,54,30
+WLMRT-01123,5/20/2023,"Atlanta, GA",Building Materials,Drywall,6,488.01,2928.06,0,2928.06,Property Manager,373,13
+WLMRT-01124,10/7/2023,"Dallas, TX",Garden Center,Outdoor Furniture,4,96.04,384.16,5,364.95,Property Manager,367,35
+WLMRT-01125,7/10/2023,"Los Angeles, CA",Plumbing,Pipes,6,466.45,2798.7,10,2518.83,DIY Homeowner,23,35
+WLMRT-01126,2/6/2023,"Los Angeles, CA",Flooring,Laminate,7,10.78,75.46,0,75.46,Renovation Enthusiast,252,41
+WLMRT-01127,11/12/2023,"Chicago, IL",Paint,Paint Supplies,8,289.63,2317.04,5,2201.19,Property Manager,233,11
+WLMRT-01128,9/9/2023,"Seattle, WA",Flooring,Laminate,6,73.87,443.22,0,443.22,Property Manager,388,11
+WLMRT-01129,7/27/2023,"Atlanta, GA",Garden Center,Plants,6,297.97,1787.82,0,1787.82,Property Manager,41,30
+WLMRT-01130,8/16/2023,"Seattle, WA",Flooring,Tile,4,212.82,851.28,5,808.72,Professional Contractor,54,34
+WLMRT-01131,7/8/2023,"Houston, TX",Home Improvement,Hand Tools,1,286.89,286.89,0,286.89,Property Manager,458,22
+WLMRT-01132,7/26/2023,"Seattle, WA",Appliances,Refrigerators,3,226.36,679.08,15,577.22,DIY Homeowner,24,41
+WLMRT-01133,5/24/2023,"Seattle, WA",Plumbing,Pipes,7,345.95,2421.65,0,2421.65,Property Manager,279,36
+WLMRT-01134,6/4/2023,"Phoenix, AZ",Garden Center,Landscaping Supplies,3,17.48,52.44,0,52.44,DIY Homeowner,281,18
+WLMRT-01135,7/11/2023,"Seattle, WA",Flooring,Tile,6,328.55,1971.3,0,1971.3,DIY Homeowner,38,28
+WLMRT-01136,1/9/2023,"Seattle, WA",Garden Center,Outdoor Furniture,4,363.09,1452.36,0,1452.36,Property Manager,209,43
+WLMRT-01137,3/17/2023,"Houston, TX",Home Improvement,Workbenches,8,450.32,3602.56,15,3062.18,DIY Homeowner,164,7
+WLMRT-01138,3/9/2023,"Seattle, WA",Flooring,Hardwood,1,93.37,93.37,10,84.03,DIY Homeowner,316,21
+WLMRT-01139,9/3/2023,"Los Angeles, CA",Paint,Primers,6,10.2,61.2,0,61.2,DIY Homeowner,417,23
+WLMRT-01140,6/27/2023,"Dallas, TX",Garden Center,Landscaping Supplies,7,347.13,2429.91,0,2429.91,DIY Homeowner,390,27
+WLMRT-01141,1/15/2023,"Los Angeles, CA",Appliances,Refrigerators,3,249.68,749.04,0,749.04,Renovation Enthusiast,143,13
+WLMRT-01142,1/8/2023,"Atlanta, GA",Appliances,Dryers,4,201.92,807.68,5,767.3,DIY Homeowner,496,21
+WLMRT-01143,2/12/2023,"Atlanta, GA",Garden Center,Plants,9,84.57,761.13,0,761.13,Property Manager,333,26
+WLMRT-01144,12/19/2023,"Seattle, WA",Appliances,Dishwashers,5,72.51,362.55,5,344.42,Property Manager,16,42
+WLMRT-01145,2/21/2023,"Phoenix, AZ",Lighting,Light Fixtures,7,200.18,1401.26,20,1121.01,Property Manager,358,27
+WLMRT-01146,10/25/2023,"Houston, TX",Paint,Paint Supplies,4,388.3,1553.2,5,1475.54,DIY Homeowner,61,15
+WLMRT-01147,4/30/2023,"Houston, TX",Garden Center,Outdoor Furniture,7,48.8,341.6,10,307.44,Property Manager,468,34
+WLMRT-01148,9/12/2023,"Chicago, IL",Plumbing,Faucets,3,499.66,1498.98,5,1424.03,Professional Contractor,347,11
+WLMRT-01149,6/5/2023,"Chicago, IL",Home Improvement,Hand Tools,3,163.21,489.63,0,489.63,Property Manager,58,23
+WLMRT-01150,10/17/2023,"Atlanta, GA",Paint,Interior Paint,5,273.58,1367.9,10,1231.11,Renovation Enthusiast,268,44
+WLMRT-01151,6/8/2023,"Los Angeles, CA",Flooring,Tile,5,42.48,212.4,0,212.4,DIY Homeowner,396,32
+WLMRT-01152,10/9/2023,"Phoenix, AZ",Garden Center,Gardening Tools,8,231.26,1850.08,5,1757.58,Property Manager,388,16
+WLMRT-01153,2/16/2023,"Phoenix, AZ",Flooring,Hardwood,5,496.65,2483.25,15,2110.76,Professional Contractor,471,14
+WLMRT-01154,1/27/2023,"Los Angeles, CA",Lighting,Bulbs,5,60.09,300.45,0,300.45,Property Manager,450,9
+WLMRT-01155,2/21/2023,"Houston, TX",Building Materials,Drywall,9,432.54,3892.86,0,3892.86,Renovation Enthusiast,255,28
+WLMRT-01156,6/15/2023,"Seattle, WA",Garden Center,Plants,3,406.4,1219.2,15,1036.32,Renovation Enthusiast,484,21
+WLMRT-01157,3/31/2023,"Dallas, TX",Building Materials,Cement,5,277.85,1389.25,0,1389.25,DIY Homeowner,107,43
+WLMRT-01158,1/1/2023,"Houston, TX",Plumbing,Faucets,5,106.51,532.55,20,426.04,Renovation Enthusiast,53,20
+WLMRT-01159,10/8/2023,"Los Angeles, CA",Appliances,Dishwashers,4,109.73,438.92,20,351.14,Property Manager,203,41
+WLMRT-01160,10/2/2023,"Dallas, TX",Building Materials,Lumber,4,466.25,1865,0,1865,Professional Contractor,175,35
+WLMRT-01161,1/23/2023,"Chicago, IL",Paint,Exterior Paint,3,474.11,1422.33,0,1422.33,Professional Contractor,320,8
+WLMRT-01162,2/24/2023,"Seattle, WA",Building Materials,Insulation,3,357.87,1073.61,0,1073.61,Property Manager,96,26
+WLMRT-01163,2/12/2023,"Dallas, TX",Garden Center,Landscaping Supplies,1,175.09,175.09,0,175.09,Property Manager,31,28
+WLMRT-01164,2/8/2023,"Chicago, IL",Paint,Interior Paint,8,397.44,3179.52,0,3179.52,Professional Contractor,83,28
+WLMRT-01165,3/8/2023,"Phoenix, AZ",Home Improvement,Workbenches,8,240.87,1926.96,0,1926.96,Renovation Enthusiast,242,16
+WLMRT-01166,4/12/2023,"Atlanta, GA",Lighting,Ceiling Fans,6,376.62,2259.72,5,2146.73,DIY Homeowner,344,28
+WLMRT-01167,4/11/2023,"Chicago, IL",Lighting,Outdoor Lighting,2,335.42,670.84,5,637.3,DIY Homeowner,412,14
+WLMRT-01168,2/13/2023,"Los Angeles, CA",Paint,Paint Supplies,5,451.33,2256.65,0,2256.65,Property Manager,414,8
+WLMRT-01169,8/13/2023,"New York, NY",Paint,Paint Supplies,3,207.87,623.61,0,623.61,Property Manager,197,17
+WLMRT-01170,7/19/2023,"Chicago, IL",Garden Center,Landscaping Supplies,8,232.54,1860.32,0,1860.32,Property Manager,87,34
+WLMRT-01171,2/12/2023,"Seattle, WA",Appliances,Refrigerators,5,150.9,754.5,0,754.5,Renovation Enthusiast,263,21
+WLMRT-01172,4/25/2023,"Houston, TX",Appliances,Dishwashers,9,83.28,749.52,0,749.52,Renovation Enthusiast,258,25
+WLMRT-01173,11/30/2023,"Houston, TX",Appliances,Dryers,6,428.76,2572.56,0,2572.56,Property Manager,200,31
+WLMRT-01174,2/16/2023,"New York, NY",Lighting,Ceiling Fans,9,131.98,1187.82,10,1069.04,Renovation Enthusiast,266,43
+WLMRT-01175,2/15/2023,"Atlanta, GA",Garden Center,Plants,5,424.75,2123.75,0,2123.75,Renovation Enthusiast,21,12
+WLMRT-01176,12/12/2023,"Los Angeles, CA",Garden Center,Plants,8,388.08,3104.64,0,3104.64,Renovation Enthusiast,61,32
+WLMRT-01177,1/29/2023,"Dallas, TX",Garden Center,Outdoor Furniture,8,17.89,143.12,5,135.96,Professional Contractor,318,41
+WLMRT-01178,9/18/2023,"Seattle, WA",Plumbing,Pipes,6,317.5,1905,0,1905,Property Manager,121,8
+WLMRT-01179,7/29/2023,"Atlanta, GA",Flooring,Laminate,3,251.41,754.23,0,754.23,Professional Contractor,59,14
+WLMRT-01180,1/14/2023,"Los Angeles, CA",Plumbing,Pipes,8,86.12,688.96,0,688.96,Property Manager,89,13
+WLMRT-01181,3/19/2023,"Houston, TX",Building Materials,Lumber,1,357.56,357.56,5,339.68,DIY Homeowner,16,38
+WLMRT-01182,1/24/2023,"New York, NY",Plumbing,Faucets,8,45.45,363.6,0,363.6,Professional Contractor,345,17
+WLMRT-01183,11/13/2023,"New York, NY",Plumbing,Toilets,1,295.88,295.88,0,295.88,Renovation Enthusiast,36,44
+WLMRT-01184,12/31/2023,"Phoenix, AZ",Lighting,Outdoor Lighting,7,153.3,1073.1,15,912.13,Property Manager,314,19
+WLMRT-01185,5/5/2023,"Atlanta, GA",Appliances,Washers,4,368.9,1475.6,0,1475.6,Renovation Enthusiast,263,38
+WLMRT-01186,2/6/2023,"Atlanta, GA",Garden Center,Gardening Tools,7,80.64,564.48,0,564.48,Property Manager,55,14
+WLMRT-01187,1/19/2023,"Phoenix, AZ",Paint,Paint Supplies,9,232.57,2093.13,10,1883.82,Renovation Enthusiast,241,17
+WLMRT-01188,11/15/2023,"Seattle, WA",Lighting,Bulbs,7,322.32,2256.24,0,2256.24,Renovation Enthusiast,184,11
+WLMRT-01189,9/7/2023,"Dallas, TX",Paint,Primers,1,467.28,467.28,0,467.28,DIY Homeowner,455,21
+WLMRT-01190,8/18/2023,"New York, NY",Plumbing,Toilets,9,162.38,1461.42,0,1461.42,Property Manager,487,40
+WLMRT-01191,2/25/2023,"Seattle, WA",Building Materials,Cement,7,303.3,2123.1,0,2123.1,Renovation Enthusiast,343,39
+WLMRT-01192,11/7/2023,"Houston, TX",Paint,Interior Paint,2,457.17,914.34,0,914.34,Renovation Enthusiast,443,20
+WLMRT-01193,5/16/2023,"Houston, TX",Lighting,Ceiling Fans,6,493.34,2960.04,0,2960.04,Professional Contractor,449,20
+WLMRT-01194,5/8/2023,"Seattle, WA",Lighting,Light Fixtures,1,261.9,261.9,5,248.8,Property Manager,22,25
+WLMRT-01195,3/30/2023,"Phoenix, AZ",Flooring,Tile,5,329.97,1649.85,0,1649.85,DIY Homeowner,259,29
+WLMRT-01196,10/6/2023,"New York, NY",Lighting,Outdoor Lighting,4,366.28,1465.12,5,1391.86,Professional Contractor,393,14
+WLMRT-01197,4/14/2023,"Atlanta, GA",Garden Center,Gardening Tools,4,201.13,804.52,0,804.52,Renovation Enthusiast,352,28
+WLMRT-01198,1/13/2023,"Houston, TX",Garden Center,Gardening Tools,4,146.24,584.96,10,526.46,Professional Contractor,289,40
+WLMRT-01199,10/20/2023,"Los Angeles, CA",Paint,Paint Supplies,2,326,652,0,652,DIY Homeowner,499,29
+WLMRT-01200,1/15/2023,"Phoenix, AZ",Lighting,Bulbs,9,330.74,2976.66,0,2976.66,DIY Homeowner,134,27
+WLMRT-01201,6/15/2023,"New York, NY",Home Improvement,Tool Sets,7,67.06,469.42,5,445.95,DIY Homeowner,319,36
+WLMRT-01202,10/16/2023,"Atlanta, GA",Garden Center,Landscaping Supplies,4,326.25,1305,5,1239.75,DIY Homeowner,421,15
+WLMRT-01203,7/27/2023,"Chicago, IL",Home Improvement,Tool Sets,3,471.88,1415.64,0,1415.64,Professional Contractor,428,7
+WLMRT-01204,3/5/2023,"Los Angeles, CA",Garden Center,Landscaping Supplies,7,316.22,2213.54,0,2213.54,Renovation Enthusiast,350,23
+WLMRT-01205,6/29/2023,"Chicago, IL",Plumbing,Toilets,5,30.2,151,5,143.45,Property Manager,130,21
+WLMRT-01206,1/17/2023,"Seattle, WA",Appliances,Refrigerators,9,293.33,2639.97,0,2639.97,Renovation Enthusiast,170,44
+WLMRT-01207,5/25/2023,"Atlanta, GA",Plumbing,Shower Systems,1,458.08,458.08,0,458.08,Professional Contractor,196,12
+WLMRT-01208,4/20/2023,"Dallas, TX",Home Improvement,Tool Sets,3,399.45,1198.35,0,1198.35,Property Manager,93,25
+WLMRT-01209,2/26/2023,"Chicago, IL",Appliances,Dishwashers,8,66.12,528.96,0,528.96,Renovation Enthusiast,208,32
+WLMRT-01210,1/19/2023,"Atlanta, GA",Appliances,Refrigerators,4,265.08,1060.32,0,1060.32,Professional Contractor,90,28
+WLMRT-01211,1/10/2023,"Atlanta, GA",Garden Center,Landscaping Supplies,8,220.57,1764.56,0,1764.56,Professional Contractor,181,15
+WLMRT-01212,1/26/2023,"Los Angeles, CA",Building Materials,Drywall,4,495.93,1983.72,10,1785.35,Property Manager,192,20
+WLMRT-01213,5/23/2023,"Atlanta, GA",Plumbing,Pipes,2,471.4,942.8,0,942.8,Renovation Enthusiast,96,41
+WLMRT-01214,2/22/2023,"Seattle, WA",Paint,Paint Supplies,8,237.52,1900.16,0,1900.16,Professional Contractor,117,15
+WLMRT-01215,7/28/2023,"Dallas, TX",Paint,Interior Paint,5,62.37,311.85,0,311.85,Renovation Enthusiast,464,40
+WLMRT-01216,5/31/2023,"Phoenix, AZ",Plumbing,Shower Systems,1,110.21,110.21,5,104.7,Renovation Enthusiast,438,41
+WLMRT-01217,11/10/2023,"Los Angeles, CA",Home Improvement,Power Tools,9,205.53,1849.77,10,1664.79,DIY Homeowner,252,27
+WLMRT-01218,5/4/2023,"Chicago, IL",Plumbing,Pipes,6,304.69,1828.14,0,1828.14,Property Manager,482,29
+WLMRT-01219,6/11/2023,"Seattle, WA",Lighting,Light Fixtures,3,71.12,213.36,0,213.36,Renovation Enthusiast,11,30
+WLMRT-01220,3/6/2023,"New York, NY",Home Improvement,Power Tools,9,361.53,3253.77,5,3091.08,Renovation Enthusiast,277,9
+WLMRT-01221,10/31/2023,"Seattle, WA",Plumbing,Faucets,3,325.51,976.53,10,878.88,Renovation Enthusiast,267,36
+WLMRT-01222,6/16/2023,"Los Angeles, CA",Lighting,Outdoor Lighting,1,447.57,447.57,0,447.57,Renovation Enthusiast,452,32
+WLMRT-01223,7/28/2023,"Atlanta, GA",Plumbing,Toilets,5,347.91,1739.55,0,1739.55,Professional Contractor,183,34
+WLMRT-01224,6/3/2023,"Phoenix, AZ",Home Improvement,Hand Tools,2,469.99,939.98,0,939.98,Professional Contractor,78,16
+WLMRT-01225,6/1/2023,"New York, NY",Appliances,Dryers,8,184.01,1472.08,0,1472.08,DIY Homeowner,267,8
+WLMRT-01226,8/24/2023,"Chicago, IL",Paint,Exterior Paint,4,253.08,1012.32,0,1012.32,DIY Homeowner,134,11
+WLMRT-01227,5/4/2023,"Los Angeles, CA",Home Improvement,Hand Tools,9,63.03,567.27,5,538.91,Professional Contractor,49,23
+WLMRT-01228,4/3/2023,"Chicago, IL",Flooring,Hardwood,8,142.77,1142.16,0,1142.16,DIY Homeowner,398,30
+WLMRT-01229,9/30/2023,"Los Angeles, CA",Flooring,Carpet,3,277.56,832.68,5,791.05,Renovation Enthusiast,145,19
+WLMRT-01230,7/12/2023,"Atlanta, GA",Plumbing,Shower Systems,9,65.83,592.47,5,562.85,DIY Homeowner,146,19
+WLMRT-01231,11/29/2023,"Atlanta, GA",Garden Center,Plants,4,17.67,70.68,10,63.61,Property Manager,386,12
+WLMRT-01232,5/20/2023,"New York, NY",Building Materials,Cement,3,257.74,773.22,15,657.24,Professional Contractor,464,42
+WLMRT-01233,4/22/2023,"New York, NY",Lighting,Bulbs,1,47.28,47.28,5,44.92,Professional Contractor,95,25
+WLMRT-01234,11/21/2023,"Chicago, IL",Building Materials,Lumber,1,41.52,41.52,5,39.44,Renovation Enthusiast,468,44
+WLMRT-01235,12/5/2023,"New York, NY",Plumbing,Toilets,6,72.47,434.82,0,434.82,Professional Contractor,205,39
+WLMRT-01236,7/1/2023,"Dallas, TX",Garden Center,Outdoor Furniture,6,229.7,1378.2,5,1309.29,Renovation Enthusiast,371,9
+WLMRT-01237,6/5/2023,"Phoenix, AZ",Building Materials,Cement,3,369.9,1109.7,0,1109.7,Renovation Enthusiast,285,17
+WLMRT-01238,6/4/2023,"Los Angeles, CA",Plumbing,Toilets,2,350.79,701.58,0,701.58,Renovation Enthusiast,421,27
+WLMRT-01239,6/8/2023,"Houston, TX",Lighting,Ceiling Fans,5,107.7,538.5,10,484.65,DIY Homeowner,325,29
+WLMRT-01240,5/4/2023,"Los Angeles, CA",Paint,Primers,3,381.13,1143.39,0,1143.39,Professional Contractor,226,44
+WLMRT-01241,8/9/2023,"Phoenix, AZ",Flooring,Tile,3,172.09,516.27,10,464.64,Property Manager,137,25
+WLMRT-01242,5/13/2023,"Los Angeles, CA",Building Materials,Cement,2,161.79,323.58,5,307.4,DIY Homeowner,25,20
+WLMRT-01243,4/15/2023,"Houston, TX",Garden Center,Landscaping Supplies,8,146.15,1169.2,0,1169.2,Property Manager,358,42
+WLMRT-01244,8/28/2023,"New York, NY",Lighting,Ceiling Fans,9,368.83,3319.47,5,3153.5,Professional Contractor,65,42
+WLMRT-01245,6/23/2023,"Phoenix, AZ",Appliances,Washers,1,286.89,286.89,5,272.55,Renovation Enthusiast,78,12
+WLMRT-01246,10/31/2023,"Houston, TX",Lighting,Outdoor Lighting,1,139.91,139.91,0,139.91,Renovation Enthusiast,484,14
+WLMRT-01247,7/9/2023,"Seattle, WA",Plumbing,Toilets,2,368.57,737.14,0,737.14,DIY Homeowner,77,43
+WLMRT-01248,1/1/2023,"Atlanta, GA",Lighting,Light Fixtures,4,305.06,1220.24,10,1098.22,Renovation Enthusiast,346,14
+WLMRT-01249,1/27/2023,"Houston, TX",Building Materials,Drywall,6,254.45,1526.7,0,1526.7,DIY Homeowner,228,23
+WLMRT-01250,4/25/2023,"Phoenix, AZ",Plumbing,Faucets,6,406.74,2440.44,0,2440.44,Renovation Enthusiast,426,33
+WLMRT-01251,7/4/2023,"Los Angeles, CA",Garden Center,Plants,5,299.21,1496.05,0,1496.05,Professional Contractor,141,35
+WLMRT-01252,5/17/2023,"Seattle, WA",Building Materials,Insulation,4,441.13,1764.52,5,1676.29,DIY Homeowner,153,17
+WLMRT-01253,2/24/2023,"Atlanta, GA",Appliances,Washers,5,396.18,1980.9,0,1980.9,Property Manager,159,14
+WLMRT-01254,10/25/2023,"Dallas, TX",Appliances,Dryers,3,277.87,833.61,0,833.61,DIY Homeowner,261,25
+WLMRT-01255,3/7/2023,"New York, NY",Appliances,Refrigerators,7,103.97,727.79,0,727.79,Renovation Enthusiast,213,14
+WLMRT-01256,2/12/2023,"Dallas, TX",Paint,Exterior Paint,2,37.79,75.58,0,75.58,Renovation Enthusiast,164,15
+WLMRT-01257,11/17/2023,"Phoenix, AZ",Paint,Exterior Paint,7,439.53,3076.71,10,2769.04,Property Manager,147,13
+WLMRT-01258,9/11/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,7,56.18,393.26,0,393.26,Property Manager,258,33
+WLMRT-01259,1/4/2023,"Seattle, WA",Lighting,Bulbs,3,346.59,1039.77,10,935.79,Renovation Enthusiast,200,23
+WLMRT-01260,12/16/2023,"New York, NY",Paint,Interior Paint,5,36.59,182.95,0,182.95,Renovation Enthusiast,354,26
+WLMRT-01261,5/15/2023,"Los Angeles, CA",Home Improvement,Workbenches,3,387.36,1162.08,0,1162.08,Professional Contractor,310,13
+WLMRT-01262,2/1/2023,"Atlanta, GA",Garden Center,Plants,9,390.82,3517.38,5,3341.51,Renovation Enthusiast,323,26
+WLMRT-01263,7/29/2023,"Houston, TX",Appliances,Dryers,9,334.21,3007.89,0,3007.89,Professional Contractor,438,28
+WLMRT-01264,10/31/2023,"Houston, TX",Garden Center,Gardening Tools,6,360.47,2162.82,0,2162.82,Professional Contractor,200,20
+WLMRT-01265,12/6/2023,"Los Angeles, CA",Plumbing,Shower Systems,9,285.69,2571.21,0,2571.21,Professional Contractor,189,42
+WLMRT-01266,8/2/2023,"New York, NY",Plumbing,Toilets,8,431.12,3448.96,5,3276.51,Property Manager,40,27
+WLMRT-01267,10/16/2023,"Phoenix, AZ",Building Materials,Drywall,5,229.63,1148.15,0,1148.15,Property Manager,141,15
+WLMRT-01268,10/28/2023,"Houston, TX",Lighting,Ceiling Fans,7,165.25,1156.75,5,1098.91,DIY Homeowner,455,39
+WLMRT-01269,8/18/2023,"Dallas, TX",Paint,Paint Supplies,5,489.64,2448.2,0,2448.2,Renovation Enthusiast,347,9
+WLMRT-01270,9/23/2023,"Atlanta, GA",Plumbing,Pipes,3,62.12,186.36,0,186.36,Renovation Enthusiast,208,22
+WLMRT-01271,12/22/2023,"Phoenix, AZ",Garden Center,Landscaping Supplies,8,358.11,2864.88,0,2864.88,DIY Homeowner,263,11
+WLMRT-01272,12/24/2023,"Chicago, IL",Home Improvement,Tool Sets,7,237.72,1664.04,0,1664.04,Property Manager,91,18
+WLMRT-01273,10/21/2023,"Phoenix, AZ",Home Improvement,Tool Sets,2,29.31,58.62,0,58.62,Renovation Enthusiast,296,19
+WLMRT-01274,3/23/2023,"Phoenix, AZ",Plumbing,Pipes,1,117.18,117.18,0,117.18,Property Manager,313,40
+WLMRT-01275,4/26/2023,"Chicago, IL",Home Improvement,Power Tools,7,417.8,2924.6,0,2924.6,Professional Contractor,357,19
+WLMRT-01276,6/5/2023,"Chicago, IL",Flooring,Hardwood,9,475.04,4275.36,20,3420.29,Renovation Enthusiast,189,35
+WLMRT-01277,10/16/2023,"Dallas, TX",Building Materials,Insulation,9,338.64,3047.76,0,3047.76,DIY Homeowner,76,35
+WLMRT-01278,8/8/2023,"Houston, TX",Building Materials,Drywall,2,31.61,63.22,0,63.22,DIY Homeowner,95,32
+WLMRT-01279,10/23/2023,"Dallas, TX",Appliances,Dryers,1,473.67,473.67,0,473.67,Professional Contractor,391,8
+WLMRT-01280,12/19/2023,"Chicago, IL",Garden Center,Landscaping Supplies,5,395.28,1976.4,10,1778.76,Professional Contractor,17,37
+WLMRT-01281,12/16/2023,"New York, NY",Flooring,Tile,1,225.21,225.21,0,225.21,Property Manager,196,21
+WLMRT-01282,1/11/2023,"Phoenix, AZ",Appliances,Washers,1,35.15,35.15,0,35.15,Property Manager,371,24
+WLMRT-01283,10/13/2023,"Chicago, IL",Paint,Primers,5,208.65,1043.25,0,1043.25,Renovation Enthusiast,222,19
+WLMRT-01284,3/1/2023,"Seattle, WA",Appliances,Dryers,6,232.96,1397.76,5,1327.87,Property Manager,83,8
+WLMRT-01285,10/1/2023,"Atlanta, GA",Plumbing,Faucets,7,193.99,1357.93,0,1357.93,Professional Contractor,403,19
+WLMRT-01286,7/15/2023,"Phoenix, AZ",Flooring,Carpet,6,31.51,189.06,0,189.06,DIY Homeowner,344,10
+WLMRT-01287,5/2/2023,"Phoenix, AZ",Building Materials,Drywall,8,352.86,2822.88,0,2822.88,Property Manager,384,33
+WLMRT-01288,12/3/2023,"Los Angeles, CA",Home Improvement,Hand Tools,6,90.93,545.58,0,545.58,Property Manager,286,36
+WLMRT-01289,6/25/2023,"Atlanta, GA",Paint,Interior Paint,5,199.36,996.8,10,897.12,Renovation Enthusiast,185,28
+WLMRT-01290,11/20/2023,"Los Angeles, CA",Home Improvement,Workbenches,3,423.3,1269.9,0,1269.9,Professional Contractor,340,29
+WLMRT-01291,9/16/2023,"New York, NY",Appliances,Refrigerators,3,403.5,1210.5,0,1210.5,Renovation Enthusiast,26,16
+WLMRT-01292,9/19/2023,"Chicago, IL",Appliances,Refrigerators,7,393.37,2753.59,20,2202.87,DIY Homeowner,230,43
+WLMRT-01293,3/17/2023,"New York, NY",Paint,Paint Supplies,5,461.68,2308.4,15,1962.14,Renovation Enthusiast,261,9
+WLMRT-01294,1/21/2023,"Atlanta, GA",Appliances,Washers,4,138.65,554.6,5,526.87,DIY Homeowner,215,33
+WLMRT-01295,4/3/2023,"Dallas, TX",Home Improvement,Tool Sets,6,352.06,2112.36,5,2006.74,DIY Homeowner,479,27
+WLMRT-01296,5/10/2023,"Phoenix, AZ",Flooring,Carpet,7,243.48,1704.36,0,1704.36,Renovation Enthusiast,346,10
+WLMRT-01297,10/3/2023,"Houston, TX",Home Improvement,Power Tools,3,230.79,692.37,0,692.37,Professional Contractor,184,9
+WLMRT-01298,8/29/2023,"Dallas, TX",Home Improvement,Hand Tools,3,202.74,608.22,5,577.81,Professional Contractor,419,9
+WLMRT-01299,6/13/2023,"Dallas, TX",Building Materials,Insulation,1,406.43,406.43,0,406.43,DIY Homeowner,125,17
+WLMRT-01300,5/22/2023,"New York, NY",Building Materials,Cement,1,433.88,433.88,0,433.88,Property Manager,27,28
+WLMRT-01301,8/18/2023,"Seattle, WA",Home Improvement,Workbenches,2,254.44,508.88,5,483.44,DIY Homeowner,336,42
+WLMRT-01302,10/27/2023,"New York, NY",Home Improvement,Power Tools,2,391.74,783.48,0,783.48,Property Manager,387,30
+WLMRT-01303,1/26/2023,"New York, NY",Plumbing,Toilets,4,77.81,311.24,10,280.12,Renovation Enthusiast,457,43
+WLMRT-01304,1/18/2023,"Seattle, WA",Lighting,Bulbs,5,314.76,1573.8,5,1495.11,Renovation Enthusiast,81,44
+WLMRT-01305,6/21/2023,"Phoenix, AZ",Flooring,Hardwood,5,140.03,700.15,0,700.15,Professional Contractor,343,19
+WLMRT-01306,11/28/2023,"Los Angeles, CA",Home Improvement,Hand Tools,4,177.34,709.36,5,673.89,Professional Contractor,205,44
+WLMRT-01307,11/14/2023,"Atlanta, GA",Flooring,Hardwood,9,292,2628,0,2628,DIY Homeowner,402,18
+WLMRT-01308,11/18/2023,"Dallas, TX",Paint,Primers,8,320.69,2565.52,5,2437.24,Professional Contractor,432,41
+WLMRT-01309,4/23/2023,"Dallas, TX",Plumbing,Faucets,9,100.75,906.75,5,861.41,Property Manager,424,24
+WLMRT-01310,4/13/2023,"Houston, TX",Plumbing,Pipes,4,188.97,755.88,0,755.88,Property Manager,413,34
+WLMRT-01311,4/15/2023,"Houston, TX",Appliances,Refrigerators,8,256.04,2048.32,0,2048.32,DIY Homeowner,349,38
+WLMRT-01312,2/14/2023,"Atlanta, GA",Appliances,Washers,4,290.84,1163.36,15,988.86,DIY Homeowner,270,41
+WLMRT-01313,11/30/2023,"Atlanta, GA",Flooring,Laminate,8,74.11,592.88,0,592.88,Professional Contractor,290,16
+WLMRT-01314,5/15/2023,"Chicago, IL",Building Materials,Lumber,4,17.71,70.84,0,70.84,DIY Homeowner,151,24
+WLMRT-01315,1/27/2023,"Seattle, WA",Plumbing,Faucets,5,351.43,1757.15,0,1757.15,Property Manager,99,10
+WLMRT-01316,3/20/2023,"Seattle, WA",Appliances,Refrigerators,5,342.47,1712.35,20,1369.88,Property Manager,166,24
+WLMRT-01317,1/16/2023,"Atlanta, GA",Appliances,Dishwashers,2,210.58,421.16,5,400.1,Renovation Enthusiast,14,28
+WLMRT-01318,8/26/2023,"Los Angeles, CA",Garden Center,Plants,7,185.67,1299.69,10,1169.72,Property Manager,60,21
+WLMRT-01319,4/16/2023,"Los Angeles, CA",Appliances,Dryers,1,409.45,409.45,0,409.45,DIY Homeowner,252,34
+WLMRT-01320,12/8/2023,"Chicago, IL",Paint,Interior Paint,7,420.87,2946.09,0,2946.09,Renovation Enthusiast,407,8
+WLMRT-01321,12/31/2023,"Phoenix, AZ",Plumbing,Faucets,5,426.03,2130.15,0,2130.15,DIY Homeowner,271,32
+WLMRT-01322,2/6/2023,"New York, NY",Lighting,Ceiling Fans,8,26.91,215.28,0,215.28,DIY Homeowner,357,24
+WLMRT-01323,10/15/2023,"New York, NY",Home Improvement,Hand Tools,7,38.5,269.5,5,256.02,Professional Contractor,353,8
+WLMRT-01324,4/14/2023,"Chicago, IL",Lighting,Light Fixtures,6,468.71,2812.26,5,2671.65,Property Manager,150,32
+WLMRT-01325,3/4/2023,"Seattle, WA",Paint,Primers,8,407.81,3262.48,5,3099.36,Property Manager,189,22
+WLMRT-01326,8/9/2023,"Atlanta, GA",Garden Center,Gardening Tools,9,30.38,273.42,0,273.42,Property Manager,471,18
+WLMRT-01327,7/4/2023,"Seattle, WA",Garden Center,Gardening Tools,3,424.03,1272.09,5,1208.49,Professional Contractor,327,26
+WLMRT-01328,10/6/2023,"Atlanta, GA",Plumbing,Toilets,6,379.57,2277.42,0,2277.42,Professional Contractor,491,20
+WLMRT-01329,9/30/2023,"Houston, TX",Lighting,Bulbs,2,159.27,318.54,10,286.69,DIY Homeowner,177,39
+WLMRT-01330,7/5/2023,"Dallas, TX",Garden Center,Outdoor Furniture,2,499.76,999.52,5,949.54,DIY Homeowner,429,39
+WLMRT-01331,5/8/2023,"Chicago, IL",Home Improvement,Tool Sets,7,63.22,442.54,5,420.41,Professional Contractor,89,20
+WLMRT-01332,12/15/2023,"Seattle, WA",Home Improvement,Workbenches,8,334.06,2672.48,0,2672.48,Property Manager,321,10
+WLMRT-01333,10/11/2023,"Chicago, IL",Lighting,Light Fixtures,9,261.09,2349.81,0,2349.81,Professional Contractor,291,26
+WLMRT-01334,7/31/2023,"Dallas, TX",Appliances,Washers,7,336.78,2357.46,20,1885.97,Property Manager,347,33
+WLMRT-01335,3/7/2023,"Seattle, WA",Lighting,Light Fixtures,5,360.6,1803,0,1803,Renovation Enthusiast,439,11
+WLMRT-01336,7/21/2023,"Dallas, TX",Appliances,Dryers,2,466.92,933.84,0,933.84,DIY Homeowner,413,40
+WLMRT-01337,9/2/2023,"New York, NY",Building Materials,Insulation,7,70.88,496.16,5,471.35,Property Manager,357,23
+WLMRT-01338,6/25/2023,"Dallas, TX",Building Materials,Cement,7,230.69,1614.83,15,1372.61,Professional Contractor,376,35
+WLMRT-01339,9/30/2023,"Atlanta, GA",Lighting,Light Fixtures,8,357,2856,0,2856,DIY Homeowner,369,38
+WLMRT-01340,2/6/2023,"Seattle, WA",Flooring,Laminate,3,434.19,1302.57,15,1107.18,DIY Homeowner,92,10
+WLMRT-01341,3/16/2023,"New York, NY",Plumbing,Toilets,1,464.63,464.63,0,464.63,Renovation Enthusiast,296,17
+WLMRT-01342,2/25/2023,"New York, NY",Plumbing,Pipes,5,483.37,2416.85,0,2416.85,Professional Contractor,145,14
+WLMRT-01343,10/17/2023,"Dallas, TX",Flooring,Tile,9,146.75,1320.75,5,1254.71,Property Manager,415,38
+WLMRT-01344,8/29/2023,"Dallas, TX",Home Improvement,Workbenches,2,448.6,897.2,20,717.76,DIY Homeowner,92,11
+WLMRT-01345,10/13/2023,"Los Angeles, CA",Home Improvement,Workbenches,6,461.76,2770.56,0,2770.56,Property Manager,183,32
+WLMRT-01346,2/12/2023,"Dallas, TX",Paint,Exterior Paint,8,190.22,1521.76,5,1445.67,Renovation Enthusiast,13,22
+WLMRT-01347,6/28/2023,"Los Angeles, CA",Garden Center,Outdoor Furniture,5,260.9,1304.5,0,1304.5,Property Manager,118,40
+WLMRT-01348,12/11/2023,"Chicago, IL",Building Materials,Cement,7,295.77,2070.39,5,1966.87,Property Manager,182,19
+WLMRT-01349,9/26/2023,"Houston, TX",Plumbing,Faucets,3,448.09,1344.27,20,1075.42,Renovation Enthusiast,387,12
+WLMRT-01350,12/8/2023,"Dallas, TX",Lighting,Bulbs,7,109.3,765.1,0,765.1,Renovation Enthusiast,440,39
+WLMRT-01351,12/2/2023,"Atlanta, GA",Appliances,Dishwashers,8,253.54,2028.32,0,2028.32,Professional Contractor,399,20
+WLMRT-01352,10/3/2023,"Dallas, TX",Home Improvement,Hand Tools,1,328.62,328.62,0,328.62,Renovation Enthusiast,133,15
+WLMRT-01353,6/29/2023,"Atlanta, GA",Building Materials,Insulation,1,158.27,158.27,0,158.27,Property Manager,125,29
+WLMRT-01354,11/9/2023,"New York, NY",Appliances,Washers,4,119.08,476.32,0,476.32,Property Manager,172,9
+WLMRT-01355,2/15/2023,"Atlanta, GA",Appliances,Refrigerators,3,149.58,448.74,0,448.74,Renovation Enthusiast,87,8
+WLMRT-01356,1/18/2023,"Seattle, WA",Paint,Exterior Paint,5,379.6,1898,20,1518.4,Renovation Enthusiast,473,28
+WLMRT-01357,8/27/2023,"Los Angeles, CA",Plumbing,Faucets,8,420.29,3362.32,5,3194.2,Property Manager,37,13
+WLMRT-01358,7/3/2023,"Atlanta, GA",Appliances,Dryers,4,70.42,281.68,0,281.68,Property Manager,423,30
+WLMRT-01359,6/8/2023,"Seattle, WA",Flooring,Tile,6,458.37,2750.22,0,2750.22,DIY Homeowner,358,26
+WLMRT-01360,6/27/2023,"Dallas, TX",Lighting,Outdoor Lighting,9,424.09,3816.81,10,3435.13,DIY Homeowner,280,44
+WLMRT-01361,8/4/2023,"Seattle, WA",Plumbing,Toilets,5,136.25,681.25,0,681.25,Professional Contractor,410,15
+WLMRT-01362,11/4/2023,"Los Angeles, CA",Home Improvement,Tool Sets,2,242.42,484.84,0,484.84,Property Manager,257,21
+WLMRT-01363,3/5/2023,"Seattle, WA",Home Improvement,Hand Tools,9,264.26,2378.34,0,2378.34,Renovation Enthusiast,470,12
+WLMRT-01364,1/15/2023,"Chicago, IL",Lighting,Bulbs,8,225.43,1803.44,5,1713.27,Professional Contractor,48,16
+WLMRT-01365,5/15/2023,"New York, NY",Flooring,Carpet,7,252.45,1767.15,0,1767.15,Renovation Enthusiast,329,37
+WLMRT-01366,1/13/2023,"Chicago, IL",Home Improvement,Power Tools,1,19.1,19.1,0,19.1,Property Manager,350,27
+WLMRT-01367,1/23/2023,"Dallas, TX",Building Materials,Drywall,3,302.99,908.97,0,908.97,Property Manager,371,11
+WLMRT-01368,3/13/2023,"Dallas, TX",Flooring,Carpet,7,366.89,2568.23,5,2439.82,DIY Homeowner,416,44
+WLMRT-01369,9/20/2023,"Chicago, IL",Paint,Exterior Paint,7,353.11,2471.77,0,2471.77,DIY Homeowner,170,35
+WLMRT-01370,1/23/2023,"Chicago, IL",Appliances,Dryers,5,482.87,2414.35,10,2172.92,DIY Homeowner,382,35
+WLMRT-01371,9/8/2023,"Chicago, IL",Appliances,Refrigerators,1,138.26,138.26,0,138.26,Property Manager,81,33
+WLMRT-01372,8/15/2023,"New York, NY",Paint,Paint Supplies,3,180.05,540.15,10,486.14,Property Manager,292,13
+WLMRT-01373,10/27/2023,"Dallas, TX",Flooring,Carpet,3,140.68,422.04,0,422.04,Renovation Enthusiast,211,43
+WLMRT-01374,10/24/2023,"Seattle, WA",Building Materials,Drywall,2,168,336,0,336,Property Manager,371,40
+WLMRT-01375,9/4/2023,"Seattle, WA",Flooring,Laminate,6,100.29,601.74,0,601.74,Renovation Enthusiast,365,19
+WLMRT-01376,2/14/2023,"Atlanta, GA",Paint,Primers,6,53.33,319.98,0,319.98,Property Manager,114,32
+WLMRT-01377,4/4/2023,"Houston, TX",Appliances,Dryers,3,489.84,1469.52,0,1469.52,DIY Homeowner,37,32
+WLMRT-01378,11/1/2023,"Chicago, IL",Building Materials,Lumber,1,402.2,402.2,0,402.2,Property Manager,344,23
+WLMRT-01379,3/18/2023,"Atlanta, GA",Appliances,Refrigerators,8,219.66,1757.28,20,1405.82,Renovation Enthusiast,215,29
+WLMRT-01380,5/14/2023,"Dallas, TX",Building Materials,Lumber,6,247.18,1483.08,5,1408.93,Renovation Enthusiast,410,34
+WLMRT-01381,4/12/2023,"Phoenix, AZ",Flooring,Tile,8,146.84,1174.72,20,939.78,Professional Contractor,331,20
+WLMRT-01382,11/3/2023,"Houston, TX",Home Improvement,Tool Sets,2,147.82,295.64,0,295.64,DIY Homeowner,318,30
+WLMRT-01383,4/18/2023,"Los Angeles, CA",Appliances,Dryers,1,103.5,103.5,10,93.15,Professional Contractor,471,20
+WLMRT-01384,12/24/2023,"Chicago, IL",Plumbing,Toilets,7,39.22,274.54,0,274.54,DIY Homeowner,472,27
+WLMRT-01385,11/12/2023,"Chicago, IL",Appliances,Refrigerators,8,173.47,1387.76,0,1387.76,Renovation Enthusiast,376,31
+WLMRT-01386,5/14/2023,"Houston, TX",Appliances,Dishwashers,7,430.82,3015.74,5,2864.95,Professional Contractor,306,36
+WLMRT-01387,6/13/2023,"Seattle, WA",Home Improvement,Power Tools,2,438,876,15,744.6,Professional Contractor,279,37
+WLMRT-01388,3/9/2023,"Atlanta, GA",Appliances,Dryers,4,62.37,249.48,0,249.48,Property Manager,34,9
+WLMRT-01389,10/9/2023,"Seattle, WA",Garden Center,Gardening Tools,6,320.55,1923.3,0,1923.3,Professional Contractor,412,41
+WLMRT-01390,6/10/2023,"New York, NY",Plumbing,Faucets,9,179.63,1616.67,5,1535.84,Property Manager,133,27
+WLMRT-01391,4/7/2023,"New York, NY",Flooring,Hardwood,3,299.84,899.52,0,899.52,Renovation Enthusiast,166,10
+WLMRT-01392,9/15/2023,"Atlanta, GA",Appliances,Dryers,6,432.42,2594.52,0,2594.52,DIY Homeowner,377,27
+WLMRT-01393,7/7/2023,"Houston, TX",Garden Center,Landscaping Supplies,7,444.32,3110.24,10,2799.22,DIY Homeowner,158,14
+WLMRT-01394,8/14/2023,"Chicago, IL",Flooring,Tile,9,205.98,1853.82,0,1853.82,Property Manager,233,39
+WLMRT-01395,7/4/2023,"Seattle, WA",Lighting,Bulbs,1,486.76,486.76,10,438.08,Renovation Enthusiast,133,28
+WLMRT-01396,2/9/2023,"Phoenix, AZ",Building Materials,Lumber,7,394.75,2763.25,0,2763.25,DIY Homeowner,333,30
+WLMRT-01397,2/14/2023,"Chicago, IL",Flooring,Carpet,7,214.95,1504.65,0,1504.65,Renovation Enthusiast,368,44
+WLMRT-01398,7/21/2023,"New York, NY",Building Materials,Lumber,9,153.52,1381.68,0,1381.68,DIY Homeowner,52,10
+WLMRT-01399,8/16/2023,"Dallas, TX",Garden Center,Plants,9,338.47,3046.23,15,2589.3,DIY Homeowner,407,30
+WLMRT-01400,1/26/2023,"Dallas, TX",Building Materials,Cement,7,413.15,2892.05,5,2747.45,Professional Contractor,105,12
+WLMRT-01401,5/16/2023,"New York, NY",Appliances,Dryers,7,203.19,1422.33,15,1208.98,Property Manager,472,31
+WLMRT-01402,1/12/2023,"Phoenix, AZ",Lighting,Bulbs,7,452.42,3166.94,0,3166.94,Professional Contractor,342,35
+WLMRT-01403,5/17/2023,"Phoenix, AZ",Lighting,Ceiling Fans,5,267.37,1336.85,0,1336.85,DIY Homeowner,177,9
+WLMRT-01404,4/21/2023,"Seattle, WA",Paint,Interior Paint,7,35.52,248.64,0,248.64,Professional Contractor,184,25
+WLMRT-01405,11/6/2023,"Dallas, TX",Lighting,Light Fixtures,1,170.1,170.1,0,170.1,Renovation Enthusiast,258,25
+WLMRT-01406,1/7/2023,"Los Angeles, CA",Home Improvement,Tool Sets,5,34.23,171.15,0,171.15,Renovation Enthusiast,401,18
+WLMRT-01407,6/3/2023,"Chicago, IL",Appliances,Washers,3,14.41,43.23,5,41.07,Property Manager,12,33
+WLMRT-01408,9/13/2023,"Chicago, IL",Paint,Interior Paint,6,156.04,936.24,5,889.43,Renovation Enthusiast,333,29
+WLMRT-01409,11/25/2023,"Seattle, WA",Paint,Interior Paint,9,442.04,3978.36,5,3779.44,DIY Homeowner,193,31
+WLMRT-01410,3/4/2023,"Los Angeles, CA",Appliances,Refrigerators,7,171.75,1202.25,5,1142.14,DIY Homeowner,245,12
+WLMRT-01411,10/9/2023,"Houston, TX",Flooring,Carpet,6,496.14,2976.84,0,2976.84,Property Manager,329,36
+WLMRT-01412,7/9/2023,"Houston, TX",Appliances,Dryers,5,435.1,2175.5,5,2066.72,Professional Contractor,303,21
+WLMRT-01413,10/12/2023,"Seattle, WA",Appliances,Washers,5,172.01,860.05,20,688.04,Renovation Enthusiast,384,43
+WLMRT-01414,5/20/2023,"Dallas, TX",Flooring,Carpet,4,93.72,374.88,15,318.65,DIY Homeowner,268,27
+WLMRT-01415,9/3/2023,"Dallas, TX",Paint,Interior Paint,7,223.34,1563.38,0,1563.38,Property Manager,96,33
+WLMRT-01416,12/22/2023,"Houston, TX",Building Materials,Insulation,2,19.81,39.62,20,31.7,Renovation Enthusiast,157,41
+WLMRT-01417,10/21/2023,"New York, NY",Paint,Interior Paint,9,355.51,3199.59,0,3199.59,DIY Homeowner,214,28
+WLMRT-01418,5/22/2023,"Dallas, TX",Plumbing,Faucets,2,183.59,367.18,0,367.18,DIY Homeowner,52,34
+WLMRT-01419,2/17/2023,"New York, NY",Lighting,Outdoor Lighting,1,195.64,195.64,0,195.64,Property Manager,410,43
+WLMRT-01420,2/7/2023,"Dallas, TX",Appliances,Dishwashers,7,246.12,1722.84,5,1636.7,Property Manager,428,15
+WLMRT-01421,8/2/2023,"Houston, TX",Lighting,Light Fixtures,4,343.27,1373.08,0,1373.08,Professional Contractor,438,15
+WLMRT-01422,11/29/2023,"Chicago, IL",Lighting,Bulbs,2,214.5,429,10,386.1,Renovation Enthusiast,56,20
+WLMRT-01423,3/4/2023,"Dallas, TX",Plumbing,Shower Systems,9,180.65,1625.85,10,1463.26,Renovation Enthusiast,194,30
+WLMRT-01424,11/16/2023,"Chicago, IL",Flooring,Hardwood,3,185.24,555.72,0,555.72,Renovation Enthusiast,481,22
+WLMRT-01425,9/20/2023,"Chicago, IL",Flooring,Hardwood,6,267.35,1604.1,0,1604.1,Property Manager,321,21
+WLMRT-01426,7/16/2023,"Chicago, IL",Garden Center,Landscaping Supplies,4,480.13,1920.52,15,1632.44,DIY Homeowner,296,42
+WLMRT-01427,11/17/2023,"Chicago, IL",Paint,Interior Paint,1,242.85,242.85,0,242.85,Property Manager,351,24
+WLMRT-01428,11/28/2023,"Dallas, TX",Lighting,Ceiling Fans,2,491.98,983.96,15,836.37,Renovation Enthusiast,132,16
+WLMRT-01429,9/20/2023,"Houston, TX",Paint,Interior Paint,4,98.6,394.4,0,394.4,Renovation Enthusiast,35,32
+WLMRT-01430,1/10/2023,"Atlanta, GA",Lighting,Ceiling Fans,2,358.94,717.88,0,717.88,Renovation Enthusiast,185,16
+WLMRT-01431,1/9/2023,"New York, NY",Plumbing,Shower Systems,7,455.35,3187.45,5,3028.08,Renovation Enthusiast,90,26
+WLMRT-01432,9/20/2023,"Houston, TX",Paint,Primers,4,288.07,1152.28,0,1152.28,Property Manager,290,19
+WLMRT-01433,12/8/2023,"Atlanta, GA",Paint,Interior Paint,6,199.98,1199.88,0,1199.88,Property Manager,155,30
+WLMRT-01434,11/12/2023,"Chicago, IL",Plumbing,Faucets,2,120.07,240.14,10,216.13,Property Manager,254,18
+WLMRT-01435,11/7/2023,"Houston, TX",Plumbing,Faucets,9,75.17,676.53,0,676.53,Property Manager,266,23
+WLMRT-01436,2/17/2023,"New York, NY",Paint,Interior Paint,3,316.97,950.91,5,903.36,Professional Contractor,473,33
+WLMRT-01437,6/27/2023,"Atlanta, GA",Home Improvement,Hand Tools,8,28.4,227.2,20,181.76,Professional Contractor,397,21
+WLMRT-01438,11/30/2023,"Chicago, IL",Plumbing,Pipes,4,445.03,1780.12,10,1602.11,Renovation Enthusiast,454,34
+WLMRT-01439,7/12/2023,"Phoenix, AZ",Building Materials,Lumber,4,280.89,1123.56,10,1011.2,Property Manager,389,29
+WLMRT-01440,12/11/2023,"Atlanta, GA",Building Materials,Insulation,8,248.34,1986.72,0,1986.72,Renovation Enthusiast,22,33
+WLMRT-01441,12/28/2023,"Seattle, WA",Flooring,Carpet,8,231.26,1850.08,0,1850.08,Renovation Enthusiast,453,27
+WLMRT-01442,2/11/2023,"Seattle, WA",Home Improvement,Hand Tools,4,329.15,1316.6,5,1250.77,DIY Homeowner,291,25
+WLMRT-01443,9/30/2023,"New York, NY",Garden Center,Landscaping Supplies,5,209.85,1049.25,5,996.79,Property Manager,186,25
+WLMRT-01444,3/22/2023,"Atlanta, GA",Flooring,Hardwood,9,474.67,4272.03,0,4272.03,Professional Contractor,258,11
+WLMRT-01445,7/23/2023,"Dallas, TX",Garden Center,Gardening Tools,6,337.29,2023.74,5,1922.55,DIY Homeowner,342,37
+WLMRT-01446,5/11/2023,"Atlanta, GA",Appliances,Dryers,9,337.97,3041.73,0,3041.73,Professional Contractor,93,27
+WLMRT-01447,6/6/2023,"Phoenix, AZ",Appliances,Refrigerators,5,356.56,1782.8,0,1782.8,DIY Homeowner,330,11
+WLMRT-01448,3/11/2023,"Seattle, WA",Home Improvement,Workbenches,7,332.36,2326.52,0,2326.52,Renovation Enthusiast,117,22
+WLMRT-01449,7/13/2023,"Houston, TX",Lighting,Ceiling Fans,9,67.81,610.29,0,610.29,Professional Contractor,448,17
+WLMRT-01450,8/11/2023,"Los Angeles, CA",Plumbing,Pipes,8,363.79,2910.32,0,2910.32,Professional Contractor,27,10
+WLMRT-01451,5/17/2023,"Seattle, WA",Flooring,Laminate,6,258.53,1551.18,15,1318.5,DIY Homeowner,50,44
+WLMRT-01452,9/27/2023,"Phoenix, AZ",Garden Center,Plants,3,481.22,1443.66,0,1443.66,Professional Contractor,407,15
+WLMRT-01453,5/14/2023,"Los Angeles, CA",Paint,Primers,4,28.83,115.32,0,115.32,Property Manager,131,11
+WLMRT-01454,3/21/2023,"Phoenix, AZ",Lighting,Bulbs,2,340.77,681.54,0,681.54,Renovation Enthusiast,59,20
+WLMRT-01455,8/20/2023,"Los Angeles, CA",Garden Center,Landscaping Supplies,5,357.28,1786.4,0,1786.4,Property Manager,284,28
+WLMRT-01456,1/17/2023,"Houston, TX",Appliances,Refrigerators,8,258.19,2065.52,10,1858.97,Property Manager,219,24
+WLMRT-01457,3/19/2023,"Seattle, WA",Garden Center,Landscaping Supplies,2,42.26,84.52,20,67.62,Property Manager,144,18
+WLMRT-01458,3/10/2023,"Los Angeles, CA",Appliances,Dryers,3,418.43,1255.29,0,1255.29,Renovation Enthusiast,141,24
+WLMRT-01459,10/21/2023,"Seattle, WA",Garden Center,Landscaping Supplies,8,300.56,2404.48,0,2404.48,Renovation Enthusiast,333,39
+WLMRT-01460,7/8/2023,"Los Angeles, CA",Appliances,Washers,2,418.88,837.76,0,837.76,Professional Contractor,245,39
+WLMRT-01461,11/26/2023,"Seattle, WA",Home Improvement,Hand Tools,3,478.36,1435.08,0,1435.08,Renovation Enthusiast,178,29
+WLMRT-01462,9/17/2023,"New York, NY",Flooring,Carpet,5,88.58,442.9,0,442.9,Renovation Enthusiast,366,17
+WLMRT-01463,1/13/2023,"New York, NY",Paint,Paint Supplies,8,154.02,1232.16,10,1108.94,Professional Contractor,437,24
+WLMRT-01464,9/9/2023,"Chicago, IL",Appliances,Dishwashers,2,301.51,603.02,0,603.02,Professional Contractor,342,26
+WLMRT-01465,2/4/2023,"Phoenix, AZ",Home Improvement,Hand Tools,1,292.77,292.77,0,292.77,Renovation Enthusiast,477,9
+WLMRT-01466,11/11/2023,"Seattle, WA",Plumbing,Toilets,7,37.48,262.36,0,262.36,Professional Contractor,115,42
+WLMRT-01467,10/25/2023,"Los Angeles, CA",Plumbing,Faucets,9,162.41,1461.69,15,1242.44,Professional Contractor,139,9
+WLMRT-01468,5/2/2023,"Phoenix, AZ",Building Materials,Insulation,9,101.7,915.3,10,823.77,DIY Homeowner,357,7
+WLMRT-01469,2/11/2023,"New York, NY",Building Materials,Drywall,4,333.89,1335.56,0,1335.56,DIY Homeowner,285,8
+WLMRT-01470,3/3/2023,"New York, NY",Paint,Paint Supplies,2,292.69,585.38,5,556.11,Renovation Enthusiast,479,23
+WLMRT-01471,4/6/2023,"Chicago, IL",Lighting,Outdoor Lighting,4,165.31,661.24,0,661.24,Professional Contractor,335,15
+WLMRT-01472,11/28/2023,"Los Angeles, CA",Garden Center,Gardening Tools,8,453.99,3631.92,0,3631.92,Renovation Enthusiast,418,11
+WLMRT-01473,4/25/2023,"Dallas, TX",Lighting,Outdoor Lighting,9,95.72,861.48,10,775.33,DIY Homeowner,233,14
+WLMRT-01474,9/28/2023,"Los Angeles, CA",Paint,Primers,7,286.4,2004.8,15,1704.08,Renovation Enthusiast,346,25
+WLMRT-01475,6/8/2023,"Dallas, TX",Paint,Primers,7,439.69,3077.83,20,2462.26,Renovation Enthusiast,116,26
+WLMRT-01476,12/8/2023,"Chicago, IL",Appliances,Refrigerators,7,438.74,3071.18,0,3071.18,Renovation Enthusiast,38,38
+WLMRT-01477,1/13/2023,"Phoenix, AZ",Plumbing,Shower Systems,2,34.75,69.5,15,59.08,Property Manager,261,9
+WLMRT-01478,5/10/2023,"Houston, TX",Garden Center,Plants,9,55.79,502.11,0,502.11,Renovation Enthusiast,72,7
+WLMRT-01479,4/19/2023,"Chicago, IL",Paint,Paint Supplies,6,56.14,336.84,5,320,Professional Contractor,181,26
+WLMRT-01480,6/15/2023,"Dallas, TX",Flooring,Laminate,4,137.02,548.08,5,520.68,DIY Homeowner,171,43
+WLMRT-01481,12/1/2023,"Seattle, WA",Home Improvement,Workbenches,1,21.31,21.31,0,21.31,DIY Homeowner,270,24
+WLMRT-01482,11/26/2023,"New York, NY",Plumbing,Toilets,1,469.2,469.2,0,469.2,DIY Homeowner,154,37
+WLMRT-01483,12/14/2023,"New York, NY",Paint,Interior Paint,6,33.79,202.74,0,202.74,Renovation Enthusiast,162,27
+WLMRT-01484,8/7/2023,"Atlanta, GA",Paint,Paint Supplies,5,456.68,2283.4,20,1826.72,Renovation Enthusiast,235,20
+WLMRT-01485,10/17/2023,"Houston, TX",Paint,Primers,9,374.22,3367.98,10,3031.18,DIY Homeowner,428,19
+WLMRT-01486,7/3/2023,"Atlanta, GA",Paint,Interior Paint,7,225.59,1579.13,15,1342.26,DIY Homeowner,491,25
+WLMRT-01487,4/14/2023,"Atlanta, GA",Flooring,Hardwood,7,399.33,2795.31,0,2795.31,DIY Homeowner,152,9
+WLMRT-01488,4/20/2023,"Seattle, WA",Paint,Interior Paint,3,494.77,1484.31,0,1484.31,Professional Contractor,417,12
+WLMRT-01489,1/31/2023,"New York, NY",Paint,Primers,3,320.7,962.1,0,962.1,Property Manager,362,22
+WLMRT-01490,10/16/2023,"Houston, TX",Building Materials,Insulation,5,217.48,1087.4,10,978.66,Property Manager,437,38
+WLMRT-01491,4/19/2023,"Los Angeles, CA",Plumbing,Toilets,4,478.71,1914.84,0,1914.84,Property Manager,69,27
+WLMRT-01492,9/2/2023,"New York, NY",Building Materials,Lumber,1,452.07,452.07,10,406.86,Professional Contractor,351,40
+WLMRT-01493,9/16/2023,"Chicago, IL",Plumbing,Faucets,6,285.97,1715.82,0,1715.82,Property Manager,227,37
+WLMRT-01494,12/18/2023,"Chicago, IL",Appliances,Dryers,6,471.57,2829.42,0,2829.42,DIY Homeowner,87,43
+WLMRT-01495,11/1/2023,"Chicago, IL",Paint,Interior Paint,3,432.58,1297.74,10,1167.97,Renovation Enthusiast,281,26
+WLMRT-01496,2/16/2023,"Chicago, IL",Building Materials,Insulation,5,472.09,2360.45,0,2360.45,DIY Homeowner,205,42
+WLMRT-01497,9/28/2023,"New York, NY",Plumbing,Toilets,3,383.28,1149.84,0,1149.84,Property Manager,151,23
+WLMRT-01498,4/22/2023,"Phoenix, AZ",Garden Center,Landscaping Supplies,1,361.82,361.82,0,361.82,Renovation Enthusiast,243,37
+WLMRT-01499,5/24/2023,"Los Angeles, CA",Building Materials,Lumber,3,107.73,323.19,5,307.03,Property Manager,255,32
+WLMRT-01500,7/30/2023,"Phoenix, AZ",Plumbing,Toilets,6,345.99,2075.94,5,1972.14,Professional Contractor,117,10
