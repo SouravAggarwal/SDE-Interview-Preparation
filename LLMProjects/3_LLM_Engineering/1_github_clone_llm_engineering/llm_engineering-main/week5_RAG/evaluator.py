@@ -7,6 +7,8 @@ from evaluation.eval import evaluate_all_retrieval, evaluate_all_answers
 
 load_dotenv(override=True)
 
+############################## Command to Run file: uv run evaluat.py ############################
+
 # Color coding thresholds - Retrieval
 MRR_GREEN = 0.9
 MRR_AMBER = 0.75
