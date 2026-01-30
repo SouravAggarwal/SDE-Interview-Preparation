@@ -1,0 +1,21 @@
+{
+    "full_name": "Sourav",
+    "name": "Sourav",
+    "current_role": "Software Developer",
+    "location": "India",
+    "email": "sourav@gmail.com",
+    "linkedin": "linkedin.com/in/sourav",
+    "specialties": [
+      "Coder",
+      "Trader",
+      "Investor"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Bachelor of Technology",
+        "institution": "University of Delhi",
+        "year": "2020"
+      }
+    ]
+  }

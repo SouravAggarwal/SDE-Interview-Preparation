@@ -1,0 +1,32 @@
+
+### Insights and Recommendations Report for Unit Sales Forecast (2025)
+
+#### Summary of EDA Findings:
+- Significant seasonal trends were observed in unit sales, with peaks during the holiday season and certain promotions.
+- Economic indicators such as gas prices and disposable income have moderate impacts on sales.
+- Promotions and marketing spend have a strong influence on increasing unit sales.
+
+#### Model Selection and Performance Comparison:
+- Multiple models were considered: ARIMA, SARIMA, and Random Forest.
+- The Random Forest model performed best, with optimized hyperparameters (300 trees, max depth of 3).
+- The Random Forest model showed the lowest error on the validation set (2024 data) and provided robust feature importance insights.
+
+#### Hyperparameter Optimization:
+- GridSearchCV and RandomizedSearchCV were attempted, but fallback manual tuning was performed.
+- The best model had 300 trees and a maximum depth of 3.
+
+#### Final Model Choice:
+- Random Forest was selected due to its superior performance (lower MSE and RMSE on the validation set) and ability to handle multivariate features effectively.
+
+#### Forecasting Insights for 2025:
+- Forecasted unit sales show increased sales during the summer months and holiday seasons, driven by promotions and favorable economic conditions.
+- There is a projected spike in sales in Q4, which aligns with previous years' trends.
+
+#### Business Recommendations:
+- Increase inventory in Q4 to meet the projected sales spike.
+- Invest more in promotions during the summer and Q4 to maximize sales.
+- Monitor economic conditions (e.g., disposable income) and adjust pricing strategies accordingly.
+
+#### Visual Insights:
+- Feature Importance: Key factors influencing the sales forecast include marketing spend, planned selling price, and promotional discounts.
+

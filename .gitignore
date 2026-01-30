@@ -1,4 +1,34 @@
-*.DS_Store
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.d/
+*.tfvars
+!terraform.tfvars
+!prod.tfvars
+
+# Lambda packages
+lambda-deployment.zip
+lambda-package/
+
+# Environment files
+.env
+.env.*
+
+# Node
+node_modules/
+out/
+.next/
+
+# Python
+__pycache__/
 *.pyc
-*ipynb_checkpoints
-*vevn
+.venv/
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store

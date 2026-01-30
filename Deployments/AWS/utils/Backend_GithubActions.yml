@@ -1,0 +1,51 @@
+---
+name: Deploy Backend Core Django Project on AWS EC2
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - Backend/**
+jobs:
+  deploy:
+    name: Deploy to EC2 on main branch push
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Debug SSH Key Setup
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.EC2_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.HOST_DNS }} >> ~/.ssh/known_hosts
+          ls -lah ~/.ssh
+          cat ~/.ssh/id_rsa | head -n 5
+          cat ~/.ssh/known_hosts
+
+      - name: Test SSH Connection (Not required)
+        run: |
+          ssh -i ~/.ssh/id_rsa -vvv -o StrictHostKeyChecking=no ec2-user@${{ secrets.HOST_DNS }} "echo 'SSH Connection Success!'"
+
+      - name: Deploy to Server 1
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.EC2_SSH_KEY }}
+          REMOTE_HOST: ${{ secrets.HOST_DNS }}
+          REMOTE_USER: ${{ secrets.EC2_USERNAME }}
+          TARGET: /home/ec2-user/TryOn/
+
+      - name: Executing remote ssh commands using ssh key
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST_DNS }}
+          username: ${{ secrets.EC2_USERNAME }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            source venv/bin/activate
+            cd TryOn/Backend/
+            pip install -r requirements.txt
+            python manage.py makemigrations
+            python manage.py migrate

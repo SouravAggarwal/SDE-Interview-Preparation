@@ -1,7 +1,0 @@
-Local commands to run docker:
-     - docker run -p 8080:8080 flask_demo serve 
-     - docker run --platform=linux/amd64 -it --rm \
-          -e AWS_ACCESS_KEY_ID=$(aws configure get aws_access_key_id) \
-          -e AWS_SECRET_ACCESS_KEY=$(aws configure get aws_secret_access_key) \
-          -e AWS_SESSION_TOKEN=$(aws configure get aws_session_token) \
-          -p 8080:8080 flask_demo:latest serve

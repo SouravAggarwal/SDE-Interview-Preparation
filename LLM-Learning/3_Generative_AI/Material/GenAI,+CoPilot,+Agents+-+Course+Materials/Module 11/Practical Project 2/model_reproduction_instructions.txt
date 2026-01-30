@@ -1,0 +1,30 @@
+
+### Model and Hyperparameters for Reproducing the Sales Forecasting Model
+
+**1. Data Cleaning and Transformation:**
+- Missing values: Replaced any missing data with zero (NaN handling).
+- Feature engineering: Inferred the 'month' value using 'week' and 'fiscal_year'.
+- Categorical encoding: Applied one-hot encoding to categorical features like 'product_category', 'store', and 'promotion'.
+
+**2. Features Used for Training:**
+- Temporal: 'fiscal_year', 'month', 'week', 'Fiscal Quarter'
+- Environmental: 'temperature', 'precipitation', 'natural_disaster'
+- Economic: 'Unemployment %', 'Core PCE YoY %', 'Fed Funds %', '30yr Mortgage %', 'Median US Home Sale Price', 'Real Disposable Personal Income', 'Avg US Gas Prices (Regular)', 'WTI Crude Oil Spot', 'Housing Starts', 'U of M Consumer Sentiment'
+- Product-related: 'marketing_spend', 'promotion', 'holiday', 'planned_avg_selling_price'
+
+**3. Final Hyperparameters:**
+- Model: **Random Forest Regressor**
+- Hyperparameters:
+  - Number of trees: 100
+  - Tree depth: 3
+
+**4. Training Methodology:**
+- Training data: 2020 to 2024.
+- Loss function: Mean Squared Error (MSE).
+- Random Forest model trained using scikit-learn, version 0.24.2.
+
+**5. Model-Specific Instructions:**
+- Libraries: `pandas`, `scikit-learn`, `matplotlib`.
+- The environment should have Python version 3.8 or higher.
+
+For full reproducibility, ensure that you apply the same preprocessing steps (such as handling missing values and encoding categorical data) as outlined in this document.

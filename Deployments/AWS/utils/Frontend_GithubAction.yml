@@ -1,0 +1,42 @@
+---
+name: Deploy Frontend Vue project to AWS S3 + CloudFront
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - Frontend/**
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@master
+
+      - name: Install Dependencies
+        run: npm install
+        working-directory: Frontend
+
+      - name: Build Vue App
+        run: npm run prod:build
+        working-directory: Frontend
+
+      - name: Deploy to S3
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          SOURCE_DIR: Frontend/dist
+
+      - name: Invalidate CloudFront Cache
+        run: >
+          aws cloudfront create-invalidation --distribution-id ${{
+          secrets.CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}

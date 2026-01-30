@@ -1,6 +1,0 @@
-pillow
-sagemaker
-flask
-boto3
-fastapi
-uvicorn
