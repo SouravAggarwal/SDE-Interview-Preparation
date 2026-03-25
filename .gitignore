@@ -32,3 +32,11 @@ uv.lock
 .idea/
 *.swp
 .DS_Store
+**/.DS_Store
+
+# Jupyter & ML Tools
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.gradio/
+*.log
+trie_output
